@@ -1,24 +1,8 @@
 1:"$Sreact.fragment"
-2:I[22076,["/_next/static/chunks/17b9qt9hyk7f1.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"I18nProvider"]
-3:I[22575,["/_next/static/chunks/17b9qt9hyk7f1.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"AppChrome"]
-4:I[39756,["/_next/static/chunks/17b9qt9hyk7f1.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
-5:I[37457,["/_next/static/chunks/17b9qt9hyk7f1.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
-7:I[97367,["/_next/static/chunks/17b9qt9hyk7f1.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
-8:"$Sreact.suspense"
-b:I[97367,["/_next/static/chunks/17b9qt9hyk7f1.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
-d:I[97367,["/_next/static/chunks/17b9qt9hyk7f1.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
-f:I[68027,["/_next/static/chunks/17b9qt9hyk7f1.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
-:HL["/_next/static/chunks/0hu6koatpjl-c.css","style"]
-:HL["/_next/static/media/07454f8ad8aaac57-s.p.0tqkxa-w3pk~c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"P":null,"c":["","legal"],"q":"","i":false,"f":[[["",{"children":["legal",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0hu6koatpjl-c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/17b9qt9hyk7f1.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"es","className":"nunito_4c270ad2-module__CZY4Ka__variable","children":["$","body",null,{"className":"nunito_4c270ad2-module__CZY4Ka__className app-body","children":["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","script","script-0",{"src":"/_next/static/chunks/0f.is4cu1dy~o.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$@a"]},null,false,null],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0hu6koatpjl-c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"kdz2bYhAOSMNAF4duFNRY"}
-10:[]
-a:"$W10"
-c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-11:I[27201,["/_next/static/chunks/17b9qt9hyk7f1.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
-9:null
-e:[["$","title","0",{"children":"Información legal | Ezivia"}],["$","meta","1",{"name":"description","content":"Consulta la política de privacidad y los términos de servicio oficiales de Ezivia, revisados por el equipo legal."}],["$","meta","2",{"name":"application-name","content":"Ezivia"}],["$","meta","3",{"name":"author","content":"Equipo Ezivia"}],["$","meta","4",{"name":"keywords","content":"ezivia,móviles sencillos,smartphone para mayores,android accesible,apoyo para familias,tecnología inclusiva,teléfono fácil,interfaz grande,accesibilidad senior,comunicación familiar"}],["$","meta","5",{"name":"creator","content":"Ezivia"}],["$","meta","6",{"name":"category","content":"accessibility"}],["$","link","7",{"rel":"canonical","href":"https://www.eazivi.com"}],["$","meta","8",{"property":"og:title","content":"Ezivia | Móviles Android sencillos para personas mayores"}],["$","meta","9",{"property":"og:description","content":"Simplificamos los móviles Android para que las personas mayores y sus familias disfruten de una experiencia tranquila, clara y segura."}],["$","meta","10",{"property":"og:url","content":"https://www.eazivi.com"}],["$","meta","11",{"property":"og:site_name","content":"Ezivia"}],["$","meta","12",{"property":"og:locale","content":"es_ES"}],["$","meta","13",{"property":"og:image","content":"https://www.eazivi.com/illustration-care.png"}],["$","meta","14",{"property":"og:image:width","content":"1200"}],["$","meta","15",{"property":"og:image:height","content":"630"}],["$","meta","16",{"property":"og:image:alt","content":"Persona mayor utilizando Ezivia en un teléfono Android"}],["$","meta","17",{"property":"og:type","content":"website"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:site","content":"@eziviaapp"}],["$","meta","20",{"name":"twitter:creator","content":"@eziviaapp"}],["$","meta","21",{"name":"twitter:title","content":"Ezivia | Android simple para personas mayores"}],["$","meta","22",{"name":"twitter:description","content":"Convierte cualquier Android en un móvil sencillo y humano para personas mayores y sus familias."}],["$","meta","23",{"name":"twitter:image","content":"https://www.eazivi.com/illustration-care.png"}],["$","link","24",{"rel":"shortcut icon","href":"/favicon.png","type":"image/png","sizes":"any"}],["$","link","25",{"rel":"icon","href":"/favicon.png","type":"image/png","sizes":"any"}],["$","link","26",{"rel":"apple-touch-icon","href":"/touch-icon.png","type":"image/png","sizes":"180x180"}],["$","$L11","27",{}]]
-12:I[8540,["/_next/static/chunks/17b9qt9hyk7f1.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0f.is4cu1dy~o.js"],"LegalClientPage"]
-13:Te24,﻿# Politica de privacidad de Ezivia
+2:I[8540,["/_next/static/chunks/17b9qt9hyk7f1.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0f.is4cu1dy~o.js"],"LegalClientPage"]
+2d:I[97367,["/_next/static/chunks/17b9qt9hyk7f1.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+2e:"$Sreact.suspense"
+3:Te21,# Politica de privacidad de Ezivia
 
 **Ultima actualizacion:** 16 de julio de 2024
 
@@ -101,6 +85,1350 @@ Aplicamos medidas tecnicas y organizativas para proteger la informacion (por eje
 Si hacemos cambios importantes, los avisaremos con al menos 15 dias de antelacion dentro de la aplicacion y en ezivia.com/legal.
 
 Si tienes dudas, escribenos a alex.casanova159@gmail.com.
+
+4:Tc81,# Ezivia Privacy Policy
+
+**Last updated:** July 16, 2024
+
+At Ezivia we protect the privacy of older adults and their caregivers. This policy explains what data we use, why we use it, and how you can request changes or deletion.
+
+### Quick summary
+
+- We only request the data needed to provide the service.
+- Information is stored in the European Union with security safeguards.
+- You can request correction or deletion of your data at any time.
+
+## 1. Data controller
+
+The controller is **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Spain).  
+Contact email: alex.casanova159@gmail.com  
+Privacy contact: privacidad@ezivia.com
+
+## 2. What data we collect
+
+We collect only what is necessary to operate the service:
+
+- Contact data for the older adult and trusted caregivers.
+- Device setup preferences (font size, shortcuts, contrast).
+- Reminders created in the app (for example medication or appointments).
+- Minimal technical data (device model, Android version, technical errors).
+- Anonymous aggregated usage data to improve accessibility.
+
+We do not collect biometric data or browsing history. Camera and microphone are only used when the related feature requires it and after permission is granted.
+
+## 3. Why we use data
+
+We process data to:
+
+1. Configure an easier Android launcher experience.
+2. Send reminders configured by family or trusted caregivers.
+3. Support communication between the older adult and their support network.
+4. Improve stability and accessibility in Ezivia.
+5. Meet legal and security obligations.
+
+We do not sell data and we do not use it for advertising.
+
+## 4. Legal basis
+
+Processing is based on informed user consent and, when applicable, legitimate interest to maintain service security.
+
+## 5. Data sharing
+
+Data is stored with EU-based infrastructure providers under confidentiality agreements.  
+Information is shared only when needed to provide the service.
+
+## 6. Retention period
+
+Data is kept while the account is active.  
+If deletion is requested, the account is removed and encrypted backups are retained for up to 30 days for technical and legal reasons.
+
+## 7. Your rights
+
+You can request access, correction, objection, restriction, portability, or deletion by writing to:
+
+- alex.casanova159@gmail.com
+- privacidad@ezivia.com
+
+You can also use the "Manage data" option in the app.  
+We respond within 30 days.
+
+### Authorized representatives
+
+If the older adult chooses, they may authorize a family member, trusted person, or legal guardian to manage data. This authorization can be revoked at any time.
+
+### Minors
+
+Ezivia is not intended for children under 16. If we detect an account belonging to a minor, it will be removed and legal guardians will be notified.
+
+## 8. Security
+
+We apply technical and organizational controls to protect information (for example encryption of sensitive data, access controls, and periodic security reviews).
+
+## 9. Changes to this policy
+
+If we make significant changes, we will notify users at least 15 days in advance inside the app and at ezivia.com/legal.
+
+If you have questions, write to alex.casanova159@gmail.com.
+
+5:Tc81,# Ezivia Privacy Policy
+
+**Last updated:** July 16, 2024
+
+At Ezivia we protect the privacy of older adults and their caregivers. This policy explains what data we use, why we use it, and how you can request changes or deletion.
+
+### Quick summary
+
+- We only request the data needed to provide the service.
+- Information is stored in the European Union with security safeguards.
+- You can request correction or deletion of your data at any time.
+
+## 1. Data controller
+
+The controller is **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Spain).  
+Contact email: alex.casanova159@gmail.com  
+Privacy contact: privacidad@ezivia.com
+
+## 2. What data we collect
+
+We collect only what is necessary to operate the service:
+
+- Contact data for the older adult and trusted caregivers.
+- Device setup preferences (font size, shortcuts, contrast).
+- Reminders created in the app (for example medication or appointments).
+- Minimal technical data (device model, Android version, technical errors).
+- Anonymous aggregated usage data to improve accessibility.
+
+We do not collect biometric data or browsing history. Camera and microphone are only used when the related feature requires it and after permission is granted.
+
+## 3. Why we use data
+
+We process data to:
+
+1. Configure an easier Android launcher experience.
+2. Send reminders configured by family or trusted caregivers.
+3. Support communication between the older adult and their support network.
+4. Improve stability and accessibility in Ezivia.
+5. Meet legal and security obligations.
+
+We do not sell data and we do not use it for advertising.
+
+## 4. Legal basis
+
+Processing is based on informed user consent and, when applicable, legitimate interest to maintain service security.
+
+## 5. Data sharing
+
+Data is stored with EU-based infrastructure providers under confidentiality agreements.  
+Information is shared only when needed to provide the service.
+
+## 6. Retention period
+
+Data is kept while the account is active.  
+If deletion is requested, the account is removed and encrypted backups are retained for up to 30 days for technical and legal reasons.
+
+## 7. Your rights
+
+You can request access, correction, objection, restriction, portability, or deletion by writing to:
+
+- alex.casanova159@gmail.com
+- privacidad@ezivia.com
+
+You can also use the "Manage data" option in the app.  
+We respond within 30 days.
+
+### Authorized representatives
+
+If the older adult chooses, they may authorize a family member, trusted person, or legal guardian to manage data. This authorization can be revoked at any time.
+
+### Minors
+
+Ezivia is not intended for children under 16. If we detect an account belonging to a minor, it will be removed and legal guardians will be notified.
+
+## 8. Security
+
+We apply technical and organizational controls to protect information (for example encryption of sensitive data, access controls, and periodic security reviews).
+
+## 9. Changes to this policy
+
+If we make significant changes, we will notify users at least 15 days in advance inside the app and at ezivia.com/legal.
+
+If you have questions, write to alex.casanova159@gmail.com.
+
+6:Tc81,# Ezivia Privacy Policy
+
+**Last updated:** July 16, 2024
+
+At Ezivia we protect the privacy of older adults and their caregivers. This policy explains what data we use, why we use it, and how you can request changes or deletion.
+
+### Quick summary
+
+- We only request the data needed to provide the service.
+- Information is stored in the European Union with security safeguards.
+- You can request correction or deletion of your data at any time.
+
+## 1. Data controller
+
+The controller is **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Spain).  
+Contact email: alex.casanova159@gmail.com  
+Privacy contact: privacidad@ezivia.com
+
+## 2. What data we collect
+
+We collect only what is necessary to operate the service:
+
+- Contact data for the older adult and trusted caregivers.
+- Device setup preferences (font size, shortcuts, contrast).
+- Reminders created in the app (for example medication or appointments).
+- Minimal technical data (device model, Android version, technical errors).
+- Anonymous aggregated usage data to improve accessibility.
+
+We do not collect biometric data or browsing history. Camera and microphone are only used when the related feature requires it and after permission is granted.
+
+## 3. Why we use data
+
+We process data to:
+
+1. Configure an easier Android launcher experience.
+2. Send reminders configured by family or trusted caregivers.
+3. Support communication between the older adult and their support network.
+4. Improve stability and accessibility in Ezivia.
+5. Meet legal and security obligations.
+
+We do not sell data and we do not use it for advertising.
+
+## 4. Legal basis
+
+Processing is based on informed user consent and, when applicable, legitimate interest to maintain service security.
+
+## 5. Data sharing
+
+Data is stored with EU-based infrastructure providers under confidentiality agreements.  
+Information is shared only when needed to provide the service.
+
+## 6. Retention period
+
+Data is kept while the account is active.  
+If deletion is requested, the account is removed and encrypted backups are retained for up to 30 days for technical and legal reasons.
+
+## 7. Your rights
+
+You can request access, correction, objection, restriction, portability, or deletion by writing to:
+
+- alex.casanova159@gmail.com
+- privacidad@ezivia.com
+
+You can also use the "Manage data" option in the app.  
+We respond within 30 days.
+
+### Authorized representatives
+
+If the older adult chooses, they may authorize a family member, trusted person, or legal guardian to manage data. This authorization can be revoked at any time.
+
+### Minors
+
+Ezivia is not intended for children under 16. If we detect an account belonging to a minor, it will be removed and legal guardians will be notified.
+
+## 8. Security
+
+We apply technical and organizational controls to protect information (for example encryption of sensitive data, access controls, and periodic security reviews).
+
+## 9. Changes to this policy
+
+If we make significant changes, we will notify users at least 15 days in advance inside the app and at ezivia.com/legal.
+
+If you have questions, write to alex.casanova159@gmail.com.
+
+7:Tc81,# Ezivia Privacy Policy
+
+**Last updated:** July 16, 2024
+
+At Ezivia we protect the privacy of older adults and their caregivers. This policy explains what data we use, why we use it, and how you can request changes or deletion.
+
+### Quick summary
+
+- We only request the data needed to provide the service.
+- Information is stored in the European Union with security safeguards.
+- You can request correction or deletion of your data at any time.
+
+## 1. Data controller
+
+The controller is **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Spain).  
+Contact email: alex.casanova159@gmail.com  
+Privacy contact: privacidad@ezivia.com
+
+## 2. What data we collect
+
+We collect only what is necessary to operate the service:
+
+- Contact data for the older adult and trusted caregivers.
+- Device setup preferences (font size, shortcuts, contrast).
+- Reminders created in the app (for example medication or appointments).
+- Minimal technical data (device model, Android version, technical errors).
+- Anonymous aggregated usage data to improve accessibility.
+
+We do not collect biometric data or browsing history. Camera and microphone are only used when the related feature requires it and after permission is granted.
+
+## 3. Why we use data
+
+We process data to:
+
+1. Configure an easier Android launcher experience.
+2. Send reminders configured by family or trusted caregivers.
+3. Support communication between the older adult and their support network.
+4. Improve stability and accessibility in Ezivia.
+5. Meet legal and security obligations.
+
+We do not sell data and we do not use it for advertising.
+
+## 4. Legal basis
+
+Processing is based on informed user consent and, when applicable, legitimate interest to maintain service security.
+
+## 5. Data sharing
+
+Data is stored with EU-based infrastructure providers under confidentiality agreements.  
+Information is shared only when needed to provide the service.
+
+## 6. Retention period
+
+Data is kept while the account is active.  
+If deletion is requested, the account is removed and encrypted backups are retained for up to 30 days for technical and legal reasons.
+
+## 7. Your rights
+
+You can request access, correction, objection, restriction, portability, or deletion by writing to:
+
+- alex.casanova159@gmail.com
+- privacidad@ezivia.com
+
+You can also use the "Manage data" option in the app.  
+We respond within 30 days.
+
+### Authorized representatives
+
+If the older adult chooses, they may authorize a family member, trusted person, or legal guardian to manage data. This authorization can be revoked at any time.
+
+### Minors
+
+Ezivia is not intended for children under 16. If we detect an account belonging to a minor, it will be removed and legal guardians will be notified.
+
+## 8. Security
+
+We apply technical and organizational controls to protect information (for example encryption of sensitive data, access controls, and periodic security reviews).
+
+## 9. Changes to this policy
+
+If we make significant changes, we will notify users at least 15 days in advance inside the app and at ezivia.com/legal.
+
+If you have questions, write to alex.casanova159@gmail.com.
+
+8:Tc81,# Ezivia Privacy Policy
+
+**Last updated:** July 16, 2024
+
+At Ezivia we protect the privacy of older adults and their caregivers. This policy explains what data we use, why we use it, and how you can request changes or deletion.
+
+### Quick summary
+
+- We only request the data needed to provide the service.
+- Information is stored in the European Union with security safeguards.
+- You can request correction or deletion of your data at any time.
+
+## 1. Data controller
+
+The controller is **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Spain).  
+Contact email: alex.casanova159@gmail.com  
+Privacy contact: privacidad@ezivia.com
+
+## 2. What data we collect
+
+We collect only what is necessary to operate the service:
+
+- Contact data for the older adult and trusted caregivers.
+- Device setup preferences (font size, shortcuts, contrast).
+- Reminders created in the app (for example medication or appointments).
+- Minimal technical data (device model, Android version, technical errors).
+- Anonymous aggregated usage data to improve accessibility.
+
+We do not collect biometric data or browsing history. Camera and microphone are only used when the related feature requires it and after permission is granted.
+
+## 3. Why we use data
+
+We process data to:
+
+1. Configure an easier Android launcher experience.
+2. Send reminders configured by family or trusted caregivers.
+3. Support communication between the older adult and their support network.
+4. Improve stability and accessibility in Ezivia.
+5. Meet legal and security obligations.
+
+We do not sell data and we do not use it for advertising.
+
+## 4. Legal basis
+
+Processing is based on informed user consent and, when applicable, legitimate interest to maintain service security.
+
+## 5. Data sharing
+
+Data is stored with EU-based infrastructure providers under confidentiality agreements.  
+Information is shared only when needed to provide the service.
+
+## 6. Retention period
+
+Data is kept while the account is active.  
+If deletion is requested, the account is removed and encrypted backups are retained for up to 30 days for technical and legal reasons.
+
+## 7. Your rights
+
+You can request access, correction, objection, restriction, portability, or deletion by writing to:
+
+- alex.casanova159@gmail.com
+- privacidad@ezivia.com
+
+You can also use the "Manage data" option in the app.  
+We respond within 30 days.
+
+### Authorized representatives
+
+If the older adult chooses, they may authorize a family member, trusted person, or legal guardian to manage data. This authorization can be revoked at any time.
+
+### Minors
+
+Ezivia is not intended for children under 16. If we detect an account belonging to a minor, it will be removed and legal guardians will be notified.
+
+## 8. Security
+
+We apply technical and organizational controls to protect information (for example encryption of sensitive data, access controls, and periodic security reviews).
+
+## 9. Changes to this policy
+
+If we make significant changes, we will notify users at least 15 days in advance inside the app and at ezivia.com/legal.
+
+If you have questions, write to alex.casanova159@gmail.com.
+
+9:Tc81,# Ezivia Privacy Policy
+
+**Last updated:** July 16, 2024
+
+At Ezivia we protect the privacy of older adults and their caregivers. This policy explains what data we use, why we use it, and how you can request changes or deletion.
+
+### Quick summary
+
+- We only request the data needed to provide the service.
+- Information is stored in the European Union with security safeguards.
+- You can request correction or deletion of your data at any time.
+
+## 1. Data controller
+
+The controller is **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Spain).  
+Contact email: alex.casanova159@gmail.com  
+Privacy contact: privacidad@ezivia.com
+
+## 2. What data we collect
+
+We collect only what is necessary to operate the service:
+
+- Contact data for the older adult and trusted caregivers.
+- Device setup preferences (font size, shortcuts, contrast).
+- Reminders created in the app (for example medication or appointments).
+- Minimal technical data (device model, Android version, technical errors).
+- Anonymous aggregated usage data to improve accessibility.
+
+We do not collect biometric data or browsing history. Camera and microphone are only used when the related feature requires it and after permission is granted.
+
+## 3. Why we use data
+
+We process data to:
+
+1. Configure an easier Android launcher experience.
+2. Send reminders configured by family or trusted caregivers.
+3. Support communication between the older adult and their support network.
+4. Improve stability and accessibility in Ezivia.
+5. Meet legal and security obligations.
+
+We do not sell data and we do not use it for advertising.
+
+## 4. Legal basis
+
+Processing is based on informed user consent and, when applicable, legitimate interest to maintain service security.
+
+## 5. Data sharing
+
+Data is stored with EU-based infrastructure providers under confidentiality agreements.  
+Information is shared only when needed to provide the service.
+
+## 6. Retention period
+
+Data is kept while the account is active.  
+If deletion is requested, the account is removed and encrypted backups are retained for up to 30 days for technical and legal reasons.
+
+## 7. Your rights
+
+You can request access, correction, objection, restriction, portability, or deletion by writing to:
+
+- alex.casanova159@gmail.com
+- privacidad@ezivia.com
+
+You can also use the "Manage data" option in the app.  
+We respond within 30 days.
+
+### Authorized representatives
+
+If the older adult chooses, they may authorize a family member, trusted person, or legal guardian to manage data. This authorization can be revoked at any time.
+
+### Minors
+
+Ezivia is not intended for children under 16. If we detect an account belonging to a minor, it will be removed and legal guardians will be notified.
+
+## 8. Security
+
+We apply technical and organizational controls to protect information (for example encryption of sensitive data, access controls, and periodic security reviews).
+
+## 9. Changes to this policy
+
+If we make significant changes, we will notify users at least 15 days in advance inside the app and at ezivia.com/legal.
+
+If you have questions, write to alex.casanova159@gmail.com.
+
+a:Tc81,# Ezivia Privacy Policy
+
+**Last updated:** July 16, 2024
+
+At Ezivia we protect the privacy of older adults and their caregivers. This policy explains what data we use, why we use it, and how you can request changes or deletion.
+
+### Quick summary
+
+- We only request the data needed to provide the service.
+- Information is stored in the European Union with security safeguards.
+- You can request correction or deletion of your data at any time.
+
+## 1. Data controller
+
+The controller is **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Spain).  
+Contact email: alex.casanova159@gmail.com  
+Privacy contact: privacidad@ezivia.com
+
+## 2. What data we collect
+
+We collect only what is necessary to operate the service:
+
+- Contact data for the older adult and trusted caregivers.
+- Device setup preferences (font size, shortcuts, contrast).
+- Reminders created in the app (for example medication or appointments).
+- Minimal technical data (device model, Android version, technical errors).
+- Anonymous aggregated usage data to improve accessibility.
+
+We do not collect biometric data or browsing history. Camera and microphone are only used when the related feature requires it and after permission is granted.
+
+## 3. Why we use data
+
+We process data to:
+
+1. Configure an easier Android launcher experience.
+2. Send reminders configured by family or trusted caregivers.
+3. Support communication between the older adult and their support network.
+4. Improve stability and accessibility in Ezivia.
+5. Meet legal and security obligations.
+
+We do not sell data and we do not use it for advertising.
+
+## 4. Legal basis
+
+Processing is based on informed user consent and, when applicable, legitimate interest to maintain service security.
+
+## 5. Data sharing
+
+Data is stored with EU-based infrastructure providers under confidentiality agreements.  
+Information is shared only when needed to provide the service.
+
+## 6. Retention period
+
+Data is kept while the account is active.  
+If deletion is requested, the account is removed and encrypted backups are retained for up to 30 days for technical and legal reasons.
+
+## 7. Your rights
+
+You can request access, correction, objection, restriction, portability, or deletion by writing to:
+
+- alex.casanova159@gmail.com
+- privacidad@ezivia.com
+
+You can also use the "Manage data" option in the app.  
+We respond within 30 days.
+
+### Authorized representatives
+
+If the older adult chooses, they may authorize a family member, trusted person, or legal guardian to manage data. This authorization can be revoked at any time.
+
+### Minors
+
+Ezivia is not intended for children under 16. If we detect an account belonging to a minor, it will be removed and legal guardians will be notified.
+
+## 8. Security
+
+We apply technical and organizational controls to protect information (for example encryption of sensitive data, access controls, and periodic security reviews).
+
+## 9. Changes to this policy
+
+If we make significant changes, we will notify users at least 15 days in advance inside the app and at ezivia.com/legal.
+
+If you have questions, write to alex.casanova159@gmail.com.
+
+b:Tc81,# Ezivia Privacy Policy
+
+**Last updated:** July 16, 2024
+
+At Ezivia we protect the privacy of older adults and their caregivers. This policy explains what data we use, why we use it, and how you can request changes or deletion.
+
+### Quick summary
+
+- We only request the data needed to provide the service.
+- Information is stored in the European Union with security safeguards.
+- You can request correction or deletion of your data at any time.
+
+## 1. Data controller
+
+The controller is **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Spain).  
+Contact email: alex.casanova159@gmail.com  
+Privacy contact: privacidad@ezivia.com
+
+## 2. What data we collect
+
+We collect only what is necessary to operate the service:
+
+- Contact data for the older adult and trusted caregivers.
+- Device setup preferences (font size, shortcuts, contrast).
+- Reminders created in the app (for example medication or appointments).
+- Minimal technical data (device model, Android version, technical errors).
+- Anonymous aggregated usage data to improve accessibility.
+
+We do not collect biometric data or browsing history. Camera and microphone are only used when the related feature requires it and after permission is granted.
+
+## 3. Why we use data
+
+We process data to:
+
+1. Configure an easier Android launcher experience.
+2. Send reminders configured by family or trusted caregivers.
+3. Support communication between the older adult and their support network.
+4. Improve stability and accessibility in Ezivia.
+5. Meet legal and security obligations.
+
+We do not sell data and we do not use it for advertising.
+
+## 4. Legal basis
+
+Processing is based on informed user consent and, when applicable, legitimate interest to maintain service security.
+
+## 5. Data sharing
+
+Data is stored with EU-based infrastructure providers under confidentiality agreements.  
+Information is shared only when needed to provide the service.
+
+## 6. Retention period
+
+Data is kept while the account is active.  
+If deletion is requested, the account is removed and encrypted backups are retained for up to 30 days for technical and legal reasons.
+
+## 7. Your rights
+
+You can request access, correction, objection, restriction, portability, or deletion by writing to:
+
+- alex.casanova159@gmail.com
+- privacidad@ezivia.com
+
+You can also use the "Manage data" option in the app.  
+We respond within 30 days.
+
+### Authorized representatives
+
+If the older adult chooses, they may authorize a family member, trusted person, or legal guardian to manage data. This authorization can be revoked at any time.
+
+### Minors
+
+Ezivia is not intended for children under 16. If we detect an account belonging to a minor, it will be removed and legal guardians will be notified.
+
+## 8. Security
+
+We apply technical and organizational controls to protect information (for example encryption of sensitive data, access controls, and periodic security reviews).
+
+## 9. Changes to this policy
+
+If we make significant changes, we will notify users at least 15 days in advance inside the app and at ezivia.com/legal.
+
+If you have questions, write to alex.casanova159@gmail.com.
+
+c:Tc81,# Ezivia Privacy Policy
+
+**Last updated:** July 16, 2024
+
+At Ezivia we protect the privacy of older adults and their caregivers. This policy explains what data we use, why we use it, and how you can request changes or deletion.
+
+### Quick summary
+
+- We only request the data needed to provide the service.
+- Information is stored in the European Union with security safeguards.
+- You can request correction or deletion of your data at any time.
+
+## 1. Data controller
+
+The controller is **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Spain).  
+Contact email: alex.casanova159@gmail.com  
+Privacy contact: privacidad@ezivia.com
+
+## 2. What data we collect
+
+We collect only what is necessary to operate the service:
+
+- Contact data for the older adult and trusted caregivers.
+- Device setup preferences (font size, shortcuts, contrast).
+- Reminders created in the app (for example medication or appointments).
+- Minimal technical data (device model, Android version, technical errors).
+- Anonymous aggregated usage data to improve accessibility.
+
+We do not collect biometric data or browsing history. Camera and microphone are only used when the related feature requires it and after permission is granted.
+
+## 3. Why we use data
+
+We process data to:
+
+1. Configure an easier Android launcher experience.
+2. Send reminders configured by family or trusted caregivers.
+3. Support communication between the older adult and their support network.
+4. Improve stability and accessibility in Ezivia.
+5. Meet legal and security obligations.
+
+We do not sell data and we do not use it for advertising.
+
+## 4. Legal basis
+
+Processing is based on informed user consent and, when applicable, legitimate interest to maintain service security.
+
+## 5. Data sharing
+
+Data is stored with EU-based infrastructure providers under confidentiality agreements.  
+Information is shared only when needed to provide the service.
+
+## 6. Retention period
+
+Data is kept while the account is active.  
+If deletion is requested, the account is removed and encrypted backups are retained for up to 30 days for technical and legal reasons.
+
+## 7. Your rights
+
+You can request access, correction, objection, restriction, portability, or deletion by writing to:
+
+- alex.casanova159@gmail.com
+- privacidad@ezivia.com
+
+You can also use the "Manage data" option in the app.  
+We respond within 30 days.
+
+### Authorized representatives
+
+If the older adult chooses, they may authorize a family member, trusted person, or legal guardian to manage data. This authorization can be revoked at any time.
+
+### Minors
+
+Ezivia is not intended for children under 16. If we detect an account belonging to a minor, it will be removed and legal guardians will be notified.
+
+## 8. Security
+
+We apply technical and organizational controls to protect information (for example encryption of sensitive data, access controls, and periodic security reviews).
+
+## 9. Changes to this policy
+
+If we make significant changes, we will notify users at least 15 days in advance inside the app and at ezivia.com/legal.
+
+If you have questions, write to alex.casanova159@gmail.com.
+
+d:Tc81,# Ezivia Privacy Policy
+
+**Last updated:** July 16, 2024
+
+At Ezivia we protect the privacy of older adults and their caregivers. This policy explains what data we use, why we use it, and how you can request changes or deletion.
+
+### Quick summary
+
+- We only request the data needed to provide the service.
+- Information is stored in the European Union with security safeguards.
+- You can request correction or deletion of your data at any time.
+
+## 1. Data controller
+
+The controller is **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Spain).  
+Contact email: alex.casanova159@gmail.com  
+Privacy contact: privacidad@ezivia.com
+
+## 2. What data we collect
+
+We collect only what is necessary to operate the service:
+
+- Contact data for the older adult and trusted caregivers.
+- Device setup preferences (font size, shortcuts, contrast).
+- Reminders created in the app (for example medication or appointments).
+- Minimal technical data (device model, Android version, technical errors).
+- Anonymous aggregated usage data to improve accessibility.
+
+We do not collect biometric data or browsing history. Camera and microphone are only used when the related feature requires it and after permission is granted.
+
+## 3. Why we use data
+
+We process data to:
+
+1. Configure an easier Android launcher experience.
+2. Send reminders configured by family or trusted caregivers.
+3. Support communication between the older adult and their support network.
+4. Improve stability and accessibility in Ezivia.
+5. Meet legal and security obligations.
+
+We do not sell data and we do not use it for advertising.
+
+## 4. Legal basis
+
+Processing is based on informed user consent and, when applicable, legitimate interest to maintain service security.
+
+## 5. Data sharing
+
+Data is stored with EU-based infrastructure providers under confidentiality agreements.  
+Information is shared only when needed to provide the service.
+
+## 6. Retention period
+
+Data is kept while the account is active.  
+If deletion is requested, the account is removed and encrypted backups are retained for up to 30 days for technical and legal reasons.
+
+## 7. Your rights
+
+You can request access, correction, objection, restriction, portability, or deletion by writing to:
+
+- alex.casanova159@gmail.com
+- privacidad@ezivia.com
+
+You can also use the "Manage data" option in the app.  
+We respond within 30 days.
+
+### Authorized representatives
+
+If the older adult chooses, they may authorize a family member, trusted person, or legal guardian to manage data. This authorization can be revoked at any time.
+
+### Minors
+
+Ezivia is not intended for children under 16. If we detect an account belonging to a minor, it will be removed and legal guardians will be notified.
+
+## 8. Security
+
+We apply technical and organizational controls to protect information (for example encryption of sensitive data, access controls, and periodic security reviews).
+
+## 9. Changes to this policy
+
+If we make significant changes, we will notify users at least 15 days in advance inside the app and at ezivia.com/legal.
+
+If you have questions, write to alex.casanova159@gmail.com.
+
+e:Tc81,# Ezivia Privacy Policy
+
+**Last updated:** July 16, 2024
+
+At Ezivia we protect the privacy of older adults and their caregivers. This policy explains what data we use, why we use it, and how you can request changes or deletion.
+
+### Quick summary
+
+- We only request the data needed to provide the service.
+- Information is stored in the European Union with security safeguards.
+- You can request correction or deletion of your data at any time.
+
+## 1. Data controller
+
+The controller is **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Spain).  
+Contact email: alex.casanova159@gmail.com  
+Privacy contact: privacidad@ezivia.com
+
+## 2. What data we collect
+
+We collect only what is necessary to operate the service:
+
+- Contact data for the older adult and trusted caregivers.
+- Device setup preferences (font size, shortcuts, contrast).
+- Reminders created in the app (for example medication or appointments).
+- Minimal technical data (device model, Android version, technical errors).
+- Anonymous aggregated usage data to improve accessibility.
+
+We do not collect biometric data or browsing history. Camera and microphone are only used when the related feature requires it and after permission is granted.
+
+## 3. Why we use data
+
+We process data to:
+
+1. Configure an easier Android launcher experience.
+2. Send reminders configured by family or trusted caregivers.
+3. Support communication between the older adult and their support network.
+4. Improve stability and accessibility in Ezivia.
+5. Meet legal and security obligations.
+
+We do not sell data and we do not use it for advertising.
+
+## 4. Legal basis
+
+Processing is based on informed user consent and, when applicable, legitimate interest to maintain service security.
+
+## 5. Data sharing
+
+Data is stored with EU-based infrastructure providers under confidentiality agreements.  
+Information is shared only when needed to provide the service.
+
+## 6. Retention period
+
+Data is kept while the account is active.  
+If deletion is requested, the account is removed and encrypted backups are retained for up to 30 days for technical and legal reasons.
+
+## 7. Your rights
+
+You can request access, correction, objection, restriction, portability, or deletion by writing to:
+
+- alex.casanova159@gmail.com
+- privacidad@ezivia.com
+
+You can also use the "Manage data" option in the app.  
+We respond within 30 days.
+
+### Authorized representatives
+
+If the older adult chooses, they may authorize a family member, trusted person, or legal guardian to manage data. This authorization can be revoked at any time.
+
+### Minors
+
+Ezivia is not intended for children under 16. If we detect an account belonging to a minor, it will be removed and legal guardians will be notified.
+
+## 8. Security
+
+We apply technical and organizational controls to protect information (for example encryption of sensitive data, access controls, and periodic security reviews).
+
+## 9. Changes to this policy
+
+If we make significant changes, we will notify users at least 15 days in advance inside the app and at ezivia.com/legal.
+
+If you have questions, write to alex.casanova159@gmail.com.
+
+f:Tc81,# Ezivia Privacy Policy
+
+**Last updated:** July 16, 2024
+
+At Ezivia we protect the privacy of older adults and their caregivers. This policy explains what data we use, why we use it, and how you can request changes or deletion.
+
+### Quick summary
+
+- We only request the data needed to provide the service.
+- Information is stored in the European Union with security safeguards.
+- You can request correction or deletion of your data at any time.
+
+## 1. Data controller
+
+The controller is **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Spain).  
+Contact email: alex.casanova159@gmail.com  
+Privacy contact: privacidad@ezivia.com
+
+## 2. What data we collect
+
+We collect only what is necessary to operate the service:
+
+- Contact data for the older adult and trusted caregivers.
+- Device setup preferences (font size, shortcuts, contrast).
+- Reminders created in the app (for example medication or appointments).
+- Minimal technical data (device model, Android version, technical errors).
+- Anonymous aggregated usage data to improve accessibility.
+
+We do not collect biometric data or browsing history. Camera and microphone are only used when the related feature requires it and after permission is granted.
+
+## 3. Why we use data
+
+We process data to:
+
+1. Configure an easier Android launcher experience.
+2. Send reminders configured by family or trusted caregivers.
+3. Support communication between the older adult and their support network.
+4. Improve stability and accessibility in Ezivia.
+5. Meet legal and security obligations.
+
+We do not sell data and we do not use it for advertising.
+
+## 4. Legal basis
+
+Processing is based on informed user consent and, when applicable, legitimate interest to maintain service security.
+
+## 5. Data sharing
+
+Data is stored with EU-based infrastructure providers under confidentiality agreements.  
+Information is shared only when needed to provide the service.
+
+## 6. Retention period
+
+Data is kept while the account is active.  
+If deletion is requested, the account is removed and encrypted backups are retained for up to 30 days for technical and legal reasons.
+
+## 7. Your rights
+
+You can request access, correction, objection, restriction, portability, or deletion by writing to:
+
+- alex.casanova159@gmail.com
+- privacidad@ezivia.com
+
+You can also use the "Manage data" option in the app.  
+We respond within 30 days.
+
+### Authorized representatives
+
+If the older adult chooses, they may authorize a family member, trusted person, or legal guardian to manage data. This authorization can be revoked at any time.
+
+### Minors
+
+Ezivia is not intended for children under 16. If we detect an account belonging to a minor, it will be removed and legal guardians will be notified.
+
+## 8. Security
+
+We apply technical and organizational controls to protect information (for example encryption of sensitive data, access controls, and periodic security reviews).
+
+## 9. Changes to this policy
+
+If we make significant changes, we will notify users at least 15 days in advance inside the app and at ezivia.com/legal.
+
+If you have questions, write to alex.casanova159@gmail.com.
+
+10:Tc81,# Ezivia Privacy Policy
+
+**Last updated:** July 16, 2024
+
+At Ezivia we protect the privacy of older adults and their caregivers. This policy explains what data we use, why we use it, and how you can request changes or deletion.
+
+### Quick summary
+
+- We only request the data needed to provide the service.
+- Information is stored in the European Union with security safeguards.
+- You can request correction or deletion of your data at any time.
+
+## 1. Data controller
+
+The controller is **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Spain).  
+Contact email: alex.casanova159@gmail.com  
+Privacy contact: privacidad@ezivia.com
+
+## 2. What data we collect
+
+We collect only what is necessary to operate the service:
+
+- Contact data for the older adult and trusted caregivers.
+- Device setup preferences (font size, shortcuts, contrast).
+- Reminders created in the app (for example medication or appointments).
+- Minimal technical data (device model, Android version, technical errors).
+- Anonymous aggregated usage data to improve accessibility.
+
+We do not collect biometric data or browsing history. Camera and microphone are only used when the related feature requires it and after permission is granted.
+
+## 3. Why we use data
+
+We process data to:
+
+1. Configure an easier Android launcher experience.
+2. Send reminders configured by family or trusted caregivers.
+3. Support communication between the older adult and their support network.
+4. Improve stability and accessibility in Ezivia.
+5. Meet legal and security obligations.
+
+We do not sell data and we do not use it for advertising.
+
+## 4. Legal basis
+
+Processing is based on informed user consent and, when applicable, legitimate interest to maintain service security.
+
+## 5. Data sharing
+
+Data is stored with EU-based infrastructure providers under confidentiality agreements.  
+Information is shared only when needed to provide the service.
+
+## 6. Retention period
+
+Data is kept while the account is active.  
+If deletion is requested, the account is removed and encrypted backups are retained for up to 30 days for technical and legal reasons.
+
+## 7. Your rights
+
+You can request access, correction, objection, restriction, portability, or deletion by writing to:
+
+- alex.casanova159@gmail.com
+- privacidad@ezivia.com
+
+You can also use the "Manage data" option in the app.  
+We respond within 30 days.
+
+### Authorized representatives
+
+If the older adult chooses, they may authorize a family member, trusted person, or legal guardian to manage data. This authorization can be revoked at any time.
+
+### Minors
+
+Ezivia is not intended for children under 16. If we detect an account belonging to a minor, it will be removed and legal guardians will be notified.
+
+## 8. Security
+
+We apply technical and organizational controls to protect information (for example encryption of sensitive data, access controls, and periodic security reviews).
+
+## 9. Changes to this policy
+
+If we make significant changes, we will notify users at least 15 days in advance inside the app and at ezivia.com/legal.
+
+If you have questions, write to alex.casanova159@gmail.com.
+
+11:Tc81,# Ezivia Privacy Policy
+
+**Last updated:** July 16, 2024
+
+At Ezivia we protect the privacy of older adults and their caregivers. This policy explains what data we use, why we use it, and how you can request changes or deletion.
+
+### Quick summary
+
+- We only request the data needed to provide the service.
+- Information is stored in the European Union with security safeguards.
+- You can request correction or deletion of your data at any time.
+
+## 1. Data controller
+
+The controller is **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Spain).  
+Contact email: alex.casanova159@gmail.com  
+Privacy contact: privacidad@ezivia.com
+
+## 2. What data we collect
+
+We collect only what is necessary to operate the service:
+
+- Contact data for the older adult and trusted caregivers.
+- Device setup preferences (font size, shortcuts, contrast).
+- Reminders created in the app (for example medication or appointments).
+- Minimal technical data (device model, Android version, technical errors).
+- Anonymous aggregated usage data to improve accessibility.
+
+We do not collect biometric data or browsing history. Camera and microphone are only used when the related feature requires it and after permission is granted.
+
+## 3. Why we use data
+
+We process data to:
+
+1. Configure an easier Android launcher experience.
+2. Send reminders configured by family or trusted caregivers.
+3. Support communication between the older adult and their support network.
+4. Improve stability and accessibility in Ezivia.
+5. Meet legal and security obligations.
+
+We do not sell data and we do not use it for advertising.
+
+## 4. Legal basis
+
+Processing is based on informed user consent and, when applicable, legitimate interest to maintain service security.
+
+## 5. Data sharing
+
+Data is stored with EU-based infrastructure providers under confidentiality agreements.  
+Information is shared only when needed to provide the service.
+
+## 6. Retention period
+
+Data is kept while the account is active.  
+If deletion is requested, the account is removed and encrypted backups are retained for up to 30 days for technical and legal reasons.
+
+## 7. Your rights
+
+You can request access, correction, objection, restriction, portability, or deletion by writing to:
+
+- alex.casanova159@gmail.com
+- privacidad@ezivia.com
+
+You can also use the "Manage data" option in the app.  
+We respond within 30 days.
+
+### Authorized representatives
+
+If the older adult chooses, they may authorize a family member, trusted person, or legal guardian to manage data. This authorization can be revoked at any time.
+
+### Minors
+
+Ezivia is not intended for children under 16. If we detect an account belonging to a minor, it will be removed and legal guardians will be notified.
+
+## 8. Security
+
+We apply technical and organizational controls to protect information (for example encryption of sensitive data, access controls, and periodic security reviews).
+
+## 9. Changes to this policy
+
+If we make significant changes, we will notify users at least 15 days in advance inside the app and at ezivia.com/legal.
+
+If you have questions, write to alex.casanova159@gmail.com.
+
+12:Tc81,# Ezivia Privacy Policy
+
+**Last updated:** July 16, 2024
+
+At Ezivia we protect the privacy of older adults and their caregivers. This policy explains what data we use, why we use it, and how you can request changes or deletion.
+
+### Quick summary
+
+- We only request the data needed to provide the service.
+- Information is stored in the European Union with security safeguards.
+- You can request correction or deletion of your data at any time.
+
+## 1. Data controller
+
+The controller is **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Spain).  
+Contact email: alex.casanova159@gmail.com  
+Privacy contact: privacidad@ezivia.com
+
+## 2. What data we collect
+
+We collect only what is necessary to operate the service:
+
+- Contact data for the older adult and trusted caregivers.
+- Device setup preferences (font size, shortcuts, contrast).
+- Reminders created in the app (for example medication or appointments).
+- Minimal technical data (device model, Android version, technical errors).
+- Anonymous aggregated usage data to improve accessibility.
+
+We do not collect biometric data or browsing history. Camera and microphone are only used when the related feature requires it and after permission is granted.
+
+## 3. Why we use data
+
+We process data to:
+
+1. Configure an easier Android launcher experience.
+2. Send reminders configured by family or trusted caregivers.
+3. Support communication between the older adult and their support network.
+4. Improve stability and accessibility in Ezivia.
+5. Meet legal and security obligations.
+
+We do not sell data and we do not use it for advertising.
+
+## 4. Legal basis
+
+Processing is based on informed user consent and, when applicable, legitimate interest to maintain service security.
+
+## 5. Data sharing
+
+Data is stored with EU-based infrastructure providers under confidentiality agreements.  
+Information is shared only when needed to provide the service.
+
+## 6. Retention period
+
+Data is kept while the account is active.  
+If deletion is requested, the account is removed and encrypted backups are retained for up to 30 days for technical and legal reasons.
+
+## 7. Your rights
+
+You can request access, correction, objection, restriction, portability, or deletion by writing to:
+
+- alex.casanova159@gmail.com
+- privacidad@ezivia.com
+
+You can also use the "Manage data" option in the app.  
+We respond within 30 days.
+
+### Authorized representatives
+
+If the older adult chooses, they may authorize a family member, trusted person, or legal guardian to manage data. This authorization can be revoked at any time.
+
+### Minors
+
+Ezivia is not intended for children under 16. If we detect an account belonging to a minor, it will be removed and legal guardians will be notified.
+
+## 8. Security
+
+We apply technical and organizational controls to protect information (for example encryption of sensitive data, access controls, and periodic security reviews).
+
+## 9. Changes to this policy
+
+If we make significant changes, we will notify users at least 15 days in advance inside the app and at ezivia.com/legal.
+
+If you have questions, write to alex.casanova159@gmail.com.
+
+13:Tc81,# Ezivia Privacy Policy
+
+**Last updated:** July 16, 2024
+
+At Ezivia we protect the privacy of older adults and their caregivers. This policy explains what data we use, why we use it, and how you can request changes or deletion.
+
+### Quick summary
+
+- We only request the data needed to provide the service.
+- Information is stored in the European Union with security safeguards.
+- You can request correction or deletion of your data at any time.
+
+## 1. Data controller
+
+The controller is **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Spain).  
+Contact email: alex.casanova159@gmail.com  
+Privacy contact: privacidad@ezivia.com
+
+## 2. What data we collect
+
+We collect only what is necessary to operate the service:
+
+- Contact data for the older adult and trusted caregivers.
+- Device setup preferences (font size, shortcuts, contrast).
+- Reminders created in the app (for example medication or appointments).
+- Minimal technical data (device model, Android version, technical errors).
+- Anonymous aggregated usage data to improve accessibility.
+
+We do not collect biometric data or browsing history. Camera and microphone are only used when the related feature requires it and after permission is granted.
+
+## 3. Why we use data
+
+We process data to:
+
+1. Configure an easier Android launcher experience.
+2. Send reminders configured by family or trusted caregivers.
+3. Support communication between the older adult and their support network.
+4. Improve stability and accessibility in Ezivia.
+5. Meet legal and security obligations.
+
+We do not sell data and we do not use it for advertising.
+
+## 4. Legal basis
+
+Processing is based on informed user consent and, when applicable, legitimate interest to maintain service security.
+
+## 5. Data sharing
+
+Data is stored with EU-based infrastructure providers under confidentiality agreements.  
+Information is shared only when needed to provide the service.
+
+## 6. Retention period
+
+Data is kept while the account is active.  
+If deletion is requested, the account is removed and encrypted backups are retained for up to 30 days for technical and legal reasons.
+
+## 7. Your rights
+
+You can request access, correction, objection, restriction, portability, or deletion by writing to:
+
+- alex.casanova159@gmail.com
+- privacidad@ezivia.com
+
+You can also use the "Manage data" option in the app.  
+We respond within 30 days.
+
+### Authorized representatives
+
+If the older adult chooses, they may authorize a family member, trusted person, or legal guardian to manage data. This authorization can be revoked at any time.
+
+### Minors
+
+Ezivia is not intended for children under 16. If we detect an account belonging to a minor, it will be removed and legal guardians will be notified.
+
+## 8. Security
+
+We apply technical and organizational controls to protect information (for example encryption of sensitive data, access controls, and periodic security reviews).
+
+## 9. Changes to this policy
+
+If we make significant changes, we will notify users at least 15 days in advance inside the app and at ezivia.com/legal.
+
+If you have questions, write to alex.casanova159@gmail.com.
 
 14:Tc81,# Ezivia Privacy Policy
 
@@ -354,1351 +1682,7 @@ If we make significant changes, we will notify users at least 15 days in advance
 
 If you have questions, write to alex.casanova159@gmail.com.
 
-17:Tc81,# Ezivia Privacy Policy
-
-**Last updated:** July 16, 2024
-
-At Ezivia we protect the privacy of older adults and their caregivers. This policy explains what data we use, why we use it, and how you can request changes or deletion.
-
-### Quick summary
-
-- We only request the data needed to provide the service.
-- Information is stored in the European Union with security safeguards.
-- You can request correction or deletion of your data at any time.
-
-## 1. Data controller
-
-The controller is **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Spain).  
-Contact email: alex.casanova159@gmail.com  
-Privacy contact: privacidad@ezivia.com
-
-## 2. What data we collect
-
-We collect only what is necessary to operate the service:
-
-- Contact data for the older adult and trusted caregivers.
-- Device setup preferences (font size, shortcuts, contrast).
-- Reminders created in the app (for example medication or appointments).
-- Minimal technical data (device model, Android version, technical errors).
-- Anonymous aggregated usage data to improve accessibility.
-
-We do not collect biometric data or browsing history. Camera and microphone are only used when the related feature requires it and after permission is granted.
-
-## 3. Why we use data
-
-We process data to:
-
-1. Configure an easier Android launcher experience.
-2. Send reminders configured by family or trusted caregivers.
-3. Support communication between the older adult and their support network.
-4. Improve stability and accessibility in Ezivia.
-5. Meet legal and security obligations.
-
-We do not sell data and we do not use it for advertising.
-
-## 4. Legal basis
-
-Processing is based on informed user consent and, when applicable, legitimate interest to maintain service security.
-
-## 5. Data sharing
-
-Data is stored with EU-based infrastructure providers under confidentiality agreements.  
-Information is shared only when needed to provide the service.
-
-## 6. Retention period
-
-Data is kept while the account is active.  
-If deletion is requested, the account is removed and encrypted backups are retained for up to 30 days for technical and legal reasons.
-
-## 7. Your rights
-
-You can request access, correction, objection, restriction, portability, or deletion by writing to:
-
-- alex.casanova159@gmail.com
-- privacidad@ezivia.com
-
-You can also use the "Manage data" option in the app.  
-We respond within 30 days.
-
-### Authorized representatives
-
-If the older adult chooses, they may authorize a family member, trusted person, or legal guardian to manage data. This authorization can be revoked at any time.
-
-### Minors
-
-Ezivia is not intended for children under 16. If we detect an account belonging to a minor, it will be removed and legal guardians will be notified.
-
-## 8. Security
-
-We apply technical and organizational controls to protect information (for example encryption of sensitive data, access controls, and periodic security reviews).
-
-## 9. Changes to this policy
-
-If we make significant changes, we will notify users at least 15 days in advance inside the app and at ezivia.com/legal.
-
-If you have questions, write to alex.casanova159@gmail.com.
-
-18:Tc81,# Ezivia Privacy Policy
-
-**Last updated:** July 16, 2024
-
-At Ezivia we protect the privacy of older adults and their caregivers. This policy explains what data we use, why we use it, and how you can request changes or deletion.
-
-### Quick summary
-
-- We only request the data needed to provide the service.
-- Information is stored in the European Union with security safeguards.
-- You can request correction or deletion of your data at any time.
-
-## 1. Data controller
-
-The controller is **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Spain).  
-Contact email: alex.casanova159@gmail.com  
-Privacy contact: privacidad@ezivia.com
-
-## 2. What data we collect
-
-We collect only what is necessary to operate the service:
-
-- Contact data for the older adult and trusted caregivers.
-- Device setup preferences (font size, shortcuts, contrast).
-- Reminders created in the app (for example medication or appointments).
-- Minimal technical data (device model, Android version, technical errors).
-- Anonymous aggregated usage data to improve accessibility.
-
-We do not collect biometric data or browsing history. Camera and microphone are only used when the related feature requires it and after permission is granted.
-
-## 3. Why we use data
-
-We process data to:
-
-1. Configure an easier Android launcher experience.
-2. Send reminders configured by family or trusted caregivers.
-3. Support communication between the older adult and their support network.
-4. Improve stability and accessibility in Ezivia.
-5. Meet legal and security obligations.
-
-We do not sell data and we do not use it for advertising.
-
-## 4. Legal basis
-
-Processing is based on informed user consent and, when applicable, legitimate interest to maintain service security.
-
-## 5. Data sharing
-
-Data is stored with EU-based infrastructure providers under confidentiality agreements.  
-Information is shared only when needed to provide the service.
-
-## 6. Retention period
-
-Data is kept while the account is active.  
-If deletion is requested, the account is removed and encrypted backups are retained for up to 30 days for technical and legal reasons.
-
-## 7. Your rights
-
-You can request access, correction, objection, restriction, portability, or deletion by writing to:
-
-- alex.casanova159@gmail.com
-- privacidad@ezivia.com
-
-You can also use the "Manage data" option in the app.  
-We respond within 30 days.
-
-### Authorized representatives
-
-If the older adult chooses, they may authorize a family member, trusted person, or legal guardian to manage data. This authorization can be revoked at any time.
-
-### Minors
-
-Ezivia is not intended for children under 16. If we detect an account belonging to a minor, it will be removed and legal guardians will be notified.
-
-## 8. Security
-
-We apply technical and organizational controls to protect information (for example encryption of sensitive data, access controls, and periodic security reviews).
-
-## 9. Changes to this policy
-
-If we make significant changes, we will notify users at least 15 days in advance inside the app and at ezivia.com/legal.
-
-If you have questions, write to alex.casanova159@gmail.com.
-
-19:Tc81,# Ezivia Privacy Policy
-
-**Last updated:** July 16, 2024
-
-At Ezivia we protect the privacy of older adults and their caregivers. This policy explains what data we use, why we use it, and how you can request changes or deletion.
-
-### Quick summary
-
-- We only request the data needed to provide the service.
-- Information is stored in the European Union with security safeguards.
-- You can request correction or deletion of your data at any time.
-
-## 1. Data controller
-
-The controller is **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Spain).  
-Contact email: alex.casanova159@gmail.com  
-Privacy contact: privacidad@ezivia.com
-
-## 2. What data we collect
-
-We collect only what is necessary to operate the service:
-
-- Contact data for the older adult and trusted caregivers.
-- Device setup preferences (font size, shortcuts, contrast).
-- Reminders created in the app (for example medication or appointments).
-- Minimal technical data (device model, Android version, technical errors).
-- Anonymous aggregated usage data to improve accessibility.
-
-We do not collect biometric data or browsing history. Camera and microphone are only used when the related feature requires it and after permission is granted.
-
-## 3. Why we use data
-
-We process data to:
-
-1. Configure an easier Android launcher experience.
-2. Send reminders configured by family or trusted caregivers.
-3. Support communication between the older adult and their support network.
-4. Improve stability and accessibility in Ezivia.
-5. Meet legal and security obligations.
-
-We do not sell data and we do not use it for advertising.
-
-## 4. Legal basis
-
-Processing is based on informed user consent and, when applicable, legitimate interest to maintain service security.
-
-## 5. Data sharing
-
-Data is stored with EU-based infrastructure providers under confidentiality agreements.  
-Information is shared only when needed to provide the service.
-
-## 6. Retention period
-
-Data is kept while the account is active.  
-If deletion is requested, the account is removed and encrypted backups are retained for up to 30 days for technical and legal reasons.
-
-## 7. Your rights
-
-You can request access, correction, objection, restriction, portability, or deletion by writing to:
-
-- alex.casanova159@gmail.com
-- privacidad@ezivia.com
-
-You can also use the "Manage data" option in the app.  
-We respond within 30 days.
-
-### Authorized representatives
-
-If the older adult chooses, they may authorize a family member, trusted person, or legal guardian to manage data. This authorization can be revoked at any time.
-
-### Minors
-
-Ezivia is not intended for children under 16. If we detect an account belonging to a minor, it will be removed and legal guardians will be notified.
-
-## 8. Security
-
-We apply technical and organizational controls to protect information (for example encryption of sensitive data, access controls, and periodic security reviews).
-
-## 9. Changes to this policy
-
-If we make significant changes, we will notify users at least 15 days in advance inside the app and at ezivia.com/legal.
-
-If you have questions, write to alex.casanova159@gmail.com.
-
-1a:Tc81,# Ezivia Privacy Policy
-
-**Last updated:** July 16, 2024
-
-At Ezivia we protect the privacy of older adults and their caregivers. This policy explains what data we use, why we use it, and how you can request changes or deletion.
-
-### Quick summary
-
-- We only request the data needed to provide the service.
-- Information is stored in the European Union with security safeguards.
-- You can request correction or deletion of your data at any time.
-
-## 1. Data controller
-
-The controller is **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Spain).  
-Contact email: alex.casanova159@gmail.com  
-Privacy contact: privacidad@ezivia.com
-
-## 2. What data we collect
-
-We collect only what is necessary to operate the service:
-
-- Contact data for the older adult and trusted caregivers.
-- Device setup preferences (font size, shortcuts, contrast).
-- Reminders created in the app (for example medication or appointments).
-- Minimal technical data (device model, Android version, technical errors).
-- Anonymous aggregated usage data to improve accessibility.
-
-We do not collect biometric data or browsing history. Camera and microphone are only used when the related feature requires it and after permission is granted.
-
-## 3. Why we use data
-
-We process data to:
-
-1. Configure an easier Android launcher experience.
-2. Send reminders configured by family or trusted caregivers.
-3. Support communication between the older adult and their support network.
-4. Improve stability and accessibility in Ezivia.
-5. Meet legal and security obligations.
-
-We do not sell data and we do not use it for advertising.
-
-## 4. Legal basis
-
-Processing is based on informed user consent and, when applicable, legitimate interest to maintain service security.
-
-## 5. Data sharing
-
-Data is stored with EU-based infrastructure providers under confidentiality agreements.  
-Information is shared only when needed to provide the service.
-
-## 6. Retention period
-
-Data is kept while the account is active.  
-If deletion is requested, the account is removed and encrypted backups are retained for up to 30 days for technical and legal reasons.
-
-## 7. Your rights
-
-You can request access, correction, objection, restriction, portability, or deletion by writing to:
-
-- alex.casanova159@gmail.com
-- privacidad@ezivia.com
-
-You can also use the "Manage data" option in the app.  
-We respond within 30 days.
-
-### Authorized representatives
-
-If the older adult chooses, they may authorize a family member, trusted person, or legal guardian to manage data. This authorization can be revoked at any time.
-
-### Minors
-
-Ezivia is not intended for children under 16. If we detect an account belonging to a minor, it will be removed and legal guardians will be notified.
-
-## 8. Security
-
-We apply technical and organizational controls to protect information (for example encryption of sensitive data, access controls, and periodic security reviews).
-
-## 9. Changes to this policy
-
-If we make significant changes, we will notify users at least 15 days in advance inside the app and at ezivia.com/legal.
-
-If you have questions, write to alex.casanova159@gmail.com.
-
-1b:Tc81,# Ezivia Privacy Policy
-
-**Last updated:** July 16, 2024
-
-At Ezivia we protect the privacy of older adults and their caregivers. This policy explains what data we use, why we use it, and how you can request changes or deletion.
-
-### Quick summary
-
-- We only request the data needed to provide the service.
-- Information is stored in the European Union with security safeguards.
-- You can request correction or deletion of your data at any time.
-
-## 1. Data controller
-
-The controller is **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Spain).  
-Contact email: alex.casanova159@gmail.com  
-Privacy contact: privacidad@ezivia.com
-
-## 2. What data we collect
-
-We collect only what is necessary to operate the service:
-
-- Contact data for the older adult and trusted caregivers.
-- Device setup preferences (font size, shortcuts, contrast).
-- Reminders created in the app (for example medication or appointments).
-- Minimal technical data (device model, Android version, technical errors).
-- Anonymous aggregated usage data to improve accessibility.
-
-We do not collect biometric data or browsing history. Camera and microphone are only used when the related feature requires it and after permission is granted.
-
-## 3. Why we use data
-
-We process data to:
-
-1. Configure an easier Android launcher experience.
-2. Send reminders configured by family or trusted caregivers.
-3. Support communication between the older adult and their support network.
-4. Improve stability and accessibility in Ezivia.
-5. Meet legal and security obligations.
-
-We do not sell data and we do not use it for advertising.
-
-## 4. Legal basis
-
-Processing is based on informed user consent and, when applicable, legitimate interest to maintain service security.
-
-## 5. Data sharing
-
-Data is stored with EU-based infrastructure providers under confidentiality agreements.  
-Information is shared only when needed to provide the service.
-
-## 6. Retention period
-
-Data is kept while the account is active.  
-If deletion is requested, the account is removed and encrypted backups are retained for up to 30 days for technical and legal reasons.
-
-## 7. Your rights
-
-You can request access, correction, objection, restriction, portability, or deletion by writing to:
-
-- alex.casanova159@gmail.com
-- privacidad@ezivia.com
-
-You can also use the "Manage data" option in the app.  
-We respond within 30 days.
-
-### Authorized representatives
-
-If the older adult chooses, they may authorize a family member, trusted person, or legal guardian to manage data. This authorization can be revoked at any time.
-
-### Minors
-
-Ezivia is not intended for children under 16. If we detect an account belonging to a minor, it will be removed and legal guardians will be notified.
-
-## 8. Security
-
-We apply technical and organizational controls to protect information (for example encryption of sensitive data, access controls, and periodic security reviews).
-
-## 9. Changes to this policy
-
-If we make significant changes, we will notify users at least 15 days in advance inside the app and at ezivia.com/legal.
-
-If you have questions, write to alex.casanova159@gmail.com.
-
-1c:Tc81,# Ezivia Privacy Policy
-
-**Last updated:** July 16, 2024
-
-At Ezivia we protect the privacy of older adults and their caregivers. This policy explains what data we use, why we use it, and how you can request changes or deletion.
-
-### Quick summary
-
-- We only request the data needed to provide the service.
-- Information is stored in the European Union with security safeguards.
-- You can request correction or deletion of your data at any time.
-
-## 1. Data controller
-
-The controller is **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Spain).  
-Contact email: alex.casanova159@gmail.com  
-Privacy contact: privacidad@ezivia.com
-
-## 2. What data we collect
-
-We collect only what is necessary to operate the service:
-
-- Contact data for the older adult and trusted caregivers.
-- Device setup preferences (font size, shortcuts, contrast).
-- Reminders created in the app (for example medication or appointments).
-- Minimal technical data (device model, Android version, technical errors).
-- Anonymous aggregated usage data to improve accessibility.
-
-We do not collect biometric data or browsing history. Camera and microphone are only used when the related feature requires it and after permission is granted.
-
-## 3. Why we use data
-
-We process data to:
-
-1. Configure an easier Android launcher experience.
-2. Send reminders configured by family or trusted caregivers.
-3. Support communication between the older adult and their support network.
-4. Improve stability and accessibility in Ezivia.
-5. Meet legal and security obligations.
-
-We do not sell data and we do not use it for advertising.
-
-## 4. Legal basis
-
-Processing is based on informed user consent and, when applicable, legitimate interest to maintain service security.
-
-## 5. Data sharing
-
-Data is stored with EU-based infrastructure providers under confidentiality agreements.  
-Information is shared only when needed to provide the service.
-
-## 6. Retention period
-
-Data is kept while the account is active.  
-If deletion is requested, the account is removed and encrypted backups are retained for up to 30 days for technical and legal reasons.
-
-## 7. Your rights
-
-You can request access, correction, objection, restriction, portability, or deletion by writing to:
-
-- alex.casanova159@gmail.com
-- privacidad@ezivia.com
-
-You can also use the "Manage data" option in the app.  
-We respond within 30 days.
-
-### Authorized representatives
-
-If the older adult chooses, they may authorize a family member, trusted person, or legal guardian to manage data. This authorization can be revoked at any time.
-
-### Minors
-
-Ezivia is not intended for children under 16. If we detect an account belonging to a minor, it will be removed and legal guardians will be notified.
-
-## 8. Security
-
-We apply technical and organizational controls to protect information (for example encryption of sensitive data, access controls, and periodic security reviews).
-
-## 9. Changes to this policy
-
-If we make significant changes, we will notify users at least 15 days in advance inside the app and at ezivia.com/legal.
-
-If you have questions, write to alex.casanova159@gmail.com.
-
-1d:Tc81,# Ezivia Privacy Policy
-
-**Last updated:** July 16, 2024
-
-At Ezivia we protect the privacy of older adults and their caregivers. This policy explains what data we use, why we use it, and how you can request changes or deletion.
-
-### Quick summary
-
-- We only request the data needed to provide the service.
-- Information is stored in the European Union with security safeguards.
-- You can request correction or deletion of your data at any time.
-
-## 1. Data controller
-
-The controller is **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Spain).  
-Contact email: alex.casanova159@gmail.com  
-Privacy contact: privacidad@ezivia.com
-
-## 2. What data we collect
-
-We collect only what is necessary to operate the service:
-
-- Contact data for the older adult and trusted caregivers.
-- Device setup preferences (font size, shortcuts, contrast).
-- Reminders created in the app (for example medication or appointments).
-- Minimal technical data (device model, Android version, technical errors).
-- Anonymous aggregated usage data to improve accessibility.
-
-We do not collect biometric data or browsing history. Camera and microphone are only used when the related feature requires it and after permission is granted.
-
-## 3. Why we use data
-
-We process data to:
-
-1. Configure an easier Android launcher experience.
-2. Send reminders configured by family or trusted caregivers.
-3. Support communication between the older adult and their support network.
-4. Improve stability and accessibility in Ezivia.
-5. Meet legal and security obligations.
-
-We do not sell data and we do not use it for advertising.
-
-## 4. Legal basis
-
-Processing is based on informed user consent and, when applicable, legitimate interest to maintain service security.
-
-## 5. Data sharing
-
-Data is stored with EU-based infrastructure providers under confidentiality agreements.  
-Information is shared only when needed to provide the service.
-
-## 6. Retention period
-
-Data is kept while the account is active.  
-If deletion is requested, the account is removed and encrypted backups are retained for up to 30 days for technical and legal reasons.
-
-## 7. Your rights
-
-You can request access, correction, objection, restriction, portability, or deletion by writing to:
-
-- alex.casanova159@gmail.com
-- privacidad@ezivia.com
-
-You can also use the "Manage data" option in the app.  
-We respond within 30 days.
-
-### Authorized representatives
-
-If the older adult chooses, they may authorize a family member, trusted person, or legal guardian to manage data. This authorization can be revoked at any time.
-
-### Minors
-
-Ezivia is not intended for children under 16. If we detect an account belonging to a minor, it will be removed and legal guardians will be notified.
-
-## 8. Security
-
-We apply technical and organizational controls to protect information (for example encryption of sensitive data, access controls, and periodic security reviews).
-
-## 9. Changes to this policy
-
-If we make significant changes, we will notify users at least 15 days in advance inside the app and at ezivia.com/legal.
-
-If you have questions, write to alex.casanova159@gmail.com.
-
-1e:Tc81,# Ezivia Privacy Policy
-
-**Last updated:** July 16, 2024
-
-At Ezivia we protect the privacy of older adults and their caregivers. This policy explains what data we use, why we use it, and how you can request changes or deletion.
-
-### Quick summary
-
-- We only request the data needed to provide the service.
-- Information is stored in the European Union with security safeguards.
-- You can request correction or deletion of your data at any time.
-
-## 1. Data controller
-
-The controller is **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Spain).  
-Contact email: alex.casanova159@gmail.com  
-Privacy contact: privacidad@ezivia.com
-
-## 2. What data we collect
-
-We collect only what is necessary to operate the service:
-
-- Contact data for the older adult and trusted caregivers.
-- Device setup preferences (font size, shortcuts, contrast).
-- Reminders created in the app (for example medication or appointments).
-- Minimal technical data (device model, Android version, technical errors).
-- Anonymous aggregated usage data to improve accessibility.
-
-We do not collect biometric data or browsing history. Camera and microphone are only used when the related feature requires it and after permission is granted.
-
-## 3. Why we use data
-
-We process data to:
-
-1. Configure an easier Android launcher experience.
-2. Send reminders configured by family or trusted caregivers.
-3. Support communication between the older adult and their support network.
-4. Improve stability and accessibility in Ezivia.
-5. Meet legal and security obligations.
-
-We do not sell data and we do not use it for advertising.
-
-## 4. Legal basis
-
-Processing is based on informed user consent and, when applicable, legitimate interest to maintain service security.
-
-## 5. Data sharing
-
-Data is stored with EU-based infrastructure providers under confidentiality agreements.  
-Information is shared only when needed to provide the service.
-
-## 6. Retention period
-
-Data is kept while the account is active.  
-If deletion is requested, the account is removed and encrypted backups are retained for up to 30 days for technical and legal reasons.
-
-## 7. Your rights
-
-You can request access, correction, objection, restriction, portability, or deletion by writing to:
-
-- alex.casanova159@gmail.com
-- privacidad@ezivia.com
-
-You can also use the "Manage data" option in the app.  
-We respond within 30 days.
-
-### Authorized representatives
-
-If the older adult chooses, they may authorize a family member, trusted person, or legal guardian to manage data. This authorization can be revoked at any time.
-
-### Minors
-
-Ezivia is not intended for children under 16. If we detect an account belonging to a minor, it will be removed and legal guardians will be notified.
-
-## 8. Security
-
-We apply technical and organizational controls to protect information (for example encryption of sensitive data, access controls, and periodic security reviews).
-
-## 9. Changes to this policy
-
-If we make significant changes, we will notify users at least 15 days in advance inside the app and at ezivia.com/legal.
-
-If you have questions, write to alex.casanova159@gmail.com.
-
-1f:Tc81,# Ezivia Privacy Policy
-
-**Last updated:** July 16, 2024
-
-At Ezivia we protect the privacy of older adults and their caregivers. This policy explains what data we use, why we use it, and how you can request changes or deletion.
-
-### Quick summary
-
-- We only request the data needed to provide the service.
-- Information is stored in the European Union with security safeguards.
-- You can request correction or deletion of your data at any time.
-
-## 1. Data controller
-
-The controller is **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Spain).  
-Contact email: alex.casanova159@gmail.com  
-Privacy contact: privacidad@ezivia.com
-
-## 2. What data we collect
-
-We collect only what is necessary to operate the service:
-
-- Contact data for the older adult and trusted caregivers.
-- Device setup preferences (font size, shortcuts, contrast).
-- Reminders created in the app (for example medication or appointments).
-- Minimal technical data (device model, Android version, technical errors).
-- Anonymous aggregated usage data to improve accessibility.
-
-We do not collect biometric data or browsing history. Camera and microphone are only used when the related feature requires it and after permission is granted.
-
-## 3. Why we use data
-
-We process data to:
-
-1. Configure an easier Android launcher experience.
-2. Send reminders configured by family or trusted caregivers.
-3. Support communication between the older adult and their support network.
-4. Improve stability and accessibility in Ezivia.
-5. Meet legal and security obligations.
-
-We do not sell data and we do not use it for advertising.
-
-## 4. Legal basis
-
-Processing is based on informed user consent and, when applicable, legitimate interest to maintain service security.
-
-## 5. Data sharing
-
-Data is stored with EU-based infrastructure providers under confidentiality agreements.  
-Information is shared only when needed to provide the service.
-
-## 6. Retention period
-
-Data is kept while the account is active.  
-If deletion is requested, the account is removed and encrypted backups are retained for up to 30 days for technical and legal reasons.
-
-## 7. Your rights
-
-You can request access, correction, objection, restriction, portability, or deletion by writing to:
-
-- alex.casanova159@gmail.com
-- privacidad@ezivia.com
-
-You can also use the "Manage data" option in the app.  
-We respond within 30 days.
-
-### Authorized representatives
-
-If the older adult chooses, they may authorize a family member, trusted person, or legal guardian to manage data. This authorization can be revoked at any time.
-
-### Minors
-
-Ezivia is not intended for children under 16. If we detect an account belonging to a minor, it will be removed and legal guardians will be notified.
-
-## 8. Security
-
-We apply technical and organizational controls to protect information (for example encryption of sensitive data, access controls, and periodic security reviews).
-
-## 9. Changes to this policy
-
-If we make significant changes, we will notify users at least 15 days in advance inside the app and at ezivia.com/legal.
-
-If you have questions, write to alex.casanova159@gmail.com.
-
-20:Tc81,# Ezivia Privacy Policy
-
-**Last updated:** July 16, 2024
-
-At Ezivia we protect the privacy of older adults and their caregivers. This policy explains what data we use, why we use it, and how you can request changes or deletion.
-
-### Quick summary
-
-- We only request the data needed to provide the service.
-- Information is stored in the European Union with security safeguards.
-- You can request correction or deletion of your data at any time.
-
-## 1. Data controller
-
-The controller is **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Spain).  
-Contact email: alex.casanova159@gmail.com  
-Privacy contact: privacidad@ezivia.com
-
-## 2. What data we collect
-
-We collect only what is necessary to operate the service:
-
-- Contact data for the older adult and trusted caregivers.
-- Device setup preferences (font size, shortcuts, contrast).
-- Reminders created in the app (for example medication or appointments).
-- Minimal technical data (device model, Android version, technical errors).
-- Anonymous aggregated usage data to improve accessibility.
-
-We do not collect biometric data or browsing history. Camera and microphone are only used when the related feature requires it and after permission is granted.
-
-## 3. Why we use data
-
-We process data to:
-
-1. Configure an easier Android launcher experience.
-2. Send reminders configured by family or trusted caregivers.
-3. Support communication between the older adult and their support network.
-4. Improve stability and accessibility in Ezivia.
-5. Meet legal and security obligations.
-
-We do not sell data and we do not use it for advertising.
-
-## 4. Legal basis
-
-Processing is based on informed user consent and, when applicable, legitimate interest to maintain service security.
-
-## 5. Data sharing
-
-Data is stored with EU-based infrastructure providers under confidentiality agreements.  
-Information is shared only when needed to provide the service.
-
-## 6. Retention period
-
-Data is kept while the account is active.  
-If deletion is requested, the account is removed and encrypted backups are retained for up to 30 days for technical and legal reasons.
-
-## 7. Your rights
-
-You can request access, correction, objection, restriction, portability, or deletion by writing to:
-
-- alex.casanova159@gmail.com
-- privacidad@ezivia.com
-
-You can also use the "Manage data" option in the app.  
-We respond within 30 days.
-
-### Authorized representatives
-
-If the older adult chooses, they may authorize a family member, trusted person, or legal guardian to manage data. This authorization can be revoked at any time.
-
-### Minors
-
-Ezivia is not intended for children under 16. If we detect an account belonging to a minor, it will be removed and legal guardians will be notified.
-
-## 8. Security
-
-We apply technical and organizational controls to protect information (for example encryption of sensitive data, access controls, and periodic security reviews).
-
-## 9. Changes to this policy
-
-If we make significant changes, we will notify users at least 15 days in advance inside the app and at ezivia.com/legal.
-
-If you have questions, write to alex.casanova159@gmail.com.
-
-21:Tc81,# Ezivia Privacy Policy
-
-**Last updated:** July 16, 2024
-
-At Ezivia we protect the privacy of older adults and their caregivers. This policy explains what data we use, why we use it, and how you can request changes or deletion.
-
-### Quick summary
-
-- We only request the data needed to provide the service.
-- Information is stored in the European Union with security safeguards.
-- You can request correction or deletion of your data at any time.
-
-## 1. Data controller
-
-The controller is **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Spain).  
-Contact email: alex.casanova159@gmail.com  
-Privacy contact: privacidad@ezivia.com
-
-## 2. What data we collect
-
-We collect only what is necessary to operate the service:
-
-- Contact data for the older adult and trusted caregivers.
-- Device setup preferences (font size, shortcuts, contrast).
-- Reminders created in the app (for example medication or appointments).
-- Minimal technical data (device model, Android version, technical errors).
-- Anonymous aggregated usage data to improve accessibility.
-
-We do not collect biometric data or browsing history. Camera and microphone are only used when the related feature requires it and after permission is granted.
-
-## 3. Why we use data
-
-We process data to:
-
-1. Configure an easier Android launcher experience.
-2. Send reminders configured by family or trusted caregivers.
-3. Support communication between the older adult and their support network.
-4. Improve stability and accessibility in Ezivia.
-5. Meet legal and security obligations.
-
-We do not sell data and we do not use it for advertising.
-
-## 4. Legal basis
-
-Processing is based on informed user consent and, when applicable, legitimate interest to maintain service security.
-
-## 5. Data sharing
-
-Data is stored with EU-based infrastructure providers under confidentiality agreements.  
-Information is shared only when needed to provide the service.
-
-## 6. Retention period
-
-Data is kept while the account is active.  
-If deletion is requested, the account is removed and encrypted backups are retained for up to 30 days for technical and legal reasons.
-
-## 7. Your rights
-
-You can request access, correction, objection, restriction, portability, or deletion by writing to:
-
-- alex.casanova159@gmail.com
-- privacidad@ezivia.com
-
-You can also use the "Manage data" option in the app.  
-We respond within 30 days.
-
-### Authorized representatives
-
-If the older adult chooses, they may authorize a family member, trusted person, or legal guardian to manage data. This authorization can be revoked at any time.
-
-### Minors
-
-Ezivia is not intended for children under 16. If we detect an account belonging to a minor, it will be removed and legal guardians will be notified.
-
-## 8. Security
-
-We apply technical and organizational controls to protect information (for example encryption of sensitive data, access controls, and periodic security reviews).
-
-## 9. Changes to this policy
-
-If we make significant changes, we will notify users at least 15 days in advance inside the app and at ezivia.com/legal.
-
-If you have questions, write to alex.casanova159@gmail.com.
-
-22:Tc81,# Ezivia Privacy Policy
-
-**Last updated:** July 16, 2024
-
-At Ezivia we protect the privacy of older adults and their caregivers. This policy explains what data we use, why we use it, and how you can request changes or deletion.
-
-### Quick summary
-
-- We only request the data needed to provide the service.
-- Information is stored in the European Union with security safeguards.
-- You can request correction or deletion of your data at any time.
-
-## 1. Data controller
-
-The controller is **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Spain).  
-Contact email: alex.casanova159@gmail.com  
-Privacy contact: privacidad@ezivia.com
-
-## 2. What data we collect
-
-We collect only what is necessary to operate the service:
-
-- Contact data for the older adult and trusted caregivers.
-- Device setup preferences (font size, shortcuts, contrast).
-- Reminders created in the app (for example medication or appointments).
-- Minimal technical data (device model, Android version, technical errors).
-- Anonymous aggregated usage data to improve accessibility.
-
-We do not collect biometric data or browsing history. Camera and microphone are only used when the related feature requires it and after permission is granted.
-
-## 3. Why we use data
-
-We process data to:
-
-1. Configure an easier Android launcher experience.
-2. Send reminders configured by family or trusted caregivers.
-3. Support communication between the older adult and their support network.
-4. Improve stability and accessibility in Ezivia.
-5. Meet legal and security obligations.
-
-We do not sell data and we do not use it for advertising.
-
-## 4. Legal basis
-
-Processing is based on informed user consent and, when applicable, legitimate interest to maintain service security.
-
-## 5. Data sharing
-
-Data is stored with EU-based infrastructure providers under confidentiality agreements.  
-Information is shared only when needed to provide the service.
-
-## 6. Retention period
-
-Data is kept while the account is active.  
-If deletion is requested, the account is removed and encrypted backups are retained for up to 30 days for technical and legal reasons.
-
-## 7. Your rights
-
-You can request access, correction, objection, restriction, portability, or deletion by writing to:
-
-- alex.casanova159@gmail.com
-- privacidad@ezivia.com
-
-You can also use the "Manage data" option in the app.  
-We respond within 30 days.
-
-### Authorized representatives
-
-If the older adult chooses, they may authorize a family member, trusted person, or legal guardian to manage data. This authorization can be revoked at any time.
-
-### Minors
-
-Ezivia is not intended for children under 16. If we detect an account belonging to a minor, it will be removed and legal guardians will be notified.
-
-## 8. Security
-
-We apply technical and organizational controls to protect information (for example encryption of sensitive data, access controls, and periodic security reviews).
-
-## 9. Changes to this policy
-
-If we make significant changes, we will notify users at least 15 days in advance inside the app and at ezivia.com/legal.
-
-If you have questions, write to alex.casanova159@gmail.com.
-
-23:Tc81,# Ezivia Privacy Policy
-
-**Last updated:** July 16, 2024
-
-At Ezivia we protect the privacy of older adults and their caregivers. This policy explains what data we use, why we use it, and how you can request changes or deletion.
-
-### Quick summary
-
-- We only request the data needed to provide the service.
-- Information is stored in the European Union with security safeguards.
-- You can request correction or deletion of your data at any time.
-
-## 1. Data controller
-
-The controller is **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Spain).  
-Contact email: alex.casanova159@gmail.com  
-Privacy contact: privacidad@ezivia.com
-
-## 2. What data we collect
-
-We collect only what is necessary to operate the service:
-
-- Contact data for the older adult and trusted caregivers.
-- Device setup preferences (font size, shortcuts, contrast).
-- Reminders created in the app (for example medication or appointments).
-- Minimal technical data (device model, Android version, technical errors).
-- Anonymous aggregated usage data to improve accessibility.
-
-We do not collect biometric data or browsing history. Camera and microphone are only used when the related feature requires it and after permission is granted.
-
-## 3. Why we use data
-
-We process data to:
-
-1. Configure an easier Android launcher experience.
-2. Send reminders configured by family or trusted caregivers.
-3. Support communication between the older adult and their support network.
-4. Improve stability and accessibility in Ezivia.
-5. Meet legal and security obligations.
-
-We do not sell data and we do not use it for advertising.
-
-## 4. Legal basis
-
-Processing is based on informed user consent and, when applicable, legitimate interest to maintain service security.
-
-## 5. Data sharing
-
-Data is stored with EU-based infrastructure providers under confidentiality agreements.  
-Information is shared only when needed to provide the service.
-
-## 6. Retention period
-
-Data is kept while the account is active.  
-If deletion is requested, the account is removed and encrypted backups are retained for up to 30 days for technical and legal reasons.
-
-## 7. Your rights
-
-You can request access, correction, objection, restriction, portability, or deletion by writing to:
-
-- alex.casanova159@gmail.com
-- privacidad@ezivia.com
-
-You can also use the "Manage data" option in the app.  
-We respond within 30 days.
-
-### Authorized representatives
-
-If the older adult chooses, they may authorize a family member, trusted person, or legal guardian to manage data. This authorization can be revoked at any time.
-
-### Minors
-
-Ezivia is not intended for children under 16. If we detect an account belonging to a minor, it will be removed and legal guardians will be notified.
-
-## 8. Security
-
-We apply technical and organizational controls to protect information (for example encryption of sensitive data, access controls, and periodic security reviews).
-
-## 9. Changes to this policy
-
-If we make significant changes, we will notify users at least 15 days in advance inside the app and at ezivia.com/legal.
-
-If you have questions, write to alex.casanova159@gmail.com.
-
-24:Tc81,# Ezivia Privacy Policy
-
-**Last updated:** July 16, 2024
-
-At Ezivia we protect the privacy of older adults and their caregivers. This policy explains what data we use, why we use it, and how you can request changes or deletion.
-
-### Quick summary
-
-- We only request the data needed to provide the service.
-- Information is stored in the European Union with security safeguards.
-- You can request correction or deletion of your data at any time.
-
-## 1. Data controller
-
-The controller is **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Spain).  
-Contact email: alex.casanova159@gmail.com  
-Privacy contact: privacidad@ezivia.com
-
-## 2. What data we collect
-
-We collect only what is necessary to operate the service:
-
-- Contact data for the older adult and trusted caregivers.
-- Device setup preferences (font size, shortcuts, contrast).
-- Reminders created in the app (for example medication or appointments).
-- Minimal technical data (device model, Android version, technical errors).
-- Anonymous aggregated usage data to improve accessibility.
-
-We do not collect biometric data or browsing history. Camera and microphone are only used when the related feature requires it and after permission is granted.
-
-## 3. Why we use data
-
-We process data to:
-
-1. Configure an easier Android launcher experience.
-2. Send reminders configured by family or trusted caregivers.
-3. Support communication between the older adult and their support network.
-4. Improve stability and accessibility in Ezivia.
-5. Meet legal and security obligations.
-
-We do not sell data and we do not use it for advertising.
-
-## 4. Legal basis
-
-Processing is based on informed user consent and, when applicable, legitimate interest to maintain service security.
-
-## 5. Data sharing
-
-Data is stored with EU-based infrastructure providers under confidentiality agreements.  
-Information is shared only when needed to provide the service.
-
-## 6. Retention period
-
-Data is kept while the account is active.  
-If deletion is requested, the account is removed and encrypted backups are retained for up to 30 days for technical and legal reasons.
-
-## 7. Your rights
-
-You can request access, correction, objection, restriction, portability, or deletion by writing to:
-
-- alex.casanova159@gmail.com
-- privacidad@ezivia.com
-
-You can also use the "Manage data" option in the app.  
-We respond within 30 days.
-
-### Authorized representatives
-
-If the older adult chooses, they may authorize a family member, trusted person, or legal guardian to manage data. This authorization can be revoked at any time.
-
-### Minors
-
-Ezivia is not intended for children under 16. If we detect an account belonging to a minor, it will be removed and legal guardians will be notified.
-
-## 8. Security
-
-We apply technical and organizational controls to protect information (for example encryption of sensitive data, access controls, and periodic security reviews).
-
-## 9. Changes to this policy
-
-If we make significant changes, we will notify users at least 15 days in advance inside the app and at ezivia.com/legal.
-
-If you have questions, write to alex.casanova159@gmail.com.
-
-25:Tc81,# Ezivia Privacy Policy
-
-**Last updated:** July 16, 2024
-
-At Ezivia we protect the privacy of older adults and their caregivers. This policy explains what data we use, why we use it, and how you can request changes or deletion.
-
-### Quick summary
-
-- We only request the data needed to provide the service.
-- Information is stored in the European Union with security safeguards.
-- You can request correction or deletion of your data at any time.
-
-## 1. Data controller
-
-The controller is **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Spain).  
-Contact email: alex.casanova159@gmail.com  
-Privacy contact: privacidad@ezivia.com
-
-## 2. What data we collect
-
-We collect only what is necessary to operate the service:
-
-- Contact data for the older adult and trusted caregivers.
-- Device setup preferences (font size, shortcuts, contrast).
-- Reminders created in the app (for example medication or appointments).
-- Minimal technical data (device model, Android version, technical errors).
-- Anonymous aggregated usage data to improve accessibility.
-
-We do not collect biometric data or browsing history. Camera and microphone are only used when the related feature requires it and after permission is granted.
-
-## 3. Why we use data
-
-We process data to:
-
-1. Configure an easier Android launcher experience.
-2. Send reminders configured by family or trusted caregivers.
-3. Support communication between the older adult and their support network.
-4. Improve stability and accessibility in Ezivia.
-5. Meet legal and security obligations.
-
-We do not sell data and we do not use it for advertising.
-
-## 4. Legal basis
-
-Processing is based on informed user consent and, when applicable, legitimate interest to maintain service security.
-
-## 5. Data sharing
-
-Data is stored with EU-based infrastructure providers under confidentiality agreements.  
-Information is shared only when needed to provide the service.
-
-## 6. Retention period
-
-Data is kept while the account is active.  
-If deletion is requested, the account is removed and encrypted backups are retained for up to 30 days for technical and legal reasons.
-
-## 7. Your rights
-
-You can request access, correction, objection, restriction, portability, or deletion by writing to:
-
-- alex.casanova159@gmail.com
-- privacidad@ezivia.com
-
-You can also use the "Manage data" option in the app.  
-We respond within 30 days.
-
-### Authorized representatives
-
-If the older adult chooses, they may authorize a family member, trusted person, or legal guardian to manage data. This authorization can be revoked at any time.
-
-### Minors
-
-Ezivia is not intended for children under 16. If we detect an account belonging to a minor, it will be removed and legal guardians will be notified.
-
-## 8. Security
-
-We apply technical and organizational controls to protect information (for example encryption of sensitive data, access controls, and periodic security reviews).
-
-## 9. Changes to this policy
-
-If we make significant changes, we will notify users at least 15 days in advance inside the app and at ezivia.com/legal.
-
-If you have questions, write to alex.casanova159@gmail.com.
-
-26:Tc81,# Ezivia Privacy Policy
-
-**Last updated:** July 16, 2024
-
-At Ezivia we protect the privacy of older adults and their caregivers. This policy explains what data we use, why we use it, and how you can request changes or deletion.
-
-### Quick summary
-
-- We only request the data needed to provide the service.
-- Information is stored in the European Union with security safeguards.
-- You can request correction or deletion of your data at any time.
-
-## 1. Data controller
-
-The controller is **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Spain).  
-Contact email: alex.casanova159@gmail.com  
-Privacy contact: privacidad@ezivia.com
-
-## 2. What data we collect
-
-We collect only what is necessary to operate the service:
-
-- Contact data for the older adult and trusted caregivers.
-- Device setup preferences (font size, shortcuts, contrast).
-- Reminders created in the app (for example medication or appointments).
-- Minimal technical data (device model, Android version, technical errors).
-- Anonymous aggregated usage data to improve accessibility.
-
-We do not collect biometric data or browsing history. Camera and microphone are only used when the related feature requires it and after permission is granted.
-
-## 3. Why we use data
-
-We process data to:
-
-1. Configure an easier Android launcher experience.
-2. Send reminders configured by family or trusted caregivers.
-3. Support communication between the older adult and their support network.
-4. Improve stability and accessibility in Ezivia.
-5. Meet legal and security obligations.
-
-We do not sell data and we do not use it for advertising.
-
-## 4. Legal basis
-
-Processing is based on informed user consent and, when applicable, legitimate interest to maintain service security.
-
-## 5. Data sharing
-
-Data is stored with EU-based infrastructure providers under confidentiality agreements.  
-Information is shared only when needed to provide the service.
-
-## 6. Retention period
-
-Data is kept while the account is active.  
-If deletion is requested, the account is removed and encrypted backups are retained for up to 30 days for technical and legal reasons.
-
-## 7. Your rights
-
-You can request access, correction, objection, restriction, portability, or deletion by writing to:
-
-- alex.casanova159@gmail.com
-- privacidad@ezivia.com
-
-You can also use the "Manage data" option in the app.  
-We respond within 30 days.
-
-### Authorized representatives
-
-If the older adult chooses, they may authorize a family member, trusted person, or legal guardian to manage data. This authorization can be revoked at any time.
-
-### Minors
-
-Ezivia is not intended for children under 16. If we detect an account belonging to a minor, it will be removed and legal guardians will be notified.
-
-## 8. Security
-
-We apply technical and organizational controls to protect information (for example encryption of sensitive data, access controls, and periodic security reviews).
-
-## 9. Changes to this policy
-
-If we make significant changes, we will notify users at least 15 days in advance inside the app and at ezivia.com/legal.
-
-If you have questions, write to alex.casanova159@gmail.com.
-
-27:Tb6a,﻿# Terminos de servicio de Ezivia
+17:Tb67,# Terminos de servicio de Ezivia
 
 **Ultima actualizacion:** 16 de julio de 2024
 
@@ -1761,6 +1745,1030 @@ Avisaremos cambios importantes con al menos 15 dias de antelacion en la aplicaci
 Estos terminos se rigen por la legislacion espanola. Para conflictos, seran competentes los juzgados y tribunales de Barcelona, salvo norma legal que indique otro fuero.
 
 Para consultas, escribe a alex.casanova159@gmail.com.
+
+18:T9ac,# Ezivia Terms of Service
+
+**Last updated:** July 16, 2024
+
+This document explains the conditions for using Ezivia on Android. By installing and using Ezivia, you accept these terms. If you do not agree, do not use the app.
+
+### Quick summary
+
+- Ezivia helps make Android phones easier for older adults.
+- Support features require authorization from the older adult.
+- Support is provided by email in clear language.
+
+## 1. Purpose
+
+Ezivia simplifies Android phone usage for older adults and allows family or trusted caregivers to assist with setup and support.
+
+## 2. Requirements
+
+- Android 9+ phone and internet connection.
+- Consent from the older adult using the device.
+- Initial setup by a responsible adult.
+- Ezivia account linked to a valid email.
+
+## 3. Account and access
+
+Trusted caregivers can create an account to manage reminders, emergency contacts, and accessibility options.  
+The account owner is responsible for accurate data and secure access credentials.
+
+## 4. License
+
+Ezivia grants a limited, non-exclusive, non-transferable license to install the app on compatible devices.  
+You may not distribute, modify, or decompile the software without explicit authorization.
+
+## 5. Prohibited use
+
+Ezivia cannot be used for illegal activities, privacy violations, or unsolicited communications.  
+Accounts may be suspended if these terms or applicable law are breached.
+
+## 6. Third-party services
+
+Ezivia may connect with third-party messaging or video calling services. Those services are governed by their own terms and privacy policies.
+
+## 7. Availability and support
+
+We work to keep the service available, but temporary interruptions may happen.  
+Support email: alex.casanova159@gmail.com  
+Estimated response time: 48 business hours.
+
+## 8. Liability
+
+Ezivia is not liable for indirect damages or data loss resulting from app usage.  
+Maximum liability, when applicable, will not exceed amounts paid in the previous 12 months. For free usage, liability is capped at 100 EUR.
+
+## 9. Changes to terms
+
+We may update these terms due to legal, technical, or service improvements.  
+Significant updates will be announced at least 15 days in advance in the app and at ezivia.com/legal.
+
+## 10. Governing law
+
+These terms are governed by Spanish law. Disputes are subject to the courts of Barcelona unless mandatory law states otherwise.
+
+For questions, write to alex.casanova159@gmail.com.
+
+19:T9ac,# Ezivia Terms of Service
+
+**Last updated:** July 16, 2024
+
+This document explains the conditions for using Ezivia on Android. By installing and using Ezivia, you accept these terms. If you do not agree, do not use the app.
+
+### Quick summary
+
+- Ezivia helps make Android phones easier for older adults.
+- Support features require authorization from the older adult.
+- Support is provided by email in clear language.
+
+## 1. Purpose
+
+Ezivia simplifies Android phone usage for older adults and allows family or trusted caregivers to assist with setup and support.
+
+## 2. Requirements
+
+- Android 9+ phone and internet connection.
+- Consent from the older adult using the device.
+- Initial setup by a responsible adult.
+- Ezivia account linked to a valid email.
+
+## 3. Account and access
+
+Trusted caregivers can create an account to manage reminders, emergency contacts, and accessibility options.  
+The account owner is responsible for accurate data and secure access credentials.
+
+## 4. License
+
+Ezivia grants a limited, non-exclusive, non-transferable license to install the app on compatible devices.  
+You may not distribute, modify, or decompile the software without explicit authorization.
+
+## 5. Prohibited use
+
+Ezivia cannot be used for illegal activities, privacy violations, or unsolicited communications.  
+Accounts may be suspended if these terms or applicable law are breached.
+
+## 6. Third-party services
+
+Ezivia may connect with third-party messaging or video calling services. Those services are governed by their own terms and privacy policies.
+
+## 7. Availability and support
+
+We work to keep the service available, but temporary interruptions may happen.  
+Support email: alex.casanova159@gmail.com  
+Estimated response time: 48 business hours.
+
+## 8. Liability
+
+Ezivia is not liable for indirect damages or data loss resulting from app usage.  
+Maximum liability, when applicable, will not exceed amounts paid in the previous 12 months. For free usage, liability is capped at 100 EUR.
+
+## 9. Changes to terms
+
+We may update these terms due to legal, technical, or service improvements.  
+Significant updates will be announced at least 15 days in advance in the app and at ezivia.com/legal.
+
+## 10. Governing law
+
+These terms are governed by Spanish law. Disputes are subject to the courts of Barcelona unless mandatory law states otherwise.
+
+For questions, write to alex.casanova159@gmail.com.
+
+1a:T9ac,# Ezivia Terms of Service
+
+**Last updated:** July 16, 2024
+
+This document explains the conditions for using Ezivia on Android. By installing and using Ezivia, you accept these terms. If you do not agree, do not use the app.
+
+### Quick summary
+
+- Ezivia helps make Android phones easier for older adults.
+- Support features require authorization from the older adult.
+- Support is provided by email in clear language.
+
+## 1. Purpose
+
+Ezivia simplifies Android phone usage for older adults and allows family or trusted caregivers to assist with setup and support.
+
+## 2. Requirements
+
+- Android 9+ phone and internet connection.
+- Consent from the older adult using the device.
+- Initial setup by a responsible adult.
+- Ezivia account linked to a valid email.
+
+## 3. Account and access
+
+Trusted caregivers can create an account to manage reminders, emergency contacts, and accessibility options.  
+The account owner is responsible for accurate data and secure access credentials.
+
+## 4. License
+
+Ezivia grants a limited, non-exclusive, non-transferable license to install the app on compatible devices.  
+You may not distribute, modify, or decompile the software without explicit authorization.
+
+## 5. Prohibited use
+
+Ezivia cannot be used for illegal activities, privacy violations, or unsolicited communications.  
+Accounts may be suspended if these terms or applicable law are breached.
+
+## 6. Third-party services
+
+Ezivia may connect with third-party messaging or video calling services. Those services are governed by their own terms and privacy policies.
+
+## 7. Availability and support
+
+We work to keep the service available, but temporary interruptions may happen.  
+Support email: alex.casanova159@gmail.com  
+Estimated response time: 48 business hours.
+
+## 8. Liability
+
+Ezivia is not liable for indirect damages or data loss resulting from app usage.  
+Maximum liability, when applicable, will not exceed amounts paid in the previous 12 months. For free usage, liability is capped at 100 EUR.
+
+## 9. Changes to terms
+
+We may update these terms due to legal, technical, or service improvements.  
+Significant updates will be announced at least 15 days in advance in the app and at ezivia.com/legal.
+
+## 10. Governing law
+
+These terms are governed by Spanish law. Disputes are subject to the courts of Barcelona unless mandatory law states otherwise.
+
+For questions, write to alex.casanova159@gmail.com.
+
+1b:T9ac,# Ezivia Terms of Service
+
+**Last updated:** July 16, 2024
+
+This document explains the conditions for using Ezivia on Android. By installing and using Ezivia, you accept these terms. If you do not agree, do not use the app.
+
+### Quick summary
+
+- Ezivia helps make Android phones easier for older adults.
+- Support features require authorization from the older adult.
+- Support is provided by email in clear language.
+
+## 1. Purpose
+
+Ezivia simplifies Android phone usage for older adults and allows family or trusted caregivers to assist with setup and support.
+
+## 2. Requirements
+
+- Android 9+ phone and internet connection.
+- Consent from the older adult using the device.
+- Initial setup by a responsible adult.
+- Ezivia account linked to a valid email.
+
+## 3. Account and access
+
+Trusted caregivers can create an account to manage reminders, emergency contacts, and accessibility options.  
+The account owner is responsible for accurate data and secure access credentials.
+
+## 4. License
+
+Ezivia grants a limited, non-exclusive, non-transferable license to install the app on compatible devices.  
+You may not distribute, modify, or decompile the software without explicit authorization.
+
+## 5. Prohibited use
+
+Ezivia cannot be used for illegal activities, privacy violations, or unsolicited communications.  
+Accounts may be suspended if these terms or applicable law are breached.
+
+## 6. Third-party services
+
+Ezivia may connect with third-party messaging or video calling services. Those services are governed by their own terms and privacy policies.
+
+## 7. Availability and support
+
+We work to keep the service available, but temporary interruptions may happen.  
+Support email: alex.casanova159@gmail.com  
+Estimated response time: 48 business hours.
+
+## 8. Liability
+
+Ezivia is not liable for indirect damages or data loss resulting from app usage.  
+Maximum liability, when applicable, will not exceed amounts paid in the previous 12 months. For free usage, liability is capped at 100 EUR.
+
+## 9. Changes to terms
+
+We may update these terms due to legal, technical, or service improvements.  
+Significant updates will be announced at least 15 days in advance in the app and at ezivia.com/legal.
+
+## 10. Governing law
+
+These terms are governed by Spanish law. Disputes are subject to the courts of Barcelona unless mandatory law states otherwise.
+
+For questions, write to alex.casanova159@gmail.com.
+
+1c:T9ac,# Ezivia Terms of Service
+
+**Last updated:** July 16, 2024
+
+This document explains the conditions for using Ezivia on Android. By installing and using Ezivia, you accept these terms. If you do not agree, do not use the app.
+
+### Quick summary
+
+- Ezivia helps make Android phones easier for older adults.
+- Support features require authorization from the older adult.
+- Support is provided by email in clear language.
+
+## 1. Purpose
+
+Ezivia simplifies Android phone usage for older adults and allows family or trusted caregivers to assist with setup and support.
+
+## 2. Requirements
+
+- Android 9+ phone and internet connection.
+- Consent from the older adult using the device.
+- Initial setup by a responsible adult.
+- Ezivia account linked to a valid email.
+
+## 3. Account and access
+
+Trusted caregivers can create an account to manage reminders, emergency contacts, and accessibility options.  
+The account owner is responsible for accurate data and secure access credentials.
+
+## 4. License
+
+Ezivia grants a limited, non-exclusive, non-transferable license to install the app on compatible devices.  
+You may not distribute, modify, or decompile the software without explicit authorization.
+
+## 5. Prohibited use
+
+Ezivia cannot be used for illegal activities, privacy violations, or unsolicited communications.  
+Accounts may be suspended if these terms or applicable law are breached.
+
+## 6. Third-party services
+
+Ezivia may connect with third-party messaging or video calling services. Those services are governed by their own terms and privacy policies.
+
+## 7. Availability and support
+
+We work to keep the service available, but temporary interruptions may happen.  
+Support email: alex.casanova159@gmail.com  
+Estimated response time: 48 business hours.
+
+## 8. Liability
+
+Ezivia is not liable for indirect damages or data loss resulting from app usage.  
+Maximum liability, when applicable, will not exceed amounts paid in the previous 12 months. For free usage, liability is capped at 100 EUR.
+
+## 9. Changes to terms
+
+We may update these terms due to legal, technical, or service improvements.  
+Significant updates will be announced at least 15 days in advance in the app and at ezivia.com/legal.
+
+## 10. Governing law
+
+These terms are governed by Spanish law. Disputes are subject to the courts of Barcelona unless mandatory law states otherwise.
+
+For questions, write to alex.casanova159@gmail.com.
+
+1d:T9ac,# Ezivia Terms of Service
+
+**Last updated:** July 16, 2024
+
+This document explains the conditions for using Ezivia on Android. By installing and using Ezivia, you accept these terms. If you do not agree, do not use the app.
+
+### Quick summary
+
+- Ezivia helps make Android phones easier for older adults.
+- Support features require authorization from the older adult.
+- Support is provided by email in clear language.
+
+## 1. Purpose
+
+Ezivia simplifies Android phone usage for older adults and allows family or trusted caregivers to assist with setup and support.
+
+## 2. Requirements
+
+- Android 9+ phone and internet connection.
+- Consent from the older adult using the device.
+- Initial setup by a responsible adult.
+- Ezivia account linked to a valid email.
+
+## 3. Account and access
+
+Trusted caregivers can create an account to manage reminders, emergency contacts, and accessibility options.  
+The account owner is responsible for accurate data and secure access credentials.
+
+## 4. License
+
+Ezivia grants a limited, non-exclusive, non-transferable license to install the app on compatible devices.  
+You may not distribute, modify, or decompile the software without explicit authorization.
+
+## 5. Prohibited use
+
+Ezivia cannot be used for illegal activities, privacy violations, or unsolicited communications.  
+Accounts may be suspended if these terms or applicable law are breached.
+
+## 6. Third-party services
+
+Ezivia may connect with third-party messaging or video calling services. Those services are governed by their own terms and privacy policies.
+
+## 7. Availability and support
+
+We work to keep the service available, but temporary interruptions may happen.  
+Support email: alex.casanova159@gmail.com  
+Estimated response time: 48 business hours.
+
+## 8. Liability
+
+Ezivia is not liable for indirect damages or data loss resulting from app usage.  
+Maximum liability, when applicable, will not exceed amounts paid in the previous 12 months. For free usage, liability is capped at 100 EUR.
+
+## 9. Changes to terms
+
+We may update these terms due to legal, technical, or service improvements.  
+Significant updates will be announced at least 15 days in advance in the app and at ezivia.com/legal.
+
+## 10. Governing law
+
+These terms are governed by Spanish law. Disputes are subject to the courts of Barcelona unless mandatory law states otherwise.
+
+For questions, write to alex.casanova159@gmail.com.
+
+1e:T9ac,# Ezivia Terms of Service
+
+**Last updated:** July 16, 2024
+
+This document explains the conditions for using Ezivia on Android. By installing and using Ezivia, you accept these terms. If you do not agree, do not use the app.
+
+### Quick summary
+
+- Ezivia helps make Android phones easier for older adults.
+- Support features require authorization from the older adult.
+- Support is provided by email in clear language.
+
+## 1. Purpose
+
+Ezivia simplifies Android phone usage for older adults and allows family or trusted caregivers to assist with setup and support.
+
+## 2. Requirements
+
+- Android 9+ phone and internet connection.
+- Consent from the older adult using the device.
+- Initial setup by a responsible adult.
+- Ezivia account linked to a valid email.
+
+## 3. Account and access
+
+Trusted caregivers can create an account to manage reminders, emergency contacts, and accessibility options.  
+The account owner is responsible for accurate data and secure access credentials.
+
+## 4. License
+
+Ezivia grants a limited, non-exclusive, non-transferable license to install the app on compatible devices.  
+You may not distribute, modify, or decompile the software without explicit authorization.
+
+## 5. Prohibited use
+
+Ezivia cannot be used for illegal activities, privacy violations, or unsolicited communications.  
+Accounts may be suspended if these terms or applicable law are breached.
+
+## 6. Third-party services
+
+Ezivia may connect with third-party messaging or video calling services. Those services are governed by their own terms and privacy policies.
+
+## 7. Availability and support
+
+We work to keep the service available, but temporary interruptions may happen.  
+Support email: alex.casanova159@gmail.com  
+Estimated response time: 48 business hours.
+
+## 8. Liability
+
+Ezivia is not liable for indirect damages or data loss resulting from app usage.  
+Maximum liability, when applicable, will not exceed amounts paid in the previous 12 months. For free usage, liability is capped at 100 EUR.
+
+## 9. Changes to terms
+
+We may update these terms due to legal, technical, or service improvements.  
+Significant updates will be announced at least 15 days in advance in the app and at ezivia.com/legal.
+
+## 10. Governing law
+
+These terms are governed by Spanish law. Disputes are subject to the courts of Barcelona unless mandatory law states otherwise.
+
+For questions, write to alex.casanova159@gmail.com.
+
+1f:T9ac,# Ezivia Terms of Service
+
+**Last updated:** July 16, 2024
+
+This document explains the conditions for using Ezivia on Android. By installing and using Ezivia, you accept these terms. If you do not agree, do not use the app.
+
+### Quick summary
+
+- Ezivia helps make Android phones easier for older adults.
+- Support features require authorization from the older adult.
+- Support is provided by email in clear language.
+
+## 1. Purpose
+
+Ezivia simplifies Android phone usage for older adults and allows family or trusted caregivers to assist with setup and support.
+
+## 2. Requirements
+
+- Android 9+ phone and internet connection.
+- Consent from the older adult using the device.
+- Initial setup by a responsible adult.
+- Ezivia account linked to a valid email.
+
+## 3. Account and access
+
+Trusted caregivers can create an account to manage reminders, emergency contacts, and accessibility options.  
+The account owner is responsible for accurate data and secure access credentials.
+
+## 4. License
+
+Ezivia grants a limited, non-exclusive, non-transferable license to install the app on compatible devices.  
+You may not distribute, modify, or decompile the software without explicit authorization.
+
+## 5. Prohibited use
+
+Ezivia cannot be used for illegal activities, privacy violations, or unsolicited communications.  
+Accounts may be suspended if these terms or applicable law are breached.
+
+## 6. Third-party services
+
+Ezivia may connect with third-party messaging or video calling services. Those services are governed by their own terms and privacy policies.
+
+## 7. Availability and support
+
+We work to keep the service available, but temporary interruptions may happen.  
+Support email: alex.casanova159@gmail.com  
+Estimated response time: 48 business hours.
+
+## 8. Liability
+
+Ezivia is not liable for indirect damages or data loss resulting from app usage.  
+Maximum liability, when applicable, will not exceed amounts paid in the previous 12 months. For free usage, liability is capped at 100 EUR.
+
+## 9. Changes to terms
+
+We may update these terms due to legal, technical, or service improvements.  
+Significant updates will be announced at least 15 days in advance in the app and at ezivia.com/legal.
+
+## 10. Governing law
+
+These terms are governed by Spanish law. Disputes are subject to the courts of Barcelona unless mandatory law states otherwise.
+
+For questions, write to alex.casanova159@gmail.com.
+
+20:T9ac,# Ezivia Terms of Service
+
+**Last updated:** July 16, 2024
+
+This document explains the conditions for using Ezivia on Android. By installing and using Ezivia, you accept these terms. If you do not agree, do not use the app.
+
+### Quick summary
+
+- Ezivia helps make Android phones easier for older adults.
+- Support features require authorization from the older adult.
+- Support is provided by email in clear language.
+
+## 1. Purpose
+
+Ezivia simplifies Android phone usage for older adults and allows family or trusted caregivers to assist with setup and support.
+
+## 2. Requirements
+
+- Android 9+ phone and internet connection.
+- Consent from the older adult using the device.
+- Initial setup by a responsible adult.
+- Ezivia account linked to a valid email.
+
+## 3. Account and access
+
+Trusted caregivers can create an account to manage reminders, emergency contacts, and accessibility options.  
+The account owner is responsible for accurate data and secure access credentials.
+
+## 4. License
+
+Ezivia grants a limited, non-exclusive, non-transferable license to install the app on compatible devices.  
+You may not distribute, modify, or decompile the software without explicit authorization.
+
+## 5. Prohibited use
+
+Ezivia cannot be used for illegal activities, privacy violations, or unsolicited communications.  
+Accounts may be suspended if these terms or applicable law are breached.
+
+## 6. Third-party services
+
+Ezivia may connect with third-party messaging or video calling services. Those services are governed by their own terms and privacy policies.
+
+## 7. Availability and support
+
+We work to keep the service available, but temporary interruptions may happen.  
+Support email: alex.casanova159@gmail.com  
+Estimated response time: 48 business hours.
+
+## 8. Liability
+
+Ezivia is not liable for indirect damages or data loss resulting from app usage.  
+Maximum liability, when applicable, will not exceed amounts paid in the previous 12 months. For free usage, liability is capped at 100 EUR.
+
+## 9. Changes to terms
+
+We may update these terms due to legal, technical, or service improvements.  
+Significant updates will be announced at least 15 days in advance in the app and at ezivia.com/legal.
+
+## 10. Governing law
+
+These terms are governed by Spanish law. Disputes are subject to the courts of Barcelona unless mandatory law states otherwise.
+
+For questions, write to alex.casanova159@gmail.com.
+
+21:T9ac,# Ezivia Terms of Service
+
+**Last updated:** July 16, 2024
+
+This document explains the conditions for using Ezivia on Android. By installing and using Ezivia, you accept these terms. If you do not agree, do not use the app.
+
+### Quick summary
+
+- Ezivia helps make Android phones easier for older adults.
+- Support features require authorization from the older adult.
+- Support is provided by email in clear language.
+
+## 1. Purpose
+
+Ezivia simplifies Android phone usage for older adults and allows family or trusted caregivers to assist with setup and support.
+
+## 2. Requirements
+
+- Android 9+ phone and internet connection.
+- Consent from the older adult using the device.
+- Initial setup by a responsible adult.
+- Ezivia account linked to a valid email.
+
+## 3. Account and access
+
+Trusted caregivers can create an account to manage reminders, emergency contacts, and accessibility options.  
+The account owner is responsible for accurate data and secure access credentials.
+
+## 4. License
+
+Ezivia grants a limited, non-exclusive, non-transferable license to install the app on compatible devices.  
+You may not distribute, modify, or decompile the software without explicit authorization.
+
+## 5. Prohibited use
+
+Ezivia cannot be used for illegal activities, privacy violations, or unsolicited communications.  
+Accounts may be suspended if these terms or applicable law are breached.
+
+## 6. Third-party services
+
+Ezivia may connect with third-party messaging or video calling services. Those services are governed by their own terms and privacy policies.
+
+## 7. Availability and support
+
+We work to keep the service available, but temporary interruptions may happen.  
+Support email: alex.casanova159@gmail.com  
+Estimated response time: 48 business hours.
+
+## 8. Liability
+
+Ezivia is not liable for indirect damages or data loss resulting from app usage.  
+Maximum liability, when applicable, will not exceed amounts paid in the previous 12 months. For free usage, liability is capped at 100 EUR.
+
+## 9. Changes to terms
+
+We may update these terms due to legal, technical, or service improvements.  
+Significant updates will be announced at least 15 days in advance in the app and at ezivia.com/legal.
+
+## 10. Governing law
+
+These terms are governed by Spanish law. Disputes are subject to the courts of Barcelona unless mandatory law states otherwise.
+
+For questions, write to alex.casanova159@gmail.com.
+
+22:T9ac,# Ezivia Terms of Service
+
+**Last updated:** July 16, 2024
+
+This document explains the conditions for using Ezivia on Android. By installing and using Ezivia, you accept these terms. If you do not agree, do not use the app.
+
+### Quick summary
+
+- Ezivia helps make Android phones easier for older adults.
+- Support features require authorization from the older adult.
+- Support is provided by email in clear language.
+
+## 1. Purpose
+
+Ezivia simplifies Android phone usage for older adults and allows family or trusted caregivers to assist with setup and support.
+
+## 2. Requirements
+
+- Android 9+ phone and internet connection.
+- Consent from the older adult using the device.
+- Initial setup by a responsible adult.
+- Ezivia account linked to a valid email.
+
+## 3. Account and access
+
+Trusted caregivers can create an account to manage reminders, emergency contacts, and accessibility options.  
+The account owner is responsible for accurate data and secure access credentials.
+
+## 4. License
+
+Ezivia grants a limited, non-exclusive, non-transferable license to install the app on compatible devices.  
+You may not distribute, modify, or decompile the software without explicit authorization.
+
+## 5. Prohibited use
+
+Ezivia cannot be used for illegal activities, privacy violations, or unsolicited communications.  
+Accounts may be suspended if these terms or applicable law are breached.
+
+## 6. Third-party services
+
+Ezivia may connect with third-party messaging or video calling services. Those services are governed by their own terms and privacy policies.
+
+## 7. Availability and support
+
+We work to keep the service available, but temporary interruptions may happen.  
+Support email: alex.casanova159@gmail.com  
+Estimated response time: 48 business hours.
+
+## 8. Liability
+
+Ezivia is not liable for indirect damages or data loss resulting from app usage.  
+Maximum liability, when applicable, will not exceed amounts paid in the previous 12 months. For free usage, liability is capped at 100 EUR.
+
+## 9. Changes to terms
+
+We may update these terms due to legal, technical, or service improvements.  
+Significant updates will be announced at least 15 days in advance in the app and at ezivia.com/legal.
+
+## 10. Governing law
+
+These terms are governed by Spanish law. Disputes are subject to the courts of Barcelona unless mandatory law states otherwise.
+
+For questions, write to alex.casanova159@gmail.com.
+
+23:T9ac,# Ezivia Terms of Service
+
+**Last updated:** July 16, 2024
+
+This document explains the conditions for using Ezivia on Android. By installing and using Ezivia, you accept these terms. If you do not agree, do not use the app.
+
+### Quick summary
+
+- Ezivia helps make Android phones easier for older adults.
+- Support features require authorization from the older adult.
+- Support is provided by email in clear language.
+
+## 1. Purpose
+
+Ezivia simplifies Android phone usage for older adults and allows family or trusted caregivers to assist with setup and support.
+
+## 2. Requirements
+
+- Android 9+ phone and internet connection.
+- Consent from the older adult using the device.
+- Initial setup by a responsible adult.
+- Ezivia account linked to a valid email.
+
+## 3. Account and access
+
+Trusted caregivers can create an account to manage reminders, emergency contacts, and accessibility options.  
+The account owner is responsible for accurate data and secure access credentials.
+
+## 4. License
+
+Ezivia grants a limited, non-exclusive, non-transferable license to install the app on compatible devices.  
+You may not distribute, modify, or decompile the software without explicit authorization.
+
+## 5. Prohibited use
+
+Ezivia cannot be used for illegal activities, privacy violations, or unsolicited communications.  
+Accounts may be suspended if these terms or applicable law are breached.
+
+## 6. Third-party services
+
+Ezivia may connect with third-party messaging or video calling services. Those services are governed by their own terms and privacy policies.
+
+## 7. Availability and support
+
+We work to keep the service available, but temporary interruptions may happen.  
+Support email: alex.casanova159@gmail.com  
+Estimated response time: 48 business hours.
+
+## 8. Liability
+
+Ezivia is not liable for indirect damages or data loss resulting from app usage.  
+Maximum liability, when applicable, will not exceed amounts paid in the previous 12 months. For free usage, liability is capped at 100 EUR.
+
+## 9. Changes to terms
+
+We may update these terms due to legal, technical, or service improvements.  
+Significant updates will be announced at least 15 days in advance in the app and at ezivia.com/legal.
+
+## 10. Governing law
+
+These terms are governed by Spanish law. Disputes are subject to the courts of Barcelona unless mandatory law states otherwise.
+
+For questions, write to alex.casanova159@gmail.com.
+
+24:T9ac,# Ezivia Terms of Service
+
+**Last updated:** July 16, 2024
+
+This document explains the conditions for using Ezivia on Android. By installing and using Ezivia, you accept these terms. If you do not agree, do not use the app.
+
+### Quick summary
+
+- Ezivia helps make Android phones easier for older adults.
+- Support features require authorization from the older adult.
+- Support is provided by email in clear language.
+
+## 1. Purpose
+
+Ezivia simplifies Android phone usage for older adults and allows family or trusted caregivers to assist with setup and support.
+
+## 2. Requirements
+
+- Android 9+ phone and internet connection.
+- Consent from the older adult using the device.
+- Initial setup by a responsible adult.
+- Ezivia account linked to a valid email.
+
+## 3. Account and access
+
+Trusted caregivers can create an account to manage reminders, emergency contacts, and accessibility options.  
+The account owner is responsible for accurate data and secure access credentials.
+
+## 4. License
+
+Ezivia grants a limited, non-exclusive, non-transferable license to install the app on compatible devices.  
+You may not distribute, modify, or decompile the software without explicit authorization.
+
+## 5. Prohibited use
+
+Ezivia cannot be used for illegal activities, privacy violations, or unsolicited communications.  
+Accounts may be suspended if these terms or applicable law are breached.
+
+## 6. Third-party services
+
+Ezivia may connect with third-party messaging or video calling services. Those services are governed by their own terms and privacy policies.
+
+## 7. Availability and support
+
+We work to keep the service available, but temporary interruptions may happen.  
+Support email: alex.casanova159@gmail.com  
+Estimated response time: 48 business hours.
+
+## 8. Liability
+
+Ezivia is not liable for indirect damages or data loss resulting from app usage.  
+Maximum liability, when applicable, will not exceed amounts paid in the previous 12 months. For free usage, liability is capped at 100 EUR.
+
+## 9. Changes to terms
+
+We may update these terms due to legal, technical, or service improvements.  
+Significant updates will be announced at least 15 days in advance in the app and at ezivia.com/legal.
+
+## 10. Governing law
+
+These terms are governed by Spanish law. Disputes are subject to the courts of Barcelona unless mandatory law states otherwise.
+
+For questions, write to alex.casanova159@gmail.com.
+
+25:T9ac,# Ezivia Terms of Service
+
+**Last updated:** July 16, 2024
+
+This document explains the conditions for using Ezivia on Android. By installing and using Ezivia, you accept these terms. If you do not agree, do not use the app.
+
+### Quick summary
+
+- Ezivia helps make Android phones easier for older adults.
+- Support features require authorization from the older adult.
+- Support is provided by email in clear language.
+
+## 1. Purpose
+
+Ezivia simplifies Android phone usage for older adults and allows family or trusted caregivers to assist with setup and support.
+
+## 2. Requirements
+
+- Android 9+ phone and internet connection.
+- Consent from the older adult using the device.
+- Initial setup by a responsible adult.
+- Ezivia account linked to a valid email.
+
+## 3. Account and access
+
+Trusted caregivers can create an account to manage reminders, emergency contacts, and accessibility options.  
+The account owner is responsible for accurate data and secure access credentials.
+
+## 4. License
+
+Ezivia grants a limited, non-exclusive, non-transferable license to install the app on compatible devices.  
+You may not distribute, modify, or decompile the software without explicit authorization.
+
+## 5. Prohibited use
+
+Ezivia cannot be used for illegal activities, privacy violations, or unsolicited communications.  
+Accounts may be suspended if these terms or applicable law are breached.
+
+## 6. Third-party services
+
+Ezivia may connect with third-party messaging or video calling services. Those services are governed by their own terms and privacy policies.
+
+## 7. Availability and support
+
+We work to keep the service available, but temporary interruptions may happen.  
+Support email: alex.casanova159@gmail.com  
+Estimated response time: 48 business hours.
+
+## 8. Liability
+
+Ezivia is not liable for indirect damages or data loss resulting from app usage.  
+Maximum liability, when applicable, will not exceed amounts paid in the previous 12 months. For free usage, liability is capped at 100 EUR.
+
+## 9. Changes to terms
+
+We may update these terms due to legal, technical, or service improvements.  
+Significant updates will be announced at least 15 days in advance in the app and at ezivia.com/legal.
+
+## 10. Governing law
+
+These terms are governed by Spanish law. Disputes are subject to the courts of Barcelona unless mandatory law states otherwise.
+
+For questions, write to alex.casanova159@gmail.com.
+
+26:T9ac,# Ezivia Terms of Service
+
+**Last updated:** July 16, 2024
+
+This document explains the conditions for using Ezivia on Android. By installing and using Ezivia, you accept these terms. If you do not agree, do not use the app.
+
+### Quick summary
+
+- Ezivia helps make Android phones easier for older adults.
+- Support features require authorization from the older adult.
+- Support is provided by email in clear language.
+
+## 1. Purpose
+
+Ezivia simplifies Android phone usage for older adults and allows family or trusted caregivers to assist with setup and support.
+
+## 2. Requirements
+
+- Android 9+ phone and internet connection.
+- Consent from the older adult using the device.
+- Initial setup by a responsible adult.
+- Ezivia account linked to a valid email.
+
+## 3. Account and access
+
+Trusted caregivers can create an account to manage reminders, emergency contacts, and accessibility options.  
+The account owner is responsible for accurate data and secure access credentials.
+
+## 4. License
+
+Ezivia grants a limited, non-exclusive, non-transferable license to install the app on compatible devices.  
+You may not distribute, modify, or decompile the software without explicit authorization.
+
+## 5. Prohibited use
+
+Ezivia cannot be used for illegal activities, privacy violations, or unsolicited communications.  
+Accounts may be suspended if these terms or applicable law are breached.
+
+## 6. Third-party services
+
+Ezivia may connect with third-party messaging or video calling services. Those services are governed by their own terms and privacy policies.
+
+## 7. Availability and support
+
+We work to keep the service available, but temporary interruptions may happen.  
+Support email: alex.casanova159@gmail.com  
+Estimated response time: 48 business hours.
+
+## 8. Liability
+
+Ezivia is not liable for indirect damages or data loss resulting from app usage.  
+Maximum liability, when applicable, will not exceed amounts paid in the previous 12 months. For free usage, liability is capped at 100 EUR.
+
+## 9. Changes to terms
+
+We may update these terms due to legal, technical, or service improvements.  
+Significant updates will be announced at least 15 days in advance in the app and at ezivia.com/legal.
+
+## 10. Governing law
+
+These terms are governed by Spanish law. Disputes are subject to the courts of Barcelona unless mandatory law states otherwise.
+
+For questions, write to alex.casanova159@gmail.com.
+
+27:T9ac,# Ezivia Terms of Service
+
+**Last updated:** July 16, 2024
+
+This document explains the conditions for using Ezivia on Android. By installing and using Ezivia, you accept these terms. If you do not agree, do not use the app.
+
+### Quick summary
+
+- Ezivia helps make Android phones easier for older adults.
+- Support features require authorization from the older adult.
+- Support is provided by email in clear language.
+
+## 1. Purpose
+
+Ezivia simplifies Android phone usage for older adults and allows family or trusted caregivers to assist with setup and support.
+
+## 2. Requirements
+
+- Android 9+ phone and internet connection.
+- Consent from the older adult using the device.
+- Initial setup by a responsible adult.
+- Ezivia account linked to a valid email.
+
+## 3. Account and access
+
+Trusted caregivers can create an account to manage reminders, emergency contacts, and accessibility options.  
+The account owner is responsible for accurate data and secure access credentials.
+
+## 4. License
+
+Ezivia grants a limited, non-exclusive, non-transferable license to install the app on compatible devices.  
+You may not distribute, modify, or decompile the software without explicit authorization.
+
+## 5. Prohibited use
+
+Ezivia cannot be used for illegal activities, privacy violations, or unsolicited communications.  
+Accounts may be suspended if these terms or applicable law are breached.
+
+## 6. Third-party services
+
+Ezivia may connect with third-party messaging or video calling services. Those services are governed by their own terms and privacy policies.
+
+## 7. Availability and support
+
+We work to keep the service available, but temporary interruptions may happen.  
+Support email: alex.casanova159@gmail.com  
+Estimated response time: 48 business hours.
+
+## 8. Liability
+
+Ezivia is not liable for indirect damages or data loss resulting from app usage.  
+Maximum liability, when applicable, will not exceed amounts paid in the previous 12 months. For free usage, liability is capped at 100 EUR.
+
+## 9. Changes to terms
+
+We may update these terms due to legal, technical, or service improvements.  
+Significant updates will be announced at least 15 days in advance in the app and at ezivia.com/legal.
+
+## 10. Governing law
+
+These terms are governed by Spanish law. Disputes are subject to the courts of Barcelona unless mandatory law states otherwise.
+
+For questions, write to alex.casanova159@gmail.com.
 
 28:T9ac,# Ezivia Terms of Service
 
@@ -1954,1028 +2962,7 @@ These terms are governed by Spanish law. Disputes are subject to the courts of B
 
 For questions, write to alex.casanova159@gmail.com.
 
-2b:T9ac,# Ezivia Terms of Service
-
-**Last updated:** July 16, 2024
-
-This document explains the conditions for using Ezivia on Android. By installing and using Ezivia, you accept these terms. If you do not agree, do not use the app.
-
-### Quick summary
-
-- Ezivia helps make Android phones easier for older adults.
-- Support features require authorization from the older adult.
-- Support is provided by email in clear language.
-
-## 1. Purpose
-
-Ezivia simplifies Android phone usage for older adults and allows family or trusted caregivers to assist with setup and support.
-
-## 2. Requirements
-
-- Android 9+ phone and internet connection.
-- Consent from the older adult using the device.
-- Initial setup by a responsible adult.
-- Ezivia account linked to a valid email.
-
-## 3. Account and access
-
-Trusted caregivers can create an account to manage reminders, emergency contacts, and accessibility options.  
-The account owner is responsible for accurate data and secure access credentials.
-
-## 4. License
-
-Ezivia grants a limited, non-exclusive, non-transferable license to install the app on compatible devices.  
-You may not distribute, modify, or decompile the software without explicit authorization.
-
-## 5. Prohibited use
-
-Ezivia cannot be used for illegal activities, privacy violations, or unsolicited communications.  
-Accounts may be suspended if these terms or applicable law are breached.
-
-## 6. Third-party services
-
-Ezivia may connect with third-party messaging or video calling services. Those services are governed by their own terms and privacy policies.
-
-## 7. Availability and support
-
-We work to keep the service available, but temporary interruptions may happen.  
-Support email: alex.casanova159@gmail.com  
-Estimated response time: 48 business hours.
-
-## 8. Liability
-
-Ezivia is not liable for indirect damages or data loss resulting from app usage.  
-Maximum liability, when applicable, will not exceed amounts paid in the previous 12 months. For free usage, liability is capped at 100 EUR.
-
-## 9. Changes to terms
-
-We may update these terms due to legal, technical, or service improvements.  
-Significant updates will be announced at least 15 days in advance in the app and at ezivia.com/legal.
-
-## 10. Governing law
-
-These terms are governed by Spanish law. Disputes are subject to the courts of Barcelona unless mandatory law states otherwise.
-
-For questions, write to alex.casanova159@gmail.com.
-
-2c:T9ac,# Ezivia Terms of Service
-
-**Last updated:** July 16, 2024
-
-This document explains the conditions for using Ezivia on Android. By installing and using Ezivia, you accept these terms. If you do not agree, do not use the app.
-
-### Quick summary
-
-- Ezivia helps make Android phones easier for older adults.
-- Support features require authorization from the older adult.
-- Support is provided by email in clear language.
-
-## 1. Purpose
-
-Ezivia simplifies Android phone usage for older adults and allows family or trusted caregivers to assist with setup and support.
-
-## 2. Requirements
-
-- Android 9+ phone and internet connection.
-- Consent from the older adult using the device.
-- Initial setup by a responsible adult.
-- Ezivia account linked to a valid email.
-
-## 3. Account and access
-
-Trusted caregivers can create an account to manage reminders, emergency contacts, and accessibility options.  
-The account owner is responsible for accurate data and secure access credentials.
-
-## 4. License
-
-Ezivia grants a limited, non-exclusive, non-transferable license to install the app on compatible devices.  
-You may not distribute, modify, or decompile the software without explicit authorization.
-
-## 5. Prohibited use
-
-Ezivia cannot be used for illegal activities, privacy violations, or unsolicited communications.  
-Accounts may be suspended if these terms or applicable law are breached.
-
-## 6. Third-party services
-
-Ezivia may connect with third-party messaging or video calling services. Those services are governed by their own terms and privacy policies.
-
-## 7. Availability and support
-
-We work to keep the service available, but temporary interruptions may happen.  
-Support email: alex.casanova159@gmail.com  
-Estimated response time: 48 business hours.
-
-## 8. Liability
-
-Ezivia is not liable for indirect damages or data loss resulting from app usage.  
-Maximum liability, when applicable, will not exceed amounts paid in the previous 12 months. For free usage, liability is capped at 100 EUR.
-
-## 9. Changes to terms
-
-We may update these terms due to legal, technical, or service improvements.  
-Significant updates will be announced at least 15 days in advance in the app and at ezivia.com/legal.
-
-## 10. Governing law
-
-These terms are governed by Spanish law. Disputes are subject to the courts of Barcelona unless mandatory law states otherwise.
-
-For questions, write to alex.casanova159@gmail.com.
-
-2d:T9ac,# Ezivia Terms of Service
-
-**Last updated:** July 16, 2024
-
-This document explains the conditions for using Ezivia on Android. By installing and using Ezivia, you accept these terms. If you do not agree, do not use the app.
-
-### Quick summary
-
-- Ezivia helps make Android phones easier for older adults.
-- Support features require authorization from the older adult.
-- Support is provided by email in clear language.
-
-## 1. Purpose
-
-Ezivia simplifies Android phone usage for older adults and allows family or trusted caregivers to assist with setup and support.
-
-## 2. Requirements
-
-- Android 9+ phone and internet connection.
-- Consent from the older adult using the device.
-- Initial setup by a responsible adult.
-- Ezivia account linked to a valid email.
-
-## 3. Account and access
-
-Trusted caregivers can create an account to manage reminders, emergency contacts, and accessibility options.  
-The account owner is responsible for accurate data and secure access credentials.
-
-## 4. License
-
-Ezivia grants a limited, non-exclusive, non-transferable license to install the app on compatible devices.  
-You may not distribute, modify, or decompile the software without explicit authorization.
-
-## 5. Prohibited use
-
-Ezivia cannot be used for illegal activities, privacy violations, or unsolicited communications.  
-Accounts may be suspended if these terms or applicable law are breached.
-
-## 6. Third-party services
-
-Ezivia may connect with third-party messaging or video calling services. Those services are governed by their own terms and privacy policies.
-
-## 7. Availability and support
-
-We work to keep the service available, but temporary interruptions may happen.  
-Support email: alex.casanova159@gmail.com  
-Estimated response time: 48 business hours.
-
-## 8. Liability
-
-Ezivia is not liable for indirect damages or data loss resulting from app usage.  
-Maximum liability, when applicable, will not exceed amounts paid in the previous 12 months. For free usage, liability is capped at 100 EUR.
-
-## 9. Changes to terms
-
-We may update these terms due to legal, technical, or service improvements.  
-Significant updates will be announced at least 15 days in advance in the app and at ezivia.com/legal.
-
-## 10. Governing law
-
-These terms are governed by Spanish law. Disputes are subject to the courts of Barcelona unless mandatory law states otherwise.
-
-For questions, write to alex.casanova159@gmail.com.
-
-2e:T9ac,# Ezivia Terms of Service
-
-**Last updated:** July 16, 2024
-
-This document explains the conditions for using Ezivia on Android. By installing and using Ezivia, you accept these terms. If you do not agree, do not use the app.
-
-### Quick summary
-
-- Ezivia helps make Android phones easier for older adults.
-- Support features require authorization from the older adult.
-- Support is provided by email in clear language.
-
-## 1. Purpose
-
-Ezivia simplifies Android phone usage for older adults and allows family or trusted caregivers to assist with setup and support.
-
-## 2. Requirements
-
-- Android 9+ phone and internet connection.
-- Consent from the older adult using the device.
-- Initial setup by a responsible adult.
-- Ezivia account linked to a valid email.
-
-## 3. Account and access
-
-Trusted caregivers can create an account to manage reminders, emergency contacts, and accessibility options.  
-The account owner is responsible for accurate data and secure access credentials.
-
-## 4. License
-
-Ezivia grants a limited, non-exclusive, non-transferable license to install the app on compatible devices.  
-You may not distribute, modify, or decompile the software without explicit authorization.
-
-## 5. Prohibited use
-
-Ezivia cannot be used for illegal activities, privacy violations, or unsolicited communications.  
-Accounts may be suspended if these terms or applicable law are breached.
-
-## 6. Third-party services
-
-Ezivia may connect with third-party messaging or video calling services. Those services are governed by their own terms and privacy policies.
-
-## 7. Availability and support
-
-We work to keep the service available, but temporary interruptions may happen.  
-Support email: alex.casanova159@gmail.com  
-Estimated response time: 48 business hours.
-
-## 8. Liability
-
-Ezivia is not liable for indirect damages or data loss resulting from app usage.  
-Maximum liability, when applicable, will not exceed amounts paid in the previous 12 months. For free usage, liability is capped at 100 EUR.
-
-## 9. Changes to terms
-
-We may update these terms due to legal, technical, or service improvements.  
-Significant updates will be announced at least 15 days in advance in the app and at ezivia.com/legal.
-
-## 10. Governing law
-
-These terms are governed by Spanish law. Disputes are subject to the courts of Barcelona unless mandatory law states otherwise.
-
-For questions, write to alex.casanova159@gmail.com.
-
-2f:T9ac,# Ezivia Terms of Service
-
-**Last updated:** July 16, 2024
-
-This document explains the conditions for using Ezivia on Android. By installing and using Ezivia, you accept these terms. If you do not agree, do not use the app.
-
-### Quick summary
-
-- Ezivia helps make Android phones easier for older adults.
-- Support features require authorization from the older adult.
-- Support is provided by email in clear language.
-
-## 1. Purpose
-
-Ezivia simplifies Android phone usage for older adults and allows family or trusted caregivers to assist with setup and support.
-
-## 2. Requirements
-
-- Android 9+ phone and internet connection.
-- Consent from the older adult using the device.
-- Initial setup by a responsible adult.
-- Ezivia account linked to a valid email.
-
-## 3. Account and access
-
-Trusted caregivers can create an account to manage reminders, emergency contacts, and accessibility options.  
-The account owner is responsible for accurate data and secure access credentials.
-
-## 4. License
-
-Ezivia grants a limited, non-exclusive, non-transferable license to install the app on compatible devices.  
-You may not distribute, modify, or decompile the software without explicit authorization.
-
-## 5. Prohibited use
-
-Ezivia cannot be used for illegal activities, privacy violations, or unsolicited communications.  
-Accounts may be suspended if these terms or applicable law are breached.
-
-## 6. Third-party services
-
-Ezivia may connect with third-party messaging or video calling services. Those services are governed by their own terms and privacy policies.
-
-## 7. Availability and support
-
-We work to keep the service available, but temporary interruptions may happen.  
-Support email: alex.casanova159@gmail.com  
-Estimated response time: 48 business hours.
-
-## 8. Liability
-
-Ezivia is not liable for indirect damages or data loss resulting from app usage.  
-Maximum liability, when applicable, will not exceed amounts paid in the previous 12 months. For free usage, liability is capped at 100 EUR.
-
-## 9. Changes to terms
-
-We may update these terms due to legal, technical, or service improvements.  
-Significant updates will be announced at least 15 days in advance in the app and at ezivia.com/legal.
-
-## 10. Governing law
-
-These terms are governed by Spanish law. Disputes are subject to the courts of Barcelona unless mandatory law states otherwise.
-
-For questions, write to alex.casanova159@gmail.com.
-
-30:T9ac,# Ezivia Terms of Service
-
-**Last updated:** July 16, 2024
-
-This document explains the conditions for using Ezivia on Android. By installing and using Ezivia, you accept these terms. If you do not agree, do not use the app.
-
-### Quick summary
-
-- Ezivia helps make Android phones easier for older adults.
-- Support features require authorization from the older adult.
-- Support is provided by email in clear language.
-
-## 1. Purpose
-
-Ezivia simplifies Android phone usage for older adults and allows family or trusted caregivers to assist with setup and support.
-
-## 2. Requirements
-
-- Android 9+ phone and internet connection.
-- Consent from the older adult using the device.
-- Initial setup by a responsible adult.
-- Ezivia account linked to a valid email.
-
-## 3. Account and access
-
-Trusted caregivers can create an account to manage reminders, emergency contacts, and accessibility options.  
-The account owner is responsible for accurate data and secure access credentials.
-
-## 4. License
-
-Ezivia grants a limited, non-exclusive, non-transferable license to install the app on compatible devices.  
-You may not distribute, modify, or decompile the software without explicit authorization.
-
-## 5. Prohibited use
-
-Ezivia cannot be used for illegal activities, privacy violations, or unsolicited communications.  
-Accounts may be suspended if these terms or applicable law are breached.
-
-## 6. Third-party services
-
-Ezivia may connect with third-party messaging or video calling services. Those services are governed by their own terms and privacy policies.
-
-## 7. Availability and support
-
-We work to keep the service available, but temporary interruptions may happen.  
-Support email: alex.casanova159@gmail.com  
-Estimated response time: 48 business hours.
-
-## 8. Liability
-
-Ezivia is not liable for indirect damages or data loss resulting from app usage.  
-Maximum liability, when applicable, will not exceed amounts paid in the previous 12 months. For free usage, liability is capped at 100 EUR.
-
-## 9. Changes to terms
-
-We may update these terms due to legal, technical, or service improvements.  
-Significant updates will be announced at least 15 days in advance in the app and at ezivia.com/legal.
-
-## 10. Governing law
-
-These terms are governed by Spanish law. Disputes are subject to the courts of Barcelona unless mandatory law states otherwise.
-
-For questions, write to alex.casanova159@gmail.com.
-
-31:T9ac,# Ezivia Terms of Service
-
-**Last updated:** July 16, 2024
-
-This document explains the conditions for using Ezivia on Android. By installing and using Ezivia, you accept these terms. If you do not agree, do not use the app.
-
-### Quick summary
-
-- Ezivia helps make Android phones easier for older adults.
-- Support features require authorization from the older adult.
-- Support is provided by email in clear language.
-
-## 1. Purpose
-
-Ezivia simplifies Android phone usage for older adults and allows family or trusted caregivers to assist with setup and support.
-
-## 2. Requirements
-
-- Android 9+ phone and internet connection.
-- Consent from the older adult using the device.
-- Initial setup by a responsible adult.
-- Ezivia account linked to a valid email.
-
-## 3. Account and access
-
-Trusted caregivers can create an account to manage reminders, emergency contacts, and accessibility options.  
-The account owner is responsible for accurate data and secure access credentials.
-
-## 4. License
-
-Ezivia grants a limited, non-exclusive, non-transferable license to install the app on compatible devices.  
-You may not distribute, modify, or decompile the software without explicit authorization.
-
-## 5. Prohibited use
-
-Ezivia cannot be used for illegal activities, privacy violations, or unsolicited communications.  
-Accounts may be suspended if these terms or applicable law are breached.
-
-## 6. Third-party services
-
-Ezivia may connect with third-party messaging or video calling services. Those services are governed by their own terms and privacy policies.
-
-## 7. Availability and support
-
-We work to keep the service available, but temporary interruptions may happen.  
-Support email: alex.casanova159@gmail.com  
-Estimated response time: 48 business hours.
-
-## 8. Liability
-
-Ezivia is not liable for indirect damages or data loss resulting from app usage.  
-Maximum liability, when applicable, will not exceed amounts paid in the previous 12 months. For free usage, liability is capped at 100 EUR.
-
-## 9. Changes to terms
-
-We may update these terms due to legal, technical, or service improvements.  
-Significant updates will be announced at least 15 days in advance in the app and at ezivia.com/legal.
-
-## 10. Governing law
-
-These terms are governed by Spanish law. Disputes are subject to the courts of Barcelona unless mandatory law states otherwise.
-
-For questions, write to alex.casanova159@gmail.com.
-
-32:T9ac,# Ezivia Terms of Service
-
-**Last updated:** July 16, 2024
-
-This document explains the conditions for using Ezivia on Android. By installing and using Ezivia, you accept these terms. If you do not agree, do not use the app.
-
-### Quick summary
-
-- Ezivia helps make Android phones easier for older adults.
-- Support features require authorization from the older adult.
-- Support is provided by email in clear language.
-
-## 1. Purpose
-
-Ezivia simplifies Android phone usage for older adults and allows family or trusted caregivers to assist with setup and support.
-
-## 2. Requirements
-
-- Android 9+ phone and internet connection.
-- Consent from the older adult using the device.
-- Initial setup by a responsible adult.
-- Ezivia account linked to a valid email.
-
-## 3. Account and access
-
-Trusted caregivers can create an account to manage reminders, emergency contacts, and accessibility options.  
-The account owner is responsible for accurate data and secure access credentials.
-
-## 4. License
-
-Ezivia grants a limited, non-exclusive, non-transferable license to install the app on compatible devices.  
-You may not distribute, modify, or decompile the software without explicit authorization.
-
-## 5. Prohibited use
-
-Ezivia cannot be used for illegal activities, privacy violations, or unsolicited communications.  
-Accounts may be suspended if these terms or applicable law are breached.
-
-## 6. Third-party services
-
-Ezivia may connect with third-party messaging or video calling services. Those services are governed by their own terms and privacy policies.
-
-## 7. Availability and support
-
-We work to keep the service available, but temporary interruptions may happen.  
-Support email: alex.casanova159@gmail.com  
-Estimated response time: 48 business hours.
-
-## 8. Liability
-
-Ezivia is not liable for indirect damages or data loss resulting from app usage.  
-Maximum liability, when applicable, will not exceed amounts paid in the previous 12 months. For free usage, liability is capped at 100 EUR.
-
-## 9. Changes to terms
-
-We may update these terms due to legal, technical, or service improvements.  
-Significant updates will be announced at least 15 days in advance in the app and at ezivia.com/legal.
-
-## 10. Governing law
-
-These terms are governed by Spanish law. Disputes are subject to the courts of Barcelona unless mandatory law states otherwise.
-
-For questions, write to alex.casanova159@gmail.com.
-
-33:T9ac,# Ezivia Terms of Service
-
-**Last updated:** July 16, 2024
-
-This document explains the conditions for using Ezivia on Android. By installing and using Ezivia, you accept these terms. If you do not agree, do not use the app.
-
-### Quick summary
-
-- Ezivia helps make Android phones easier for older adults.
-- Support features require authorization from the older adult.
-- Support is provided by email in clear language.
-
-## 1. Purpose
-
-Ezivia simplifies Android phone usage for older adults and allows family or trusted caregivers to assist with setup and support.
-
-## 2. Requirements
-
-- Android 9+ phone and internet connection.
-- Consent from the older adult using the device.
-- Initial setup by a responsible adult.
-- Ezivia account linked to a valid email.
-
-## 3. Account and access
-
-Trusted caregivers can create an account to manage reminders, emergency contacts, and accessibility options.  
-The account owner is responsible for accurate data and secure access credentials.
-
-## 4. License
-
-Ezivia grants a limited, non-exclusive, non-transferable license to install the app on compatible devices.  
-You may not distribute, modify, or decompile the software without explicit authorization.
-
-## 5. Prohibited use
-
-Ezivia cannot be used for illegal activities, privacy violations, or unsolicited communications.  
-Accounts may be suspended if these terms or applicable law are breached.
-
-## 6. Third-party services
-
-Ezivia may connect with third-party messaging or video calling services. Those services are governed by their own terms and privacy policies.
-
-## 7. Availability and support
-
-We work to keep the service available, but temporary interruptions may happen.  
-Support email: alex.casanova159@gmail.com  
-Estimated response time: 48 business hours.
-
-## 8. Liability
-
-Ezivia is not liable for indirect damages or data loss resulting from app usage.  
-Maximum liability, when applicable, will not exceed amounts paid in the previous 12 months. For free usage, liability is capped at 100 EUR.
-
-## 9. Changes to terms
-
-We may update these terms due to legal, technical, or service improvements.  
-Significant updates will be announced at least 15 days in advance in the app and at ezivia.com/legal.
-
-## 10. Governing law
-
-These terms are governed by Spanish law. Disputes are subject to the courts of Barcelona unless mandatory law states otherwise.
-
-For questions, write to alex.casanova159@gmail.com.
-
-34:T9ac,# Ezivia Terms of Service
-
-**Last updated:** July 16, 2024
-
-This document explains the conditions for using Ezivia on Android. By installing and using Ezivia, you accept these terms. If you do not agree, do not use the app.
-
-### Quick summary
-
-- Ezivia helps make Android phones easier for older adults.
-- Support features require authorization from the older adult.
-- Support is provided by email in clear language.
-
-## 1. Purpose
-
-Ezivia simplifies Android phone usage for older adults and allows family or trusted caregivers to assist with setup and support.
-
-## 2. Requirements
-
-- Android 9+ phone and internet connection.
-- Consent from the older adult using the device.
-- Initial setup by a responsible adult.
-- Ezivia account linked to a valid email.
-
-## 3. Account and access
-
-Trusted caregivers can create an account to manage reminders, emergency contacts, and accessibility options.  
-The account owner is responsible for accurate data and secure access credentials.
-
-## 4. License
-
-Ezivia grants a limited, non-exclusive, non-transferable license to install the app on compatible devices.  
-You may not distribute, modify, or decompile the software without explicit authorization.
-
-## 5. Prohibited use
-
-Ezivia cannot be used for illegal activities, privacy violations, or unsolicited communications.  
-Accounts may be suspended if these terms or applicable law are breached.
-
-## 6. Third-party services
-
-Ezivia may connect with third-party messaging or video calling services. Those services are governed by their own terms and privacy policies.
-
-## 7. Availability and support
-
-We work to keep the service available, but temporary interruptions may happen.  
-Support email: alex.casanova159@gmail.com  
-Estimated response time: 48 business hours.
-
-## 8. Liability
-
-Ezivia is not liable for indirect damages or data loss resulting from app usage.  
-Maximum liability, when applicable, will not exceed amounts paid in the previous 12 months. For free usage, liability is capped at 100 EUR.
-
-## 9. Changes to terms
-
-We may update these terms due to legal, technical, or service improvements.  
-Significant updates will be announced at least 15 days in advance in the app and at ezivia.com/legal.
-
-## 10. Governing law
-
-These terms are governed by Spanish law. Disputes are subject to the courts of Barcelona unless mandatory law states otherwise.
-
-For questions, write to alex.casanova159@gmail.com.
-
-35:T9ac,# Ezivia Terms of Service
-
-**Last updated:** July 16, 2024
-
-This document explains the conditions for using Ezivia on Android. By installing and using Ezivia, you accept these terms. If you do not agree, do not use the app.
-
-### Quick summary
-
-- Ezivia helps make Android phones easier for older adults.
-- Support features require authorization from the older adult.
-- Support is provided by email in clear language.
-
-## 1. Purpose
-
-Ezivia simplifies Android phone usage for older adults and allows family or trusted caregivers to assist with setup and support.
-
-## 2. Requirements
-
-- Android 9+ phone and internet connection.
-- Consent from the older adult using the device.
-- Initial setup by a responsible adult.
-- Ezivia account linked to a valid email.
-
-## 3. Account and access
-
-Trusted caregivers can create an account to manage reminders, emergency contacts, and accessibility options.  
-The account owner is responsible for accurate data and secure access credentials.
-
-## 4. License
-
-Ezivia grants a limited, non-exclusive, non-transferable license to install the app on compatible devices.  
-You may not distribute, modify, or decompile the software without explicit authorization.
-
-## 5. Prohibited use
-
-Ezivia cannot be used for illegal activities, privacy violations, or unsolicited communications.  
-Accounts may be suspended if these terms or applicable law are breached.
-
-## 6. Third-party services
-
-Ezivia may connect with third-party messaging or video calling services. Those services are governed by their own terms and privacy policies.
-
-## 7. Availability and support
-
-We work to keep the service available, but temporary interruptions may happen.  
-Support email: alex.casanova159@gmail.com  
-Estimated response time: 48 business hours.
-
-## 8. Liability
-
-Ezivia is not liable for indirect damages or data loss resulting from app usage.  
-Maximum liability, when applicable, will not exceed amounts paid in the previous 12 months. For free usage, liability is capped at 100 EUR.
-
-## 9. Changes to terms
-
-We may update these terms due to legal, technical, or service improvements.  
-Significant updates will be announced at least 15 days in advance in the app and at ezivia.com/legal.
-
-## 10. Governing law
-
-These terms are governed by Spanish law. Disputes are subject to the courts of Barcelona unless mandatory law states otherwise.
-
-For questions, write to alex.casanova159@gmail.com.
-
-36:T9ac,# Ezivia Terms of Service
-
-**Last updated:** July 16, 2024
-
-This document explains the conditions for using Ezivia on Android. By installing and using Ezivia, you accept these terms. If you do not agree, do not use the app.
-
-### Quick summary
-
-- Ezivia helps make Android phones easier for older adults.
-- Support features require authorization from the older adult.
-- Support is provided by email in clear language.
-
-## 1. Purpose
-
-Ezivia simplifies Android phone usage for older adults and allows family or trusted caregivers to assist with setup and support.
-
-## 2. Requirements
-
-- Android 9+ phone and internet connection.
-- Consent from the older adult using the device.
-- Initial setup by a responsible adult.
-- Ezivia account linked to a valid email.
-
-## 3. Account and access
-
-Trusted caregivers can create an account to manage reminders, emergency contacts, and accessibility options.  
-The account owner is responsible for accurate data and secure access credentials.
-
-## 4. License
-
-Ezivia grants a limited, non-exclusive, non-transferable license to install the app on compatible devices.  
-You may not distribute, modify, or decompile the software without explicit authorization.
-
-## 5. Prohibited use
-
-Ezivia cannot be used for illegal activities, privacy violations, or unsolicited communications.  
-Accounts may be suspended if these terms or applicable law are breached.
-
-## 6. Third-party services
-
-Ezivia may connect with third-party messaging or video calling services. Those services are governed by their own terms and privacy policies.
-
-## 7. Availability and support
-
-We work to keep the service available, but temporary interruptions may happen.  
-Support email: alex.casanova159@gmail.com  
-Estimated response time: 48 business hours.
-
-## 8. Liability
-
-Ezivia is not liable for indirect damages or data loss resulting from app usage.  
-Maximum liability, when applicable, will not exceed amounts paid in the previous 12 months. For free usage, liability is capped at 100 EUR.
-
-## 9. Changes to terms
-
-We may update these terms due to legal, technical, or service improvements.  
-Significant updates will be announced at least 15 days in advance in the app and at ezivia.com/legal.
-
-## 10. Governing law
-
-These terms are governed by Spanish law. Disputes are subject to the courts of Barcelona unless mandatory law states otherwise.
-
-For questions, write to alex.casanova159@gmail.com.
-
-37:T9ac,# Ezivia Terms of Service
-
-**Last updated:** July 16, 2024
-
-This document explains the conditions for using Ezivia on Android. By installing and using Ezivia, you accept these terms. If you do not agree, do not use the app.
-
-### Quick summary
-
-- Ezivia helps make Android phones easier for older adults.
-- Support features require authorization from the older adult.
-- Support is provided by email in clear language.
-
-## 1. Purpose
-
-Ezivia simplifies Android phone usage for older adults and allows family or trusted caregivers to assist with setup and support.
-
-## 2. Requirements
-
-- Android 9+ phone and internet connection.
-- Consent from the older adult using the device.
-- Initial setup by a responsible adult.
-- Ezivia account linked to a valid email.
-
-## 3. Account and access
-
-Trusted caregivers can create an account to manage reminders, emergency contacts, and accessibility options.  
-The account owner is responsible for accurate data and secure access credentials.
-
-## 4. License
-
-Ezivia grants a limited, non-exclusive, non-transferable license to install the app on compatible devices.  
-You may not distribute, modify, or decompile the software without explicit authorization.
-
-## 5. Prohibited use
-
-Ezivia cannot be used for illegal activities, privacy violations, or unsolicited communications.  
-Accounts may be suspended if these terms or applicable law are breached.
-
-## 6. Third-party services
-
-Ezivia may connect with third-party messaging or video calling services. Those services are governed by their own terms and privacy policies.
-
-## 7. Availability and support
-
-We work to keep the service available, but temporary interruptions may happen.  
-Support email: alex.casanova159@gmail.com  
-Estimated response time: 48 business hours.
-
-## 8. Liability
-
-Ezivia is not liable for indirect damages or data loss resulting from app usage.  
-Maximum liability, when applicable, will not exceed amounts paid in the previous 12 months. For free usage, liability is capped at 100 EUR.
-
-## 9. Changes to terms
-
-We may update these terms due to legal, technical, or service improvements.  
-Significant updates will be announced at least 15 days in advance in the app and at ezivia.com/legal.
-
-## 10. Governing law
-
-These terms are governed by Spanish law. Disputes are subject to the courts of Barcelona unless mandatory law states otherwise.
-
-For questions, write to alex.casanova159@gmail.com.
-
-38:T9ac,# Ezivia Terms of Service
-
-**Last updated:** July 16, 2024
-
-This document explains the conditions for using Ezivia on Android. By installing and using Ezivia, you accept these terms. If you do not agree, do not use the app.
-
-### Quick summary
-
-- Ezivia helps make Android phones easier for older adults.
-- Support features require authorization from the older adult.
-- Support is provided by email in clear language.
-
-## 1. Purpose
-
-Ezivia simplifies Android phone usage for older adults and allows family or trusted caregivers to assist with setup and support.
-
-## 2. Requirements
-
-- Android 9+ phone and internet connection.
-- Consent from the older adult using the device.
-- Initial setup by a responsible adult.
-- Ezivia account linked to a valid email.
-
-## 3. Account and access
-
-Trusted caregivers can create an account to manage reminders, emergency contacts, and accessibility options.  
-The account owner is responsible for accurate data and secure access credentials.
-
-## 4. License
-
-Ezivia grants a limited, non-exclusive, non-transferable license to install the app on compatible devices.  
-You may not distribute, modify, or decompile the software without explicit authorization.
-
-## 5. Prohibited use
-
-Ezivia cannot be used for illegal activities, privacy violations, or unsolicited communications.  
-Accounts may be suspended if these terms or applicable law are breached.
-
-## 6. Third-party services
-
-Ezivia may connect with third-party messaging or video calling services. Those services are governed by their own terms and privacy policies.
-
-## 7. Availability and support
-
-We work to keep the service available, but temporary interruptions may happen.  
-Support email: alex.casanova159@gmail.com  
-Estimated response time: 48 business hours.
-
-## 8. Liability
-
-Ezivia is not liable for indirect damages or data loss resulting from app usage.  
-Maximum liability, when applicable, will not exceed amounts paid in the previous 12 months. For free usage, liability is capped at 100 EUR.
-
-## 9. Changes to terms
-
-We may update these terms due to legal, technical, or service improvements.  
-Significant updates will be announced at least 15 days in advance in the app and at ezivia.com/legal.
-
-## 10. Governing law
-
-These terms are governed by Spanish law. Disputes are subject to the courts of Barcelona unless mandatory law states otherwise.
-
-For questions, write to alex.casanova159@gmail.com.
-
-39:T9ac,# Ezivia Terms of Service
-
-**Last updated:** July 16, 2024
-
-This document explains the conditions for using Ezivia on Android. By installing and using Ezivia, you accept these terms. If you do not agree, do not use the app.
-
-### Quick summary
-
-- Ezivia helps make Android phones easier for older adults.
-- Support features require authorization from the older adult.
-- Support is provided by email in clear language.
-
-## 1. Purpose
-
-Ezivia simplifies Android phone usage for older adults and allows family or trusted caregivers to assist with setup and support.
-
-## 2. Requirements
-
-- Android 9+ phone and internet connection.
-- Consent from the older adult using the device.
-- Initial setup by a responsible adult.
-- Ezivia account linked to a valid email.
-
-## 3. Account and access
-
-Trusted caregivers can create an account to manage reminders, emergency contacts, and accessibility options.  
-The account owner is responsible for accurate data and secure access credentials.
-
-## 4. License
-
-Ezivia grants a limited, non-exclusive, non-transferable license to install the app on compatible devices.  
-You may not distribute, modify, or decompile the software without explicit authorization.
-
-## 5. Prohibited use
-
-Ezivia cannot be used for illegal activities, privacy violations, or unsolicited communications.  
-Accounts may be suspended if these terms or applicable law are breached.
-
-## 6. Third-party services
-
-Ezivia may connect with third-party messaging or video calling services. Those services are governed by their own terms and privacy policies.
-
-## 7. Availability and support
-
-We work to keep the service available, but temporary interruptions may happen.  
-Support email: alex.casanova159@gmail.com  
-Estimated response time: 48 business hours.
-
-## 8. Liability
-
-Ezivia is not liable for indirect damages or data loss resulting from app usage.  
-Maximum liability, when applicable, will not exceed amounts paid in the previous 12 months. For free usage, liability is capped at 100 EUR.
-
-## 9. Changes to terms
-
-We may update these terms due to legal, technical, or service improvements.  
-Significant updates will be announced at least 15 days in advance in the app and at ezivia.com/legal.
-
-## 10. Governing law
-
-These terms are governed by Spanish law. Disputes are subject to the courts of Barcelona unless mandatory law states otherwise.
-
-For questions, write to alex.casanova159@gmail.com.
-
-3a:T9ac,# Ezivia Terms of Service
-
-**Last updated:** July 16, 2024
-
-This document explains the conditions for using Ezivia on Android. By installing and using Ezivia, you accept these terms. If you do not agree, do not use the app.
-
-### Quick summary
-
-- Ezivia helps make Android phones easier for older adults.
-- Support features require authorization from the older adult.
-- Support is provided by email in clear language.
-
-## 1. Purpose
-
-Ezivia simplifies Android phone usage for older adults and allows family or trusted caregivers to assist with setup and support.
-
-## 2. Requirements
-
-- Android 9+ phone and internet connection.
-- Consent from the older adult using the device.
-- Initial setup by a responsible adult.
-- Ezivia account linked to a valid email.
-
-## 3. Account and access
-
-Trusted caregivers can create an account to manage reminders, emergency contacts, and accessibility options.  
-The account owner is responsible for accurate data and secure access credentials.
-
-## 4. License
-
-Ezivia grants a limited, non-exclusive, non-transferable license to install the app on compatible devices.  
-You may not distribute, modify, or decompile the software without explicit authorization.
-
-## 5. Prohibited use
-
-Ezivia cannot be used for illegal activities, privacy violations, or unsolicited communications.  
-Accounts may be suspended if these terms or applicable law are breached.
-
-## 6. Third-party services
-
-Ezivia may connect with third-party messaging or video calling services. Those services are governed by their own terms and privacy policies.
-
-## 7. Availability and support
-
-We work to keep the service available, but temporary interruptions may happen.  
-Support email: alex.casanova159@gmail.com  
-Estimated response time: 48 business hours.
-
-## 8. Liability
-
-Ezivia is not liable for indirect damages or data loss resulting from app usage.  
-Maximum liability, when applicable, will not exceed amounts paid in the previous 12 months. For free usage, liability is capped at 100 EUR.
-
-## 9. Changes to terms
-
-We may update these terms due to legal, technical, or service improvements.  
-Significant updates will be announced at least 15 days in advance in the app and at ezivia.com/legal.
-
-## 10. Governing law
-
-These terms are governed by Spanish law. Disputes are subject to the courts of Barcelona unless mandatory law states otherwise.
-
-For questions, write to alex.casanova159@gmail.com.
-
-6:["$","$L12",null,{"privacyMarkdownByLocale":{"es":"$13","en":"$14","zh":"$15","hi":"$16","fr":"$17","ar":"$18","bn":"$19","pt":"$1a","ru":"$1b","ur":"$1c","id":"$1d","de":"$1e","ja":"$1f","sw":"$20","mr":"$21","te":"$22","tr":"$23","ta":"$24","vi":"$25","ko":"$26"},"termsMarkdownByLocale":{"es":"$27","en":"$28","zh":"$29","hi":"$2a","fr":"$2b","ar":"$2c","bn":"$2d","pt":"$2e","ru":"$2f","ur":"$30","id":"$31","de":"$32","ja":"$33","sw":"$34","mr":"$35","te":"$36","tr":"$37","ta":"$38","vi":"$39","ko":"$3a"}}]
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"privacyMarkdownByLocale":{"es":"$3","en":"$4","zh":"$5","hi":"$6","fr":"$7","ar":"$8","bn":"$9","pt":"$a","ru":"$b","ur":"$c","id":"$d","de":"$e","ja":"$f","sw":"$10","mr":"$11","te":"$12","tr":"$13","ta":"$14","vi":"$15","ko":"$16"},"termsMarkdownByLocale":{"es":"$17","en":"$18","zh":"$19","hi":"$1a","fr":"$1b","ar":"$1c","bn":"$1d","pt":"$1e","ru":"$1f","ur":"$20","id":"$21","de":"$22","ja":"$23","sw":"$24","mr":"$25","te":"$26","tr":"$27","ta":"$28","vi":"$29","ko":"$2a"}}],["$L2b"],"$L2c"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"kdz2bYhAOSMNAF4duFNRY"}
+2b:["$","script","script-0",{"src":"/_next/static/chunks/0f.is4cu1dy~o.js","async":true}]
+2c:["$","$L2d",null,{"children":["$","$2e",null,{"name":"Next.MetadataOutlet","children":"$@2f"}]}]
+2f:null
