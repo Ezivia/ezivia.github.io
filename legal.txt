@@ -1,50 +1,303 @@
-1:"$Sreact.fragment"
-2:I[39756,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
-3:I[37457,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
-5:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
-6:"$Sreact.suspense"
-9:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
-b:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
-d:I[68027,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
-:HL["/_next/static/chunks/04ri493q-a68q.css","style"]
-:HL["/_next/static/media/07454f8ad8aaac57-s.p.0tqkxa-w3pk~c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"P":null,"c":["","legal"],"q":"","i":false,"f":[[["",{"children":["legal",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/04ri493q-a68q.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"es","className":"nunito_4c270ad2-module__CZY4Ka__variable","children":["$","body",null,{"className":"nunito_4c270ad2-module__CZY4Ka__className app-body","children":[["$","a",null,{"className":"skip-link","href":"#contenido-principal","children":"Saltar al contenido principal"}],["$","div",null,{"id":"contenido-principal","className":"app-shell","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0ka051yepewro.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/04ri493q-a68q.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"9ULfgHecty_wXqnbdnzJb"}
-e:[]
-8:"$We"
-a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-f:I[27201,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
-7:null
-c:[["$","title","0",{"children":"Información legal | Ezivia"}],["$","meta","1",{"name":"description","content":"Consulta la política de privacidad y los términos de servicio oficiales de Ezivia, revisados por el equipo legal."}],["$","meta","2",{"name":"application-name","content":"Ezivia"}],["$","meta","3",{"name":"author","content":"Equipo Ezivia"}],["$","meta","4",{"name":"keywords","content":"ezivia,móviles sencillos,smartphone para mayores,android accesible,apoyo para familias,tecnología inclusiva,teléfono fácil,interfaz grande,accesibilidad senior,comunicación familiar"}],["$","meta","5",{"name":"creator","content":"Ezivia"}],["$","meta","6",{"name":"category","content":"accessibility"}],["$","link","7",{"rel":"canonical","href":"https://www.eazivi.com"}],["$","meta","8",{"property":"og:title","content":"Ezivia | Móviles Android sencillos para personas mayores"}],["$","meta","9",{"property":"og:description","content":"Simplificamos los móviles Android para que las personas mayores y sus familias disfruten de una experiencia tranquila, clara y segura."}],["$","meta","10",{"property":"og:url","content":"https://www.eazivi.com"}],["$","meta","11",{"property":"og:site_name","content":"Ezivia"}],["$","meta","12",{"property":"og:locale","content":"es_ES"}],["$","meta","13",{"property":"og:image","content":"https://www.eazivi.com/illustration-care.png"}],["$","meta","14",{"property":"og:image:width","content":"1200"}],["$","meta","15",{"property":"og:image:height","content":"630"}],["$","meta","16",{"property":"og:image:alt","content":"Persona mayor utilizando Ezivia en un teléfono Android"}],["$","meta","17",{"property":"og:type","content":"website"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:site","content":"@eziviaapp"}],["$","meta","20",{"name":"twitter:creator","content":"@eziviaapp"}],["$","meta","21",{"name":"twitter:title","content":"Ezivia | Android simple para personas mayores"}],["$","meta","22",{"name":"twitter:description","content":"Convierte cualquier Android en un móvil sencillo y humano para personas mayores y sus familias."}],["$","meta","23",{"name":"twitter:image","content":"https://www.eazivi.com/illustration-care.png"}],["$","link","24",{"rel":"shortcut icon","href":"/favicon.png","type":"image/png","sizes":"any"}],["$","link","25",{"rel":"icon","href":"/favicon.png","type":"image/png","sizes":"any"}],["$","link","26",{"rel":"apple-touch-icon","href":"/touch-icon.png","type":"image/png","sizes":"180x180"}],["$","$Lf","27",{}]]
-10:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0ka051yepewro.js"],""]
-4:["$","main",null,{"className":"content-page","aria-labelledby":"legal-title","children":[["$","header",null,{"className":"content-page__header","children":[["$","h1",null,{"id":"legal-title","children":"Documentación legal de Ezivia"}],["$","p",null,{"children":["Aquí encontrarás la información revisada junto a nuestro equipo legal. Si tienes dudas adicionales, puedes escribirnos a "," ",["$","a",null,{"className":"markdown-link","href":"mailto:alex.casanova159@gmail.com","children":"alex.casanova159@gmail.com"}]," ","o visitar las ",["$","$L10",null,{"href":"/faq","children":"Preguntas frecuentes"}],"."]}],["$","nav",null,{"aria-label":"Índice legal","className":"content-page__toc","children":["$","ul",null,{"children":[["$","li",null,{"children":["$","a",null,{"href":"#politica-privacidad","children":"Política de privacidad"}]}],["$","li",null,{"children":["$","a",null,{"href":"#terminos-servicio","children":"Términos de servicio"}]}]]}]}]]}],["$","section",null,{"id":"politica-privacidad","aria-labelledby":"privacy-heading","children":["$","article",null,{"className":"markdown markdown--legal","aria-labelledby":"privacy-heading","children":[["$","h1","heading-0",{"id":"privacy-heading","children":["PolÃ­tica de privacidad de Ezivia"]}],["$","p","paragraph-1",{"children":[["$","strong","paragraph-1-strong-0",{"children":"Ãšltima actualizaciÃ³n:"}]," 16 de julio de 2024"]}],["$","p","paragraph-2",{"children":["En Ezivia cuidamos la privacidad de las personas mayores y de quienes las acompaÃ±an. Este documento ha sido elaborado en coordinaciÃ³n con el equipo legal y con asociaciones de cuidados para explicar, con lenguaje claro, quÃ© datos recopilamos cuando usas la app Ezivia para Android, por quÃ© los utilizamos y cÃ³mo puedes ejercer tus derechos."]}],["$","h3","heading-3",{"id":"$undefined","children":["Resumen rÃ¡pido"]}],["$","ul","ul-4",{"children":[["$","li","ul-4-item-0",{"children":["Solo pedimos los datos imprescindibles para que la experiencia simplificada funcione."]}],["$","li","ul-4-item-1",{"children":["Guardamos todo en la UniÃ³n Europea con cifrado de extremo a extremo."]}],["$","li","ul-4-item-2",{"children":["Puedes cambiar tu decisiÃ³n o borrar tu informaciÃ³n cuando lo necesites."]}]]}],["$","h2","heading-5",{"id":"$undefined","children":["1. Responsable del tratamiento"]}],["$","p","paragraph-6",{"children":["El responsable del tratamiento de los datos personales es ",["$","strong","paragraph-6-strong-0",{"children":"Ezivia S.L."}],", con domicilio social en Calle Llacuna 162, 08018 Barcelona (EspaÃ±a) y correo de contacto alex.casanova159@gmail.com. Contamos con una persona delegada de protecciÃ³n de datos (DPD) accesible en privacidad@ezivia.com."]}],["$","h2","heading-7",{"id":"$undefined","children":["2. Datos que recopilamos"]}],["$","p","paragraph-8",{"children":["Recopilamos Ãºnicamente la informaciÃ³n necesaria para ofrecer una experiencia segura y personalizada:"]}],["$","ul","ul-9",{"children":[["$","li","ul-9-item-0",{"children":["Datos de contacto de la persona mayor y de sus personas de confianza (nombre, relaciÃ³n y telÃ©fonos favoritos)."]}],["$","li","ul-9-item-1",{"children":["Preferencias de configuraciÃ³n del dispositivo (tamaÃ±o de letra, accesos directos, modo de alto contraste)."]}],["$","li","ul-9-item-2",{"children":["Recordatorios creados en la app (medicaciÃ³n, citas mÃ©dicas, hÃ¡bitos de bienestar)."]}],["$","li","ul-9-item-3",{"children":["Datos tÃ©cnicos mÃ­nimos para el funcionamiento del servicio (modelo de dispositivo Android, versiÃ³n del sistema y registros de errores)."]}],["$","li","ul-9-item-4",{"children":["MÃ©tricas de uso agregadas y anonimizadas para mejorar la accesibilidad (por ejemplo, tamaÃ±o de texto preferido o frecuencia de uso del botÃ³n SOS)."]}]]}],["$","p","paragraph-10",{"children":["No solicitamos contenido multimedia, historiales de navegaciÃ³n ni datos biomÃ©tricos. Tampoco activamos la cÃ¡mara ni el micrÃ³fono sin solicitarlo de forma explÃ­cita en cada funcionalidad."]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25"]}]}],"$L26"]}]
-11:["$","h2","heading-11",{"id":"$undefined","children":["3. Finalidades del tratamiento"]}]
-12:["$","p","paragraph-12",{"children":["Utilizamos los datos personales para:"]}]
-13:["$","ol","ol-13",{"children":[["$","li","ol-13-item-0",{"children":["Configurar la interfaz simplificada del dispositivo Android."]}],["$","li","ol-13-item-1",{"children":["Enviar recordatorios y avisos esenciales definidos por la familia o personas de confianza."]}],["$","li","ol-13-item-2",{"children":["Facilitar la comunicaciÃ³n segura entre la persona mayor y su red de apoyo."]}],["$","li","ol-13-item-3",{"children":["Mejorar la fiabilidad de Ezivia mediante el anÃ¡lisis anÃ³nimo de fallos y uso general."]}],["$","li","ol-13-item-4",{"children":["Cumplir obligaciones legales o de seguridad relacionadas con servicios de teleasistencia."]}]]}]
-14:["$","p","paragraph-14",{"children":["No usamos los datos para publicidad ni los vendemos a terceros."]}]
-15:["$","h2","heading-15",{"id":"$undefined","children":["4. Base legÃ­tima"]}]
-16:["$","p","paragraph-16",{"children":["Tratamos los datos sobre la base del consentimiento informado de la persona mayor y de sus personas de confianza, asÃ­ como en interÃ©s legÃ­timo para garantizar la seguridad del servicio."]}]
-17:["$","h2","heading-17",{"id":"$undefined","children":["5. Destinatarios y transferencias"]}]
-18:["$","p","paragraph-18",{"children":["Los datos se almacenan en proveedores de infraestructura ubicados en la UniÃ³n Europea y certificados con estÃ¡ndares de seguridad. Solo compartimos informaciÃ³n con terceros cuando es imprescindible para prestar el servicio y siempre bajo contratos de confidencialidad. Los proveedores autorizados se pueden consultar en cualquier momento dentro de la app, en Ajustes > Privacidad."]}]
-19:["$","h2","heading-19",{"id":"$undefined","children":["6. Plazos de conservaciÃ³n"]}]
-1a:["$","p","paragraph-20",{"children":["Conservamos los datos mientras la cuenta Ezivia estÃ© activa. Puedes solicitar la eliminaciÃ³n inmediata desde la app o escribiendo a alex.casanova159@gmail.com. Una vez eliminados, mantenemos respaldos cifrados durante un mÃ¡ximo de 30 dÃ­as por motivos de seguridad y cumplimiento."]}]
-1b:["$","h2","heading-21",{"id":"$undefined","children":["7. Derechos de las personas usuarias"]}]
-1c:["$","p","paragraph-22",{"children":["Puedes ejercer los derechos de acceso, rectificaciÃ³n, supresiÃ³n, oposiciÃ³n, limitaciÃ³n y portabilidad enviando una solicitud a alex.casanova159@gmail.com o a privacidad@ezivia.com. TambiÃ©n puedes usar el botÃ³n \"Gestionar datos\" en la app. Responderemos en un plazo mÃ¡ximo de 30 dÃ­as, y si necesitas ayuda telefÃ³nica podemos llamarte para explicarlo sin tecnicismos."]}]
-1d:["$","h3","heading-23",{"id":"$undefined","children":["DelegaciÃ³n de consentimiento y representantes"]}]
-1e:["$","p","paragraph-24",{"children":["Si la persona mayor lo prefiere, puede delegar la gestiÃ³n de sus datos en un representante (familiar, persona de confianza o tutor legal). Esta delegaciÃ³n se registra con un cÃ³digo de seis dÃ­gitos y puede revocarse de inmediato desde la app o mediante correo electrÃ³nico."]}]
-1f:["$","h3","heading-25",{"id":"$undefined","children":["Menores de edad"]}]
-20:["$","p","paragraph-26",{"children":["Ezivia no estÃ¡ dirigida a menores de 16 aÃ±os. Si detectamos que un perfil pertenece a una persona menor, eliminaremos la cuenta y notificaremos a sus tutores legales."]}]
-21:["$","h2","heading-27",{"id":"$undefined","children":["8. Seguridad"]}]
-22:["$","p","paragraph-28",{"children":["Aplicamos medidas tÃ©cnicas y organizativas, como cifrado de extremo a extremo para los datos sensibles, autenticaciÃ³n reforzada para cuentas de soporte y revisiones periÃ³dicas de seguridad. Realizamos auditorÃ­as externas anuales y mantenemos un plan de respuesta ante incidentes aprobado por nuestra direcciÃ³n mÃ©dica."]}]
-23:["$","h2","heading-29",{"id":"$undefined","children":["9. Cambios en la polÃ­tica"]}]
-24:["$","p","paragraph-30",{"children":["Notificaremos cualquier modificaciÃ³n relevante con al menos 15 dÃ­as de antelaciÃ³n dentro de la app y en ezivia.com/legal. Te recomendamos revisar esta polÃ­tica con frecuencia. Las versiones anteriores quedarÃ¡n disponibles para consulta en formato de lectura fÃ¡cil."]}]
-25:["$","p","paragraph-31",{"children":["Si tienes dudas sobre esta polÃ­tica o necesitas ayuda, contÃ¡ctanos en alex.casanova159@gmail.com."]}]
-26:["$","section",null,{"id":"terminos-servicio","aria-labelledby":"terms-heading","children":["$","article",null,{"className":"markdown markdown--legal","aria-labelledby":"terms-heading","children":[["$","h1","heading-0",{"id":"terms-heading","children":["TÃ©rminos de servicio de Ezivia"]}],["$","p","paragraph-1",{"children":[["$","strong","paragraph-1-strong-0",{"children":"Ãšltima actualizaciÃ³n:"}]," 16 de julio de 2024"]}],["$","p","paragraph-2",{"children":["Este documento, revisado junto al equipo legal y contrastado con asociaciones de personas mayores, regula el uso de la aplicaciÃ³n Ezivia para Android. Al instalar y utilizar Ezivia aceptas estos tÃ©rminos. Si no estÃ¡s de acuerdo, no utilices la aplicaciÃ³n."]}],["$","h3","heading-3",{"id":"$undefined","children":["Resumen rÃ¡pido"]}],["$","ul","ul-4",{"children":[["$","li","ul-4-item-0",{"children":["Ezivia convierte un mÃ³vil Android en una experiencia sencilla para mayores."]}],["$","li","ul-4-item-1",{"children":["Necesitas autorizaciÃ³n de la persona mayor para activar funciones remotas."]}],["$","li","ul-4-item-2",{"children":["Ofrecemos soporte humano para resolver dudas en lenguaje claro."]}]]}],["$","h2","heading-5",{"id":"$undefined","children":["1. Objeto"]}],["$","p","paragraph-6",{"children":["Ezivia simplifica smartphones Android para facilitar su uso por personas mayores y permitir que familiares o personas de confianza acompaÃ±en la configuraciÃ³n inicial y el soporte. Este servicio incluye el espacio de apoyo inicial, las guÃ­as impresas y los materiales audiovisuales asociados."]}],["$","h2","heading-7",{"id":"$undefined","children":["2. Requisitos de uso"]}],["$","ul","ul-8",{"children":[["$","li","ul-8-item-0",{"children":["Dispositivo con Android 9 o superior y acceso a Internet."]}],["$","li","ul-8-item-1",{"children":["Consentimiento informado de la persona mayor usuaria del dispositivo, que puede revocarse en cualquier momento."]}],["$","li","ul-8-item-2",{"children":["ConfiguraciÃ³n inicial realizada por un adulto responsable."]}],["$","li","ul-8-item-3",{"children":["Cuenta Ezivia activa asociada a una direcciÃ³n de correo vÃ¡lida."]}]]}],["$","h2","heading-9",{"id":"$undefined","children":["3. CreaciÃ³n y gestiÃ³n de cuentas"]}],["$","p","paragraph-10",{"children":["Los familiares o personas de confianza pueden crear una cuenta Ezivia para gestionar recordatorios, contactos de emergencia y ajustes de accesibilidad. Eres responsable de la veracidad de la informaciÃ³n proporcionada y de mantener tus credenciales seguras. Puedes invitar a otros familiares mediante enlaces temporales y revocar el acceso desde el espacio de soporte."]}],["$","h2","heading-11",{"id":"$undefined","children":["4. Licencia"]}],["$","p","paragraph-12",{"children":["Otorgamos una licencia limitada, no exclusiva e intransferible para instalar Ezivia en dispositivos Android compatibles. No puedes distribuir, modificar ni realizar ingenierÃ­a inversa del software salvo autorizaciÃ³n expresa. El uso profesional (residencias, asociaciones) requiere un acuerdo especÃ­fico con Ezivia."]}],["$","h2","heading-13",{"id":"$undefined","children":["5. Uso aceptable"]}],["$","p","paragraph-14",{"children":["Queda prohibido utilizar Ezivia para actividades ilÃ­citas, para vulnerar la privacidad de terceros o para enviar comunicaciones no solicitadas. Podemos suspender el acceso si detectamos usos contrarios a estos tÃ©rminos o a la legislaciÃ³n vigente."]}],["$","h2","heading-15",{"id":"$undefined","children":["6. Servicios de terceros"]}],["$","p","paragraph-16",{"children":["Ezivia puede integrarse con servicios de videollamadas o mensajerÃ­a. Dichos servicios tienen sus propios tÃ©rminos y polÃ­ticas de privacidad, que deberÃ¡s revisar y aceptar. Cuando actives una integraciÃ³n, la app mostrarÃ¡ un aviso claro con los permisos solicitados."]}],"$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f"]}]}]
-27:["$","h2","heading-17",{"id":"$undefined","children":["7. Disponibilidad y soporte"]}]
-28:["$","p","paragraph-18",{"children":["Trabajamos para mantener Ezivia disponible 24/7, pero no garantizamos ausencia total de interrupciones. Ofrecemos soporte por correo en alex.casanova159@gmail.com con tiempos de respuesta estimados de 48 horas laborales. TambiÃ©n puedes solicitar sesiones de acompaÃ±amiento en vivo durante el horario de atenciÃ³n (lunes a viernes, 9:00-18:00 CET)."]}]
-29:["$","h2","heading-19",{"id":"$undefined","children":["8. LimitaciÃ³n de responsabilidad"]}]
-2a:["$","p","paragraph-20",{"children":["Ezivia no serÃ¡ responsable por daÃ±os indirectos o pÃ©rdida de datos derivados del uso de la aplicaciÃ³n. La responsabilidad total frente a cualquier reclamaciÃ³n no superarÃ¡ el importe abonado por el servicio en los 12 meses previos, si corresponde. Si utilizas la versiÃ³n gratuita, la responsabilidad se limitarÃ¡ a 100 euros."]}]
-2b:["$","h2","heading-21",{"id":"$undefined","children":["9. Modificaciones"]}]
-2c:["$","p","paragraph-22",{"children":["Podemos actualizar estos tÃ©rminos por motivos legales, tÃ©cnicos o de experiencia de uso. Notificaremos los cambios con al menos 15 dÃ­as de antelaciÃ³n en la app y en ezivia.com/legal. El uso continuado tras la actualizaciÃ³n implicarÃ¡ la aceptaciÃ³n de los nuevos tÃ©rminos."]}]
-2d:["$","h2","heading-23",{"id":"$undefined","children":["10. LegislaciÃ³n y jurisdicciÃ³n"]}]
-2e:["$","p","paragraph-24",{"children":["Estos tÃ©rminos se rigen por la legislaciÃ³n espaÃ±ola. Para cualquier conflicto, las partes se someten a los juzgados y tribunales de Barcelona, salvo que la normativa de protecciÃ³n de consumidores establezca otra cosa."]}]
-2f:["$","p","paragraph-25",{"children":["Para consultas sobre estos tÃ©rminos, escribe a alex.casanova159@gmail.com."]}]
+3:I[4707,[],""]
+4:I[6423,[],""]
+5:I[2876,["185","static/chunks/app/layout-314045c3a2a5483c.js"],"I18nProvider"]
+6:I[8664,["185","static/chunks/app/layout-314045c3a2a5483c.js"],"AppChrome"]
+0:["2G0SZxqo6cjcPiGm-wUGZ",[[["",{"children":["legal",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",{"children":["legal",{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","legal","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95d47affda21c8a2.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"es","className":"__variable_9637e0","children":["$","body",null,{"className":"__className_9637e0 app-body","children":["$","$L5",null,{"children":["$","$L6",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]}]}]}]],null],null],["$L7",null]]]]
+7:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Información legal | Ezivia"}],["$","meta","3",{"name":"description","content":"Consulta la política de privacidad y los términos de servicio oficiales de Ezivia, revisados por el equipo legal."}],["$","meta","4",{"name":"application-name","content":"Ezivia"}],["$","meta","5",{"name":"author","content":"Equipo Ezivia"}],["$","meta","6",{"name":"keywords","content":"ezivia,móviles sencillos,smartphone para mayores,android accesible,apoyo para familias,tecnología inclusiva,teléfono fácil,interfaz grande,accesibilidad senior,comunicación familiar"}],["$","meta","7",{"name":"creator","content":"Ezivia"}],["$","meta","8",{"name":"category","content":"accessibility"}],["$","link","9",{"rel":"canonical","href":"https://www.eazivi.com"}],["$","meta","10",{"property":"og:title","content":"Ezivia | Móviles Android sencillos para personas mayores"}],["$","meta","11",{"property":"og:description","content":"Simplificamos los móviles Android para que las personas mayores y sus familias disfruten de una experiencia tranquila, clara y segura."}],["$","meta","12",{"property":"og:url","content":"https://www.eazivi.com"}],["$","meta","13",{"property":"og:site_name","content":"Ezivia"}],["$","meta","14",{"property":"og:locale","content":"es_ES"}],["$","meta","15",{"property":"og:image","content":"https://www.eazivi.com/illustration-care.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Persona mayor utilizando Ezivia en un teléfono Android"}],["$","meta","19",{"property":"og:type","content":"website"}],["$","meta","20",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","21",{"name":"twitter:site","content":"@eziviaapp"}],["$","meta","22",{"name":"twitter:creator","content":"@eziviaapp"}],["$","meta","23",{"name":"twitter:title","content":"Ezivia | Android simple para personas mayores"}],["$","meta","24",{"name":"twitter:description","content":"Convierte cualquier Android en un móvil sencillo y humano para personas mayores y sus familias."}],["$","meta","25",{"name":"twitter:image","content":"https://www.eazivi.com/illustration-care.png"}],["$","link","26",{"rel":"shortcut icon","href":"/favicon.png","type":"image/png","sizes":"any"}],["$","link","27",{"rel":"icon","href":"/favicon.png","type":"image/png","sizes":"any"}],["$","link","28",{"rel":"apple-touch-icon","href":"/touch-icon.png","type":"image/png","sizes":"180x180"}]]
+1:null
+8:I[2674,["648","static/chunks/648-575115ad17a054f0.js","775","static/chunks/775-964b6e3d0ca2df76.js","246","static/chunks/app/legal/page-96014176b56440fe.js"],"LegalClientPage"]
+9:Te24,﻿# Politica de privacidad de Ezivia
+
+**Ultima actualizacion:** 16 de julio de 2024
+
+En Ezivia cuidamos la privacidad de las personas mayores y de quienes las acompanian. En este texto explicamos de forma clara que datos usamos, para que los usamos y como puedes pedir cambios o borrado.
+
+### Resumen rapido
+
+- Pedimos solo los datos necesarios para que el servicio funcione bien.
+- Guardamos la informacion en la Union Europea con medidas de seguridad.
+- Puedes pedir cambios o borrado de tus datos cuando lo necesites.
+
+## 1. Responsable del tratamiento
+
+La responsable de los datos personales es **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Espana).  
+Correo de contacto: alex.casanova159@gmail.com  
+Contacto de privacidad: privacidad@ezivia.com
+
+## 2. Que datos recopilamos
+
+Recogemos solo informacion necesaria para prestar el servicio:
+
+- Datos de contacto de la persona mayor y de sus personas de confianza.
+- Preferencias de configuracion del telefono (tamano de letra, accesos directos, contraste).
+- Recordatorios creados en la aplicacion (por ejemplo, medicacion o citas).
+- Datos tecnicos minimos (modelo del telefono, version de Android y errores tecnicos).
+- Datos de uso anonimos y agrupados para mejorar la accesibilidad.
+
+No pedimos datos biometricos ni historial de navegacion. La camara y el microfono solo se usan cuando la funcion lo requiere y con permiso previo.
+
+## 3. Para que usamos los datos
+
+Usamos los datos para:
+
+1. Configurar una pantalla de uso sencillo en Android.
+2. Enviar recordatorios y avisos definidos por la familia o personas de confianza.
+3. Facilitar la comunicacion entre la persona mayor y su red de apoyo.
+4. Mejorar estabilidad y accesibilidad de Ezivia.
+5. Cumplir obligaciones legales y de seguridad.
+
+No vendemos datos ni los usamos para publicidad.
+
+## 4. Base legal
+
+Tratamos los datos con consentimiento informado de la persona usuaria y, cuando aplica, por interes legitimo para mantener la seguridad del servicio.
+
+## 5. Con quien compartimos datos
+
+Los datos se guardan en proveedores de infraestructura de la Union Europea con contratos de confidencialidad.  
+Solo compartimos informacion cuando es necesario para prestar el servicio.
+
+## 6. Durante cuanto tiempo guardamos los datos
+
+Guardamos los datos mientras la cuenta este activa.  
+Si pides borrado, eliminamos la cuenta y mantenemos copias de seguridad cifradas durante un maximo de 30 dias por motivos tecnicos y legales.
+
+## 7. Tus derechos
+
+Puedes pedir acceso, rectificacion, oposicion, limitacion, portabilidad o supresion de tus datos escribiendo a:
+
+- alex.casanova159@gmail.com
+- privacidad@ezivia.com
+
+Tambien puedes usar la opcion "Gestionar datos" en la aplicacion.  
+Respondemos en un plazo maximo de 30 dias.
+
+### Representantes
+
+Si la persona mayor lo desea, puede autorizar a un familiar, persona de confianza o tutor legal para gestionar sus datos. Esta autorizacion se puede retirar en cualquier momento.
+
+### Menores de edad
+
+Ezivia no esta dirigida a menores de 16 anios. Si detectamos una cuenta de una persona menor, se eliminara y se notificara a sus representantes legales.
+
+## 8. Seguridad
+
+Aplicamos medidas tecnicas y organizativas para proteger la informacion (por ejemplo, cifrado de datos sensibles, controles de acceso y revisiones periodicas de seguridad).
+
+## 9. Cambios en esta politica
+
+Si hacemos cambios importantes, los avisaremos con al menos 15 dias de antelacion dentro de la aplicacion y en ezivia.com/legal.
+
+Si tienes dudas, escribenos a alex.casanova159@gmail.com.
+
+a:Tc7f,# Ezivia Privacy Policy
+
+**Last updated:** July 16, 2024
+
+At Ezivia we protect the privacy of older adults and their caregivers. This policy explains what data we use, why we use it, and how you can request changes or deletion.
+
+### Quick summary
+
+- We only request the data needed to provide the service.
+- Information is stored in the European Union with security safeguards.
+- You can request correction or deletion of your data at any time.
+
+## 1. Data controller
+
+The controller is **Ezivia S.L.** (Calle Llacuna 162, 08018 Barcelona, Spain).  
+Contact email: alex.casanova159@gmail.com  
+Privacy contact: privacidad@ezivia.com
+
+## 2. What data we collect
+
+We collect only what is necessary to operate the service:
+
+- Contact data for the older adult and trusted caregivers.
+- Device setup preferences (font size, shortcuts, contrast).
+- Reminders created in the app (for example medication or appointments).
+- Minimal technical data (device model, Android version, technical errors).
+- Anonymous aggregated usage data to improve accessibility.
+
+We do not collect biometric data or browsing history. Camera and microphone are only used when the related feature requires it and after permission is granted.
+
+## 3. Why we use data
+
+We process data to:
+
+1. Configure an easier Android launcher experience.
+2. Send reminders configured by family or trusted caregivers.
+3. Support communication between the older adult and their support network.
+4. Improve stability and accessibility in Ezivia.
+5. Meet legal and security obligations.
+
+We do not sell data and we do not use it for advertising.
+
+## 4. Legal basis
+
+Processing is based on informed user consent and, when applicable, legitimate interest to maintain service security.
+
+## 5. Data sharing
+
+Data is stored with EU-based infrastructure providers under confidentiality agreements.  
+Information is shared only when needed to provide the service.
+
+## 6. Retention period
+
+Data is kept while the account is active.  
+If deletion is requested, the account is removed and encrypted backups are retained for up to 30 days for technical and legal reasons.
+
+## 7. Your rights
+
+You can request access, correction, objection, restriction, portability, or deletion by writing to:
+
+- alex.casanova159@gmail.com
+- privacidad@ezivia.com
+
+You can also use the "Manage data" option in the app.  
+We respond within 30 days.
+
+### Authorized representatives
+
+If the older adult chooses, they may authorize a family member, trusted person, or legal guardian to manage data. This authorization can be revoked at any time.
+
+### Minors
+
+Ezivia is not intended for children under 16. If we detect an account belonging to a minor, it will be removed and legal guardians will be notified.
+
+## 8. Security
+
+We apply technical and organizational controls to protect information (for example encryption of sensitive data, access controls, and periodic security reviews).
+
+## 9. Changes to this policy
+
+If we make significant changes, we will notify users at least 15 days in advance inside the app and at ezivia.com/legal.
+
+If you have questions, write to alex.casanova159@gmail.com.
+b:Tb6a,﻿# Terminos de servicio de Ezivia
+
+**Ultima actualizacion:** 16 de julio de 2024
+
+Este documento explica las condiciones de uso de la aplicacion Ezivia para Android. Al instalar y usar Ezivia aceptas estos terminos. Si no estas de acuerdo, no uses la aplicacion.
+
+### Resumen rapido
+
+- Ezivia ayuda a que el movil Android sea mas facil de usar para personas mayores.
+- Para activar funciones de apoyo, hace falta autorizacion de la persona mayor.
+- Ofrecemos soporte por correo en lenguaje claro.
+
+## 1. Objeto
+
+Ezivia simplifica el uso del movil Android para personas mayores y permite que familiares o personas de confianza ayuden en la configuracion y acompanamiento.
+
+## 2. Requisitos de uso
+
+- Telefono con Android 9 o superior y conexion a Internet.
+- Consentimiento de la persona mayor usuaria del dispositivo.
+- Configuracion inicial realizada por una persona adulta responsable.
+- Cuenta Ezivia asociada a un correo valido.
+
+## 3. Cuenta y acceso
+
+Las personas de confianza pueden crear una cuenta para gestionar recordatorios, contactos de emergencia y opciones de accesibilidad.  
+Quien crea la cuenta es responsable de que los datos sean correctos y de mantener su acceso protegido.
+
+## 4. Licencia de uso
+
+Ezivia concede una licencia limitada, no exclusiva e intransferible para instalar la aplicacion en dispositivos compatibles.  
+No se permite distribuir, modificar ni descompilar el software sin autorizacion expresa.
+
+## 5. Uso no permitido
+
+No se puede usar Ezivia para actividades ilegales, para vulnerar la privacidad de otras personas o para enviar comunicaciones no solicitadas.  
+Podemos suspender cuentas en caso de incumplimiento de estos terminos o de la ley.
+
+## 6. Servicios de terceros
+
+Ezivia puede conectarse con servicios de videollamada o mensajeria. Esos servicios tienen sus propias condiciones y politicas de privacidad.
+
+## 7. Disponibilidad y soporte
+
+Trabajamos para mantener el servicio disponible, aunque pueden existir interrupciones puntuales.  
+Soporte por correo: alex.casanova159@gmail.com  
+Tiempo estimado de respuesta: 48 horas laborables.
+
+## 8. Responsabilidad
+
+Ezivia no responde por danos indirectos ni por perdida de datos derivados del uso de la aplicacion.  
+La responsabilidad maxima, cuando corresponda, no superara el importe abonado en los 12 meses previos. En version gratuita, el limite sera de 100 euros.
+
+## 9. Cambios en los terminos
+
+Podemos actualizar estos terminos por motivos legales, tecnicos o de mejora del servicio.  
+Avisaremos cambios importantes con al menos 15 dias de antelacion en la aplicacion y en ezivia.com/legal.
+
+## 10. Legislacion aplicable
+
+Estos terminos se rigen por la legislacion espanola. Para conflictos, seran competentes los juzgados y tribunales de Barcelona, salvo norma legal que indique otro fuero.
+
+Para consultas, escribe a alex.casanova159@gmail.com.
+
+c:T9aa,# Ezivia Terms of Service
+
+**Last updated:** July 16, 2024
+
+This document explains the conditions for using Ezivia on Android. By installing and using Ezivia, you accept these terms. If you do not agree, do not use the app.
+
+### Quick summary
+
+- Ezivia helps make Android phones easier for older adults.
+- Support features require authorization from the older adult.
+- Support is provided by email in clear language.
+
+## 1. Purpose
+
+Ezivia simplifies Android phone usage for older adults and allows family or trusted caregivers to assist with setup and support.
+
+## 2. Requirements
+
+- Android 9+ phone and internet connection.
+- Consent from the older adult using the device.
+- Initial setup by a responsible adult.
+- Ezivia account linked to a valid email.
+
+## 3. Account and access
+
+Trusted caregivers can create an account to manage reminders, emergency contacts, and accessibility options.  
+The account owner is responsible for accurate data and secure access credentials.
+
+## 4. License
+
+Ezivia grants a limited, non-exclusive, non-transferable license to install the app on compatible devices.  
+You may not distribute, modify, or decompile the software without explicit authorization.
+
+## 5. Prohibited use
+
+Ezivia cannot be used for illegal activities, privacy violations, or unsolicited communications.  
+Accounts may be suspended if these terms or applicable law are breached.
+
+## 6. Third-party services
+
+Ezivia may connect with third-party messaging or video calling services. Those services are governed by their own terms and privacy policies.
+
+## 7. Availability and support
+
+We work to keep the service available, but temporary interruptions may happen.  
+Support email: alex.casanova159@gmail.com  
+Estimated response time: 48 business hours.
+
+## 8. Liability
+
+Ezivia is not liable for indirect damages or data loss resulting from app usage.  
+Maximum liability, when applicable, will not exceed amounts paid in the previous 12 months. For free usage, liability is capped at 100 EUR.
+
+## 9. Changes to terms
+
+We may update these terms due to legal, technical, or service improvements.  
+Significant updates will be announced at least 15 days in advance in the app and at ezivia.com/legal.
+
+## 10. Governing law
+
+These terms are governed by Spanish law. Disputes are subject to the courts of Barcelona unless mandatory law states otherwise.
+
+For questions, write to alex.casanova159@gmail.com.
+2:["$","$L8",null,{"privacyMarkdownByLocale":{"es":"$9","en":"$a"},"termsMarkdownByLocale":{"es":"$b","en":"$c"}}]
