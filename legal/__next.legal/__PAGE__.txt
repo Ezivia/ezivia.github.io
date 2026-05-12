@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[8540,["/_next/static/chunks/0w3zwtgt_9r63.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/13u5uctbjqcx9.js"],"LegalClientPage"]
-7:I[97367,["/_next/static/chunks/0w3zwtgt_9r63.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+2:I[8540,["/_next/static/chunks/0ckz2u.28tp_0.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/13u5uctbjqcx9.js"],"LegalClientPage"]
+7:I[97367,["/_next/static/chunks/0ckz2u.28tp_0.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
 8:"$Sreact.suspense"
 3:Te21,# Politica de privacidad de Ezivia
 
@@ -150,7 +150,7 @@ Estos terminos se rigen por la legislacion espanola. Para conflictos, seran comp
 
 Para consultas, escribe a alex.casanova159@gmail.com.
 
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"privacyMarkdown":"$3","termsMarkdown":"$4"}],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"cgPukK3kZiZUfnX5PX66o"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"privacyMarkdown":"$3","termsMarkdown":"$4"}],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wt21NlLw0YRIBDfqb7KoF"}
 5:["$","script","script-0",{"src":"/_next/static/chunks/13u5uctbjqcx9.js","async":true}]
 6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
 9:null

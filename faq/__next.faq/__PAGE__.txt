@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[4653,["/_next/static/chunks/0w3zwtgt_9r63.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0f5.a35hw96g0.js"],"FaqClientPage"]
-4:I[97367,["/_next/static/chunks/0w3zwtgt_9r63.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+2:I[4653,["/_next/static/chunks/0ckz2u.28tp_0.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0f5.a35hw96g0.js"],"FaqClientPage"]
+4:I[97367,["/_next/static/chunks/0ckz2u.28tp_0.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
 3:T53e,# Preguntas frecuentes sobre Ezivia
 
@@ -35,5 +35,5 @@ Para entrar en ajustes hay que mantener pulsado. Asi se evitan cambios por error
 ## ¿Cómo contacto si tengo dudas?
 
 Escribe a [alex.casanova159@gmail.com](mailto:alex.casanova159@gmail.com).
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"faqMarkdown":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/0f5.a35hw96g0.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"cgPukK3kZiZUfnX5PX66o"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"faqMarkdown":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/0f5.a35hw96g0.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wt21NlLw0YRIBDfqb7KoF"}
 6:null
