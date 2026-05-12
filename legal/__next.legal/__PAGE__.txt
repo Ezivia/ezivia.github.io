@@ -150,7 +150,7 @@ Estos terminos se rigen por la legislacion espanola. Para conflictos, seran comp
 
 Para consultas, escribe a alex.casanova159@gmail.com.
 
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"privacyMarkdown":"$3","termsMarkdown":"$4"}],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ZJ5Y4hbNRc2jGzcZxVQHm"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"privacyMarkdown":"$3","termsMarkdown":"$4"}],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4Mo8kWpDJ4hjGBOQ6Qxv2"}
 5:["$","script","script-0",{"src":"/_next/static/chunks/13u5uctbjqcx9.js","async":true}]
 6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
 9:null
