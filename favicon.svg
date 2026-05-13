@@ -1,0 +1,22 @@
+<svg width="108" height="108" viewBox="0 0 108 108" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgLinear" x1="0" y1="0" x2="108" y2="108" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#12355B" />
+      <stop offset="1" stop-color="#0B1220" />
+    </linearGradient>
+    <radialGradient id="bgRadial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(42 30) rotate(90) scale(86)">
+      <stop offset="0" stop-color="#F97316" stop-opacity="0.25" />
+      <stop offset="0.55" stop-color="#F97316" stop-opacity="0.08" />
+      <stop offset="1" stop-color="#F97316" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <rect width="108" height="108" fill="url(#bgLinear)" />
+  <rect width="108" height="108" fill="url(#bgRadial)" />
+
+  <circle cx="54" cy="54" r="31" stroke="white" stroke-opacity="0.45" stroke-width="2" />
+  <circle cx="54" cy="54" r="24" stroke="white" stroke-opacity="0.7" stroke-width="2.8" />
+  <circle cx="54" cy="54" r="17" stroke="white" stroke-width="3.5" />
+  <circle cx="54" cy="54" r="12" fill="#C75144" />
+  <path d="M54 63C54 63 44 57 44 52C44 49 46 47 49 47C51 47 53 49 54 51C55 49 57 47 59 47C62 47 64 49 64 52C64 57 54 63 54 63Z" fill="white" />
+</svg>
