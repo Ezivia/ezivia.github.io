@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[8540,["/_next/static/chunks/1666p1wz8932..js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/17762mczvjwcn.js"],"LegalClientPage"]
-2d:I[97367,["/_next/static/chunks/1666p1wz8932..js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+2:I[8540,["/_next/static/chunks/0-7kr6xcy8c1g.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/17762mczvjwcn.js"],"LegalClientPage"]
+2d:I[97367,["/_next/static/chunks/0-7kr6xcy8c1g.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
 2e:"$Sreact.suspense"
 3:Te21,# Politica de privacidad de Ezivia
 
@@ -2962,7 +2962,7 @@ Estos terminos se rigen por la legislacion espanola. Para conflictos, seran comp
 
 Para consultas, escribe a alex.casanova159@gmail.com.
 
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"privacyMarkdownByLocale":{"es":"$3","en":"$4","zh":"$5","hi":"$6","fr":"$7","ar":"$8","bn":"$9","pt":"$a","ru":"$b","ur":"$c","id":"$d","de":"$e","ja":"$f","sw":"$10","mr":"$11","te":"$12","tr":"$13","ta":"$14","vi":"$15","ko":"$16"},"termsMarkdownByLocale":{"es":"$17","en":"$18","zh":"$19","hi":"$1a","fr":"$1b","ar":"$1c","bn":"$1d","pt":"$1e","ru":"$1f","ur":"$20","id":"$21","de":"$22","ja":"$23","sw":"$24","mr":"$25","te":"$26","tr":"$27","ta":"$28","vi":"$29","ko":"$2a"}}],["$L2b"],"$L2c"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gJkfOY-yeXMWwnE2uqLhM"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"privacyMarkdownByLocale":{"es":"$3","en":"$4","zh":"$5","hi":"$6","fr":"$7","ar":"$8","bn":"$9","pt":"$a","ru":"$b","ur":"$c","id":"$d","de":"$e","ja":"$f","sw":"$10","mr":"$11","te":"$12","tr":"$13","ta":"$14","vi":"$15","ko":"$16"},"termsMarkdownByLocale":{"es":"$17","en":"$18","zh":"$19","hi":"$1a","fr":"$1b","ar":"$1c","bn":"$1d","pt":"$1e","ru":"$1f","ur":"$20","id":"$21","de":"$22","ja":"$23","sw":"$24","mr":"$25","te":"$26","tr":"$27","ta":"$28","vi":"$29","ko":"$2a"}}],["$L2b"],"$L2c"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"G6mkhLf9mnQXl1X6V9v3H"}
 2b:["$","script","script-0",{"src":"/_next/static/chunks/17762mczvjwcn.js","async":true}]
 2c:["$","$L2d",null,{"children":["$","$2e",null,{"name":"Next.MetadataOutlet","children":"$@2f"}]}]
 2f:null
